@@ -48,3 +48,4 @@ https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warne
 https://www.theverge.com/transportation/824381/tesla-fsd-safety-data-flaws-misleading|Tesla is getting better about reporting FSD crash data — but the numbers are still misleading
 https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse|Meta&#8217;s Hyperscape is ready to turn your real living room into a VR hangout
 https://www.theverge.com/news/825667/google-nano-banana-pro-test|Google&#8217;s new AI image creator took my shirt off
+https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai|Microsoft&#8217;s AI-powered copy and paste can now use on-device AI

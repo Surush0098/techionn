@@ -81,14 +81,14 @@ def analyze_and_score_news(title, summary):
     Categorize based on these rules:
 
     --- VIP (Must Publish) 💎 ---
-    1. Fundraising / Investment (Series A, B, IPO, M&A).
+    1. Fundraising / Investment.
     2. Innovative Ideas / Early-stage Startups.
     3. Market Statistics / Growth Reports.
     4. Obscure/Small country startups raising money.
 
     --- NORMAL (Publish) 🔥 ---
     1. Major Tech Shifts (AI breakthroughs).
-    2. Strategic Business Moves (Not simple HR).
+    2. Strategic Business Moves.
 
     --- REJECT (Do Not Publish) 🗑️ ---
     1. Gadget Reviews (Phones, Laptops).
@@ -108,30 +108,31 @@ def analyze_and_score_news(title, summary):
     except: return "REJECT"
 
 def generate_content(title, content, category, is_foreign):
-    # تعیین نوع هشتگ ثابت بر اساس منبع
+    # تعیین هشتگ ثابت
     fixed_hashtag = "#نیوز" if is_foreign else "#خبر"
     
-    # دستورالعمل برای خارجی‌ها (قصه‌گویی) یا ایرانی‌ها (بازنویسی)
+    # دستورالعمل رسمی برای ترجمه و بازنویسی
     if is_foreign:
-        style_instr = "Do NOT translate word-for-word. Read the story, understand it, and RETELL it in fluent, engaging Persian (Storytelling mode)."
+        style_instr = "Read the story and RETELL it in formal, professional Persian (News Anchor style). Do NOT translate word-for-word."
     else:
-        style_instr = "Rewrite the text in fluent, engaging Persian. Make it punchy and interesting."
+        style_instr = "Rewrite the text in formal, professional Persian (Journalistic style)."
 
     # تعیین طول متن
     length_instr = "Write 5 to 11 lines." if category == "VIP" else "Write 4 to 7 lines."
 
     prompt = f"""
-    Role: Tech Storyteller for @techionn.
+    Role: Senior Tech Journalist for a formal News Channel (@techionn).
     Original Title: {title}
     Content: {content}
     
     Task:
-    1. **Headline:** Start with a BOLD Persian headline (catchy and relevant). Do NOT use the English title.
+    1. **Headline:** Start immediately with a BOLD, professional Persian headline.
     2. **Body:** {style_instr}
        - {length_instr}
-       - Tone: Friendly, insightful, like a tech vlogger explaining to a friend.
-       - **FORBIDDEN:** Do NOT use words like "خلاصه", "ترجمه", "متن خبر". Just dive into the story.
-       - **Smart Context:** If mentioning an unknown startup/company, add a footer line with '💡' explaining it briefly.
+       - Tone: **Formal, Professional, News-style (Press tone).**
+       - **STRICTLY FORBIDDEN:** Do NOT use greetings (Hello, Friends, Guys, Rofagha). Do NOT use slang or casual street language.
+       - Start the text directly with the news facts.
+       - **Smart Context:** If mentioning an unknown startup, add a footer line with '💡' explaining it briefly.
     3. **Hashtags:** - Add exactly 3 hashtags at the end.
        - First one MUST be: {fixed_hashtag}
        - Generate 2 other relevant hashtags in Persian.
@@ -144,35 +145,23 @@ def generate_content(title, content, category, is_foreign):
     except: return None
 
 def extract_image(entry):
-    """استخراج قوی‌تر عکس"""
     try:
-        # اولویت 1: مدیا کانتنت (استاندارد RSS)
-        if 'media_content' in entry: 
-            return entry.media_content[0]['url']
-        
-        # اولویت 2: لینک‌های ضمیمه (Enclosures)
+        if 'media_content' in entry: return entry.media_content[0]['url']
         if 'links' in entry:
             for l in entry.links:
-                if l.type.startswith('image/') and 'href' in l:
-                    return l.href
+                if l.type.startswith('image/') and 'href' in l: return l.href
         
-        # اولویت 3: جستجو در محتوای HTML
         content_to_parse = ""
-        if 'content' in entry:
-            content_to_parse += entry.content[0].value
-        if 'summary' in entry:
-            content_to_parse += entry.summary
+        if 'content' in entry: content_to_parse += entry.content[0].value
+        if 'summary' in entry: content_to_parse += entry.summary
             
         if content_to_parse:
             soup = BeautifulSoup(content_to_parse, 'html.parser')
-            # پیدا کردن اولین عکس معتبر
             images = soup.find_all('img')
             for img in images:
                 if 'src' in img.attrs:
-                    # فیلتر کردن آیکون‌های کوچک یا ایموجی‌ها
                     src = img['src']
-                    if 'icon' not in src and 'emoji' not in src:
-                        return src
+                    if 'icon' not in src and 'emoji' not in src: return src
     except: pass
     return None
 
@@ -209,7 +198,6 @@ def check_feeds():
                     if pub_date > time_threshold:
                         if entry.link in history_links: continue
                         
-                        # آنالیز
                         text_analysis = entry.summary if 'summary' in entry else entry.title
                         category = analyze_and_score_news(entry.title, text_analysis)
                         
@@ -217,19 +205,14 @@ def check_feeds():
                             print(f"Rejected: {entry.title}")
                             continue
                         
-                        # چک تکراری
                         if check_is_duplicate_topic(entry.title, history_lines):
                             save_to_history(entry.link, entry.title)
                             continue
                         
-                        # تولید محتوا
                         full_content = entry.content[0].value if 'content' in entry else entry.summary
                         summary = generate_content(entry.title, full_content, category, is_foreign)
                         
                         if summary:
-                            # آیکون برای لاگ یا دیباگ (در تلگرام نشون داده نمیشه چون تو متن خود هوش مصنوعیه)
-                            # ما اینجا مستقیم خروجی هوش مصنوعی رو میفرستیم که خودش تیتر داره
-                            
                             send_to_telegram(summary, extract_image(entry))
                             print(f"Sent: {entry.title}")
                             save_to_history(entry.link, entry.title)

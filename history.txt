@@ -51,3 +51,4 @@ https://www.theverge.com/news/825667/google-nano-banana-pro-test|Google&#8217;s 
 https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai|Microsoft&#8217;s AI-powered copy and paste can now use on-device AI
 https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by|Grok 4.1 Fast's compelling dev access and Agent Tools API overshadowed by Musk glazing
 https://www.zoomit.ir/car/452319-xiaomi-auto-500000th-vehicle-production-china/|شیائومی تاکنون نیم میلیون خودرو تولید کرده است
+https://www.zoomit.ir/windows/452336-windows-arm-snapdragon-gaming-driver/|تغییرات بزرگ در ویندوز آرم، لبخند به لب گیمرها خواهد آورد

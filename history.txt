@@ -49,3 +49,4 @@ https://www.theverge.com/transportation/824381/tesla-fsd-safety-data-flaws-misle
 https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse|Meta&#8217;s Hyperscape is ready to turn your real living room into a VR hangout
 https://www.theverge.com/news/825667/google-nano-banana-pro-test|Google&#8217;s new AI image creator took my shirt off
 https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai|Microsoft&#8217;s AI-powered copy and paste can now use on-device AI
+https://venturebeat.com/ai/grok-4-1-fasts-compelling-dev-access-and-agent-tools-api-overshadowed-by|Grok 4.1 Fast's compelling dev access and Agent Tools API overshadowed by Musk glazing

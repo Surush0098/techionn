@@ -63,3 +63,4 @@ https://techcrunch.com/2025/11/21/the-european-startup-market-is-ready-for-the-l
 https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley|The new silicon valley (literally)
 https://www.zoomit.ir/car/452370-range-rover-holland-edition/|مدل لوکس رنج روور برای رقابت با رولزرویس کالینان رونمایی شد
 https://www.zoomit.ir/business/452389-samsung-reshuffles-leadership/|ساختار مدیریتی سامسونگ تغییری بزرگی تجربه می‌کند
+https://venturebeat.com/data-infrastructure/ai-agent-evaluation-replaces-data-labeling-as-the-critical-path-to|AI agent evaluation replaces data labeling as the critical path to production deployment

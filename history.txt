@@ -100,3 +100,4 @@ https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience|Apple TV
 https://www.zoomit.ir/ai-articles/452375-ai-3d-name-studio-portrait/|نام خود را به دکور سه‌بعدی تبدیل کنید و عکس آتلیه‌ای بسازید
 https://www.zoomit.ir/tech-iran/452523-filimomadrese-free-airpollution-schoolclosure/|فیلیمو مدرسه به دلیل تداوم آلودگی هوا خدمات خود را رایگان کرد
 https://www.zoomit.ir/ai-articles/452295-google-opal-overview/|چگونه با گوگل اُپال بدون دانش کدنویسی، مینی‌اپ‌های کاربردی بسازیم؟
+https://www.zoomit.ir/ai-articles/452504-nano-banana-pro-persian-typography/|چگونه با نانو بانانا پرو تصاویر دقیق با نوشتار فارسی خلق کنیم؟

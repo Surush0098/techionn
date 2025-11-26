@@ -179,3 +179,4 @@ https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-persona
 https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal|Warner Music Group partners with Suno to offer AI likenesses of its artists
 https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order|David Sacks tried to kill state AI laws — and it blew up in his face
 https://techcrunch.com/2025/11/25/why-hold-forever-investors-are-snapping-up-venture-capital-zombies/|Why ‘hold forever’ investors are snapping up venture capital ‘zombies’
+https://venturebeat.com/ai/black-forest-labs-launches-flux-2-ai-image-models-to-challenge-nano-banana|Black Forest Labs launches Flux.2 AI image models to challenge Nano Banana Pro and Midjourney

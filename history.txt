@@ -232,3 +232,4 @@ https://www.theverge.com/report/829137/openai-chatgpt-time-date|Why can’t Chat
 https://www.zoomit.ir/ai-articles/452748-how-prompt-turn-ai-world-best-coach/|هوش مصنوعی با پرامپت مناسب به بهترین مربی جهان تبدیل می‌شود
 https://www.theverge.com/news/831451/china-humanoid-robotics-bubble|A humanoid robot-shaped bubble is forming, China warns
 https://techcrunch.com/2025/11/27/glid-won-startup-battlefield-2025-by-building-solutions-to-make-logistics-simpler-safer-and-smarter/|Glīd won Startup Battlefield 2025 by building solutions to make logistis simpler, safer, and smarter
+https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad|How Microsoft’s developers are using AI

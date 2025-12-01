@@ -345,3 +345,4 @@ https://www.zoomit.ir/business/453014-accenture-openai-chatgpt-partnership/|اک
 https://www.zoomit.ir/zoomplus/452993-zoobin-ai-comment-summary/|بخش خلاصه نظرات کاربران با کمک هوش مصنوعی به زوبین اضافه شد
 https://www.theverge.com/news/834998/india-sanchar-saathi-app-order-apple-android|India is ordering Apple and other phone makers to preinstall a state-owned app
 https://www.zoomit.ir/tech/452986-humanoid-robots-enter-xiaomi-factories/|ربات‌های انسان‌نما در راه کارخانه‌های بزرگ شیائومی هستند
+https://venturebeat.com/ai/mit-offshoot-liquid-ai-releases-blueprint-for-enterprise-grade-small-model|MIT offshoot Liquid AI releases blueprint for enterprise-grade small-model training

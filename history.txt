@@ -342,3 +342,4 @@ https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch|Runwa
 https://www.zoomit.ir/os/452947-windows-12-all-expectations/|ویندوز ۱۲ کی میاد
 https://www.zoomit.ir/mobile/453012-mystery-samsung-device-wide-fold/|گوشی مرموز با نمایشگر تاشدنی عریض؛ سامسونگ چه برنامه‌ای برای آینده دارد؟
 https://www.zoomit.ir/business/453014-accenture-openai-chatgpt-partnership/|اکسنچر به سراغ اوپن‌ای‌آی رفت؛ هوش مصنوعی در راه صنعت مشاوره
+https://www.zoomit.ir/zoomplus/452993-zoobin-ai-comment-summary/|بخش خلاصه نظرات کاربران با کمک هوش مصنوعی به زوبین اضافه شد

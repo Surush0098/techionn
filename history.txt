@@ -403,3 +403,4 @@ https://techcrunch.com/2025/12/02/the-future-of-deep-tech-will-be-explained-to-y
 https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense|Google is experimentally replacing news headlines with AI clickbait nonsense
 https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter|Amazon’s bet that AI benchmarks don’t matter
 https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/|Kalshi raises $1B at $11B valuation, doubling value in under two months
+https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping|Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner

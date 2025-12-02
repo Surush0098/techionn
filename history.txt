@@ -359,3 +359,4 @@ https://www.theverge.com/news/835453/openai-ownership-thrive-holdings|OpenAI jus
 https://www.theverge.com/news/835525/samsung-z-trifold-announcement-us-availability|Samsung’s Z TriFold is official and it looks like a tablet with a phone attached
 https://venturebeat.com/ai/arcee-aims-to-reboot-u-s-open-source-ai-with-new-trinity-models-released|Arcee aims to reboot U.S. open source AI with new Trinity models released under Apache 2.0
 https://www.zoomit.ir/ai-articles/453021-apple-new-ai-chief-google-microsoft-expertise/|رهبر هوش مصنوعی اپل تغییر کرد؛ پس‌لرزه مشکلات سیری
+https://www.zoomit.ir/tech-iran/453026-online-gold-platform-regulations-approved/|صدور مجوز پلتفرم‌های طلا به اتحادیه کسب‌وکارهای مجازی سپرده شد

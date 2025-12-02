@@ -385,3 +385,4 @@ https://www.theverge.com/news/836337/amazon-now-30-minute-delivery-tests|Amazon 
 https://www.zoomit.ir/ai-articles/453060-openai-code-red-chatgpt/|گوگل نزدیک‌تر از همیشه؛ خالق ChatGPT «وضعیت قرمز» اعلام کرد
 https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects|It&#8217;s their job to keep AI from destroying everything
 https://www.theverge.com/news/836384/apple-india-sanchar-saathi-app-response|Apple will reportedly refuse India&#8217;s order to preinstall a government app
+https://www.zoomit.ir/ai-articles/453001-essential-gemini-gems-productivity-guide/|قابلیت Gems در جمنای: هرآنچه برای ساخت هوش مصنوعی سفارشی خود باید بدانید

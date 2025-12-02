@@ -387,3 +387,4 @@ https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-im
 https://www.theverge.com/news/836384/apple-india-sanchar-saathi-app-response|Apple will reportedly refuse India&#8217;s order to preinstall a government app
 https://www.zoomit.ir/ai-articles/453001-essential-gemini-gems-productivity-guide/|قابلیت Gems در جمنای: هرآنچه برای ساخت هوش مصنوعی سفارشی خود باید بدانید
 https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/|Simular’s AI agent wants to run your Mac, Windows PC for you
+https://venturebeat.com/ai/mistral-launches-mistral-3-a-family-of-open-models-designed-to-run-on|Mistral launches Mistral 3, a family of open models designed to run on laptops, drones, and edge devices

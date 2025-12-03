@@ -405,3 +405,4 @@ https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter|Amazon�
 https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/|Kalshi raises $1B at $11B valuation, doubling value in under two months
 https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping|Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner
 https://venturebeat.com/data-infrastructure/aws-claims-90-vector-cost-savings-with-s3-vectors-ga-calls-it-complementary|AWS claims 90% vector cost savings with S3 Vectors GA, calls it 'complementary' - analysts split on what it means for vector databases
+https://www.zoomit.ir/processor/453092-samsung-confirms-exynos-2600-chip/|«به حرف شما گوش دادیم»؛ سامسونگ برای اولین‌بار به پردازنده اگزینوس ۲۶۰۰ اشاره کرد

@@ -436,3 +436,4 @@ https://www.theverge.com/news/837209/india-sanchar-saathi-app-requirement-droppe
 https://www.theverge.com/news/837364/linux-usage-steam-hardware-survey-november-2025|Linux usage on Steam hits a record high for the second month in a row
 https://www.zoomit.ir/ai-articles/453138-live-weather-3d-art-prompt/|با هوش مصنوعی از آب‌وهوای شهر خود کارت‌پستال زنده بسازید
 https://www.theverge.com/news/837246/honeywell-home-x8s-smart-thermostat-launches-matter-ring-compatibility|This new Honeywell Home smart thermostat can answer your Ring doorbell
+https://www.zoomit.ir/memory/453114-samsung-supply-half-socamm2-dram-chips-nvidia/|سامسونگ نیمی از رم موردنیاز انویدیا را تأمین خواهد کرد

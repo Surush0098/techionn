@@ -474,3 +474,4 @@ https://www.theverge.com/ai-artificial-intelligence/837950/yahoo-sports-game-bre
 https://www.zoomit.ir/software-application/453196-eu-probing-meta-over-whatsapp-ai-chatbot-restrictions/|محدویت هوش مصنوعی در واتساپ؛ تحقیقات اروپا علیه متا آغاز می‌شود
 https://venturebeat.com/ai/aws-launches-kiro-powers-with-stripe-figma-and-datadog-integrations-for-ai|AWS launches Kiro powers with Stripe, Figma, and Datadog integrations for AI-assisted coding
 https://venturebeat.com/ai/gong-study-sales-teams-using-ai-generate-77-more-revenue-per-rep|Gong study: Sales teams using AI generate 77% more revenue per rep
+https://www.theverge.com/news/838127/proton-sheets-spreadsheet-app-privacy|Proton now has an end-to-end encrypted spreadsheet app

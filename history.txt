@@ -528,3 +528,4 @@ https://www.zoomit.ir/ai-articles/453253-meta-ai-licensing-cnn-fox-news/|متا 
 https://www.zoomit.ir/mobile/453252-xiaomi-17s-xring-o2-chip/|شیائومی 17S با نسل جدید پردازنده اختصاصی در راه است
 https://www.zoomit.ir/ai-articles/453242-ai-godfather-google-overtaking-openai/|پدرخوانده هوش مصنوعی: گوگل در نبرد با OpenAI پیروز می‌شود
 https://techcrunch.com/2025/12/05/this-startup-built-a-fitbit-for-your-brain-to-combat-chronic-stress/|This startup built a Fitbit for your brain to combat chronic stress
+https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/|Meta acquires AI device startup Limitless

@@ -533,3 +533,4 @@ https://www.theverge.com/tech/839294/chamberlain-myq-garage-door-opener-update-b
 https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/|AWS needs you to believe in AI agents
 https://www.theverge.com/entertainment/839480/netflix-warner-bros-acquisition-hbo-theatrical-releases-layoffs|Welcome to the big leagues, Netflix
 https://techcrunch.com/2025/12/05/ex-googlers-yoodli-triples-valuation-to-300m-with-ai-built-to-assist-not-replace-people/|Ex-Googler’s Yoodli triples valuation to $300M+ with AI built to assist, not replace, people
+https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/|Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation

@@ -538,3 +538,4 @@ https://www.zoomit.ir/mobile/453262-intel-iphone-chips-rumor/|تغییر مهم 
 https://www.zoomit.ir/ai-articles/453269-chatgpts-user-growth-slowed-report-finds/|چت‌بات ChatGPT حالا ۸۱۰ میلیون کاربر فعال ماهانه دارد؛ اختلاف چشمگیر با رقبا
 https://startup360.ir/meesho-ipo-draws-28-billion-investment/|استقبال تاریخی سرمایه‌گذاران از عرضه اولیه میشو؛ ثبت سفارش ۲۸ میلیارد دلاری
 https://startup360.ir/meta-ai-licensing-deals-cnn-fox-news/|متا برای تقویت چت‌بات خود با سی‌ان‌ان، یو‌اس‌ای تودی و فاکس‌نیوز قرارداد بست
+https://startup360.ir/geoffrey-hinton-says-google-overtaking-openai/|پیش‌بینی پدرخوانده هوش مصنوعی: گوگل در حال سبقت گرفتن از OpenAI است

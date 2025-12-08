@@ -559,3 +559,4 @@ https://www.zoomit.ir/tech-iran/453417-irancell-scholarship-success-1404/|ایر
 https://www.zoomit.ir/tech-iran/453387-achare-report-on-saving-customers-time/|ثبت روزانه بیش از ۵ هزار سفارش خدمات در آچاره؛ ۱۵۰ سال صرفه‌جویی در زمان کاربران
 https://www.zoomit.ir/gaming/453369-ps5-dominated-black-friday-console-sales/|فروش کنسول‌ها در بلک فرایدی؛ PS5 حکمران بازار بریتانیا شد
 https://www.zoomit.ir/tech-iran/453418-economic-committee-approves-digital-economy-bill/|کلیات طرح «رفع موانع و توسعه اقتصاد دیجیتال» تصویب شد؛ هیچ نهادی نمی‌تواند علیه پلتفرم‌ها شکایت کند
+https://venturebeat.com/ai/anthropics-claude-code-can-now-read-your-slack-messages-and-write-code-for|Anthropic's Claude Code can now read your Slack messages and write code for you

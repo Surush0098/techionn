@@ -565,3 +565,4 @@ https://venturebeat.com/ai/the-ai-that-scored-95-until-consultants-learned-it-wa
 https://startup360.ir/netflix-considered-buying-ea-disney-warner/|گزارش‌ها از تمایل پیشین نتفلیکس به تصاحب الکترونیک آرتز و دیزنی خبر می‌دهند
 https://www.zoomit.ir/business/453561-jeff-williams-disney-board/|مدیر سابق عملیات اپل به هیئت‌مدیره دیزنی ملحق می‌شود
 https://www.zoomit.ir/ai-articles/453541-pentagon-military-ai-platform/|هوش مصنوعی گوگل جمنای به خدمت زیرساخت‌های نظامی آمریکا در می‌آید
+https://www.theverge.com/news/841809/meta-avocado-ai-model-charge-open-source-mark-zuckerberg|Meta might charge for a future AI model

@@ -653,3 +653,4 @@ https://techcrunch.com/2026/01/01/even-as-global-crop-prices-fall-indias-arya-ag
 https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain|Petkit’s first automatic wet food feeder keeps track of how much your pet eats
 https://www.zoomit.ir/tech/454968-high-volume-production-neuralink-brain-chips/|تراشه مغزی برای همه؛ رویای جدید و جسورانه ایلان ماسک
 https://www.zoomit.ir/social-network/454985-social-media-minor-youth-ban-rules/|بزرگ‌ترین موج مسدودی اکانت‌های زیر ۱۶ سال اینستاگرام در راه است
+https://venturebeat.com/infrastructure/inference-is-splitting-in-two-nvidias-usd20b-groq-bet-explains-its-next-act|Nvidia just admitted the general-purpose GPU era is ending

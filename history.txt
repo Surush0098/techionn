@@ -689,3 +689,4 @@ https://www.theverge.com/games/859675/diora-review-playdate-monument-valley|The 
 https://www.theverge.com/featured-video/860104/we-tried-to-get-humanoid-robots-to-do-the-laundry|We tried to get humanoid robots to do the laundry
 https://techcrunch.com/2026/01/10/spacex-gets-fcc-approval-to-launch-7500-more-starlink-satellites/|SpaceX gets FCC approval to launch 7,500 more Starlink satellites
 https://www.theverge.com/tech/859724/wing-walmart-drone-delivery-expansion-2027|Wing’s drone delivery is coming to 150 more Walmarts
+https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on|Google’s AI Inbox could be a glimpse of Gmail’s future

@@ -695,3 +695,4 @@ https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemi
 https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization|Apple picks Google’s Gemini AI for its big Siri upgrade
 https://www.theverge.com/news/860581/amazon-prime-alexa-plus-automatic-upgrade|Amazon has started automatically upgrading Prime members to Alexa Plus
 https://www.theverge.com/games/860492/palworld-trading-card-game-release-date|A Palworld trading card game is coming this summer
+https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement|Microsoft is retiring its Office Lens app on iOS and Android

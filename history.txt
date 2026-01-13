@@ -696,3 +696,4 @@ https://www.theverge.com/news/860521/apple-siri-google-gemini-ai-personalization
 https://www.theverge.com/news/860581/amazon-prime-alexa-plus-automatic-upgrade|Amazon has started automatically upgrading Prime members to Alexa Plus
 https://www.theverge.com/games/860492/palworld-trading-card-game-release-date|A Palworld trading card game is coming this summer
 https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement|Microsoft is retiring its Office Lens app on iOS and Android
+https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/|Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz

@@ -698,3 +698,4 @@ https://www.theverge.com/games/860492/palworld-trading-card-game-release-date|A 
 https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement|Microsoft is retiring its Office Lens app on iOS and Android
 https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/|Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz
 https://www.theverge.com/news/861124/pc-market-growth-q4-2025-idc|PC shipments just grew unexpectedly amid RAM shortages
+https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and|Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI

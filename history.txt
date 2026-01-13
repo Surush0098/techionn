@@ -699,3 +699,4 @@ https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-re
 https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/|Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz
 https://www.theverge.com/news/861124/pc-market-growth-q4-2025-idc|PC shipments just grew unexpectedly amid RAM shortages
 https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and|Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI
+https://www.theverge.com/ai-artificial-intelligence/860989/apple-google-gemini-siri-ai-deal-what-it-means|What Apple and Google’s Gemini deal means for both companies

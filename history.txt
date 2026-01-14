@@ -701,3 +701,4 @@ https://www.theverge.com/news/861124/pc-market-growth-q4-2025-idc|PC shipments j
 https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and|Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI
 https://www.theverge.com/ai-artificial-intelligence/860989/apple-google-gemini-siri-ai-deal-what-it-means|What Apple and Google’s Gemini deal means for both companies
 https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-into-insights/|SkyFi raises $12.7M to turn satellite images into insights
+https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/|VoiceRun nabs $5.5M to build voice agent factory

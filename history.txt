@@ -704,3 +704,4 @@ https://techcrunch.com/2026/01/14/skyfi-raises-12-7m-to-turn-satellite-images-in
 https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/|VoiceRun nabs $5.5M to build voice agent factory
 https://venturebeat.com/orchestration/ai-agents-can-talk-orchestration-is-what-makes-them-work-together|AI agents can talk — orchestration is what makes them work together
 https://www.theverge.com/news/861705/tesla-fsd-stop-selling-standalone-subscription-only|Tesla to stop selling FSD as a standalone package and switch to subscription only
+https://www.theverge.com/news/861413/honda-acura-rdx-two-motor-hybrid-base-station-rv|Honda relaunching Acura RDX as a next-gen two-motor hybrid

@@ -707,3 +707,4 @@ https://www.theverge.com/news/861705/tesla-fsd-stop-selling-standalone-subscript
 https://www.theverge.com/news/861413/honda-acura-rdx-two-motor-hybrid-base-station-rv|Honda relaunching Acura RDX as a next-gen two-motor hybrid
 https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation|Microsoft, Meta, and Amazon are paying up for &#8216;enterprise&#8217; access to Wikipedia
 https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website|OpenAI’s ChatGPT translator challenges Google Translate
+https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-style-reuse-bet-from-india/|Indian SpaceX rival EtherealX hits 5x valuation as it readies engine tests

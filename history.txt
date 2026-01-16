@@ -711,3 +711,4 @@ https://techcrunch.com/2026/01/15/etherealx-jumps-5-5x-in-valuation-on-spacex-st
 https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news|RAM price hikes: the latest on the global memory shortage
 https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/|AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp
 https://www.theverge.com/features/861950/fire-resilient-home-neighborhood|How to fireproof a city
+https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/|The rise of ‘micro’ apps: non-developers are writing apps instead of buying them

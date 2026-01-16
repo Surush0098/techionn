@@ -713,3 +713,4 @@ https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-w
 https://www.theverge.com/features/861950/fire-resilient-home-neighborhood|How to fireproof a city
 https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/|The rise of ‘micro’ apps: non-developers are writing apps instead of buying them
 https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai|Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews
+https://venturebeat.com/technology/kilo-launches-ai-powered-slack-bot-that-ships-code-from-a-chat-message|Kilo launches AI-powered Slack bot that ships code from a chat message

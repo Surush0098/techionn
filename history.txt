@@ -727,3 +727,4 @@ https://www.theverge.com/news/864585/nova-launcher-instabridge-acquisition-owner
 https://www.theverge.com/news/864784/openai-chatgpt-age-prediction-restrictions-rollout|ChatGPT is using age prediction to restrict what minors see
 https://www.theverge.com/news/864798/openai-data-center-opposition-energy-bills|OpenAI says its data centers will pay for own energy and limit water usage
 https://venturebeat.com/orchestration/what-servicenow-and-openai-signal-for-enterprises-as-ai-moves-from-advice-to|What ServiceNow and OpenAI signal for enterprises as AI moves from advice to execution
+https://techcrunch.com/2026/01/22/tiger-global-microsoft-to-fully-exit-walmart-backed-phonepe-via-its-ipo/|Tiger Global, Microsoft to fully exit Walmart-backed PhonePe via its IPO

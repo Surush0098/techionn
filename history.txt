@@ -730,3 +730,4 @@ https://venturebeat.com/orchestration/what-servicenow-and-openai-signal-for-ente
 https://techcrunch.com/2026/01/22/tiger-global-microsoft-to-fully-exit-walmart-backed-phonepe-via-its-ipo/|Tiger Global, Microsoft to fully exit Walmart-backed PhonePe via its IPO
 https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/|Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it
 https://www.zoomit.ir/ai-tutorials/455811-ollama-run-local-llm-guide/|هوش مصنوعی بدون نیاز به اینترنت؛ راهنمای جامع اجرای آفلاین مدل‌ها با Ollama
+https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book|Microsoft Paint can now make AI coloring books

@@ -735,3 +735,4 @@ https://techcrunch.com/2026/01/23/this-startup-will-send-1000-peoples-ashes-to-s
 https://www.zoomit.ir/iran-news/455838-illegal-bitcoin-mining-iran-internet-cut-hashrate/|با قطع اینترنت ایران، هش‌ریت جهانی بیت‌کوین حدود ۱۰ درصد افت کرد
 https://www.zoomit.ir/op-ed/455873-optimic-vs-fibre-in-iran/|باخت سه بر صفر فیبرنوری به استارلینک
 https://www.zoomit.ir/report/455862-internet-cut-advertising-digital-media-crisis/|۱۸ روز قطعی اینترنت درآمد ۶۰ درصد از ناشران آنلاین تبلیغات را کاهش داد
+https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/|Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it

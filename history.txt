@@ -733,3 +733,4 @@ https://www.zoomit.ir/ai-tutorials/455811-ollama-run-local-llm-guide/|هوش م�
 https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book|Microsoft Paint can now make AI coloring books
 https://techcrunch.com/2026/01/23/this-startup-will-send-1000-peoples-ashes-to-space-affordably-in-2027/|This startup will send 1,000 people’s ashes to space — affordably — in 2027
 https://www.zoomit.ir/iran-news/455838-illegal-bitcoin-mining-iran-internet-cut-hashrate/|با قطع اینترنت ایران، هش‌ریت جهانی بیت‌کوین حدود ۱۰ درصد افت کرد
+https://www.zoomit.ir/op-ed/455873-optimic-vs-fibre-in-iran/|باخت سه بر صفر فیبرنوری به استارلینک

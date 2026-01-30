@@ -748,3 +748,4 @@ https://startup360.ir/google-fiber-triples-speed-3-gig-plan/|سرعت اینتر
 https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey|Half of developers think gen AI is bad for the gaming industry
 https://www.zoomit.ir/business/456093-iphone-best-quarter-ever/|درخشان‌ترین فصل تاریخ آیفون ثبت شد
 https://www.zoomit.ir/economics/456092-apple-1q-2026-earnings/|درآمد خیره‌کننده اپل: ۱۴۳٫۸ میلیارد دلار در سه ماه!
+https://venturebeat.com/orchestration/ai-models-that-simulate-internal-debate-dramatically-improve-accuracy-on|AI models that simulate internal debate dramatically improve accuracy on complex tasks

@@ -770,3 +770,4 @@ https://www.zoomit.ir/pr/456329-adtrace/|گزارش ادتریس از تغییر
 https://www.zoomit.ir/report/456304-telegram-proxy-trends-during-iran-internet-blackout/|انتشار پروکسی و کانفیگ رکورد شکست؛ ۶۲۲ هزار تلاش برای اتصال در روزهای قطعی اینترنت
 https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/|Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips
 https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy|Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy
+https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available|Amazon rolls out Alexa Plus nationwide and launches a new free tier

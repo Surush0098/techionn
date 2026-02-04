@@ -772,3 +772,4 @@ https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-tak
 https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy|Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy
 https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-available|Amazon rolls out Alexa Plus nationwide and launches a new free tier
 https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt|Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT
+https://www.theverge.com/entertainment/873779/spotify-lyrics-offline-translations-previews|Spotify launches offline lyrics, translations, and lyric previews

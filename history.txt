@@ -774,3 +774,4 @@ https://www.theverge.com/news/873702/amazon-alexa-plus-ai-assistant-now-availabl
 https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt|Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT
 https://www.theverge.com/entertainment/873779/spotify-lyrics-offline-translations-previews|Spotify launches offline lyrics, translations, and lyric previews
 https://www.theverge.com/streaming/873416/piracy-streaming-boxes|Everyone is stealing TV
+https://www.theverge.com/entertainment/874134/spotify-page-match-audiobook-sync|Spotify’s Page Match syncs your audiobooks and your physical ones

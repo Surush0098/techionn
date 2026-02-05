@@ -777,3 +777,4 @@ https://www.theverge.com/streaming/873416/piracy-streaming-boxes|Everyone is ste
 https://www.theverge.com/entertainment/874134/spotify-page-match-audiobook-sync|Spotify’s Page Match syncs your audiobooks and your physical ones
 https://www.theverge.com/entertainment/874150/spotify-bookshop-org-physical-books|Spotify is partnering with Bookshop.org to sell physical books
 https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management|OpenAI Frontier is a single platform to control your AI agents
+https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/|Fundamental raises $255 million Series A with a new take on big data analysis

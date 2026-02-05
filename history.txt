@@ -776,3 +776,4 @@ https://www.theverge.com/entertainment/873779/spotify-lyrics-offline-translation
 https://www.theverge.com/streaming/873416/piracy-streaming-boxes|Everyone is stealing TV
 https://www.theverge.com/entertainment/874134/spotify-page-match-audiobook-sync|Spotify’s Page Match syncs your audiobooks and your physical ones
 https://www.theverge.com/entertainment/874150/spotify-bookshop-org-physical-books|Spotify is partnering with Bookshop.org to sell physical books
+https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management|OpenAI Frontier is a single platform to control your AI agents

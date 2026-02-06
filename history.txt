@@ -781,3 +781,4 @@ https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a
 https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels|Reality is losing the deepfake war
 https://www.theverge.com/tech/874736/android-quick-share-apple-airdrop-support-expansion|Google is expanding AirDrop support to more Android devices ‘very soon’
 https://www.theverge.com/transportation/874551/geely-volvo-china-cars-us-software-restrictions|Can China’s No. 2 automaker make it in America?
+https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor|Apple might let you use ChatGPT from CarPlay

@@ -779,3 +779,4 @@ https://www.theverge.com/entertainment/874150/spotify-bookshop-org-physical-book
 https://www.theverge.com/ai-artificial-intelligence/874258/openai-frontier-ai-agent-platform-management|OpenAI Frontier is a single platform to control your AI agents
 https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/|Fundamental raises $255 million Series A with a new take on big data analysis
 https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels|Reality is losing the deepfake war
+https://www.theverge.com/tech/874736/android-quick-share-apple-airdrop-support-expansion|Google is expanding AirDrop support to more Android devices ‘very soon’

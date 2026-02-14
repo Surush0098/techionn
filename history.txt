@@ -807,3 +807,4 @@ https://www.zoomit.ir/pr/456494-education-system-group/|همکاران سیست�
 https://www.zoomit.ir/economics/456539-anthropic-funding-round/|جذب ۳۰ میلیارد دلار سرمایه؛ ارزش استارتاپ آنتروپیک به ۳۸۰ میلیارد دلار رسید
 https://www.zoomit.ir/business/456529-microsoft-plan-ditch-openai/|مایکروسافت ظاهرا به‌دنبال کاهش وابستگی به OpenAI است
 https://www.zoomit.ir/ai-articles/456563-better-way-remove-heat-ai-data-centers/|راهکار جدید دانشمند ایرانی، دیتاسنترهای هوش مصنوعی را خنک نگه می‌دارد
+https://www.zoomit.ir/os/456565-apple-shares-ios-26-adoption-stats/|آمار نصب iOS 26 روی آیفون‌ها برای اولین‌بار منتشر شد

@@ -806,3 +806,4 @@ https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry|This $7,999 
 https://www.zoomit.ir/pr/456494-education-system-group/|همکاران سیستم | هوش مصنوعی  در اکسل ؛ از کوپایلت تا پایتون
 https://www.zoomit.ir/economics/456539-anthropic-funding-round/|جذب ۳۰ میلیارد دلار سرمایه؛ ارزش استارتاپ آنتروپیک به ۳۸۰ میلیارد دلار رسید
 https://www.zoomit.ir/business/456529-microsoft-plan-ditch-openai/|مایکروسافت ظاهرا به‌دنبال کاهش وابستگی به OpenAI است
+https://www.zoomit.ir/ai-articles/456563-better-way-remove-heat-ai-data-centers/|راهکار جدید دانشمند ایرانی، دیتاسنترهای هوش مصنوعی را خنک نگه می‌دارد

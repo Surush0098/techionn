@@ -808,3 +808,4 @@ https://www.zoomit.ir/economics/456539-anthropic-funding-round/|جذب ۳۰ می
 https://www.zoomit.ir/business/456529-microsoft-plan-ditch-openai/|مایکروسافت ظاهرا به‌دنبال کاهش وابستگی به OpenAI است
 https://www.zoomit.ir/ai-articles/456563-better-way-remove-heat-ai-data-centers/|راهکار جدید دانشمند ایرانی، دیتاسنترهای هوش مصنوعی را خنک نگه می‌دارد
 https://www.zoomit.ir/os/456565-apple-shares-ios-26-adoption-stats/|آمار نصب iOS 26 روی آیفون‌ها برای اولین‌بار منتشر شد
+https://www.zoomit.ir/iran-news/456652-smart-judicial-case-management-ai/|رئیس قوه قضائیه: استفاده از هوش مصنوعی به قضات آموزش داده شود

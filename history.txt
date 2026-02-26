@@ -850,3 +850,4 @@ https://www.zoomit.ir/tech/457246-artificial-intelligenceamd-meta-100-billion-de
 https://www.zoomit.ir/laptop/457263-nvidia-arm-laptop-chips-dell-lenovo/|لنوو و دل لپ‌تاپ‌های مجهزبه پردازنده انویدیا می‌سازند
 https://www.zoomit.ir/iran-news/457275-inflation-imports-annual-1404-147-percent/|تورم سالانه کالای وارداتی به ۱۴۷.۲ درصد رسید
 https://startup360.ir/amazon-ceo-warning-price-increase-2026-tariffs/|مدیرعامل آمازون از موج جدید افزایش قیمت‌ها در سال ۲۰۲۶ خبر داد
+https://venturebeat.com/orchestration/8-billion-tokens-a-day-forced-at-and-t-to-rethink-ai-orchestration-and-cut|8 billion tokens a day forced AT&T to rethink AI orchestration — and cut costs by 90%

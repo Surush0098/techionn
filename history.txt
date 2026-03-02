@@ -861,3 +861,4 @@ https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub
 https://www.theverge.com/policy/886348/meta-glasses-ice-doxxing-privacy|Meta won’t let morality get in the way of a product launch
 https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/|Investors spill what they aren’t looking for anymore in AI SaaS companies
 https://www.theverge.com/gadgets/887250/vivo-x300-ultra-global-launch-telephoto-camera-cage|Vivo’s next phone will launch with a professional camera rig
+https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables|Qualcomm’s new chip is geared toward wearable AI gadgets

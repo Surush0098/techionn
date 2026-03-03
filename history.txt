@@ -870,3 +870,4 @@ https://www.theverge.com/tech/888008/big-google-home-update-lets-gemini-describe
 https://techcrunch.com/2026/03/03/fig-security-emerges-from-stealth-with-38m-to-help-security-teams-deal-with-change/|Fig Security emerges from stealth with $38M to help security teams deal with change
 https://www.theverge.com/podcast/888089/mwc-2026-6g-foldable-robot-phones-vergecast|The 6G, modular, robot phones of the future
 https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first|Xiaomi, unlike Google and Samsung, thinks camera hardware comes first
+https://www.theverge.com/tech/887899/spacex-ipo-risks-ai|Why is SpaceX going public?

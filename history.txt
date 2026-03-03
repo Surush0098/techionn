@@ -871,3 +871,4 @@ https://techcrunch.com/2026/03/03/fig-security-emerges-from-stealth-with-38m-to-
 https://www.theverge.com/podcast/888089/mwc-2026-6g-foldable-robot-phones-vergecast|The 6G, modular, robot phones of the future
 https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first|Xiaomi, unlike Google and Samsung, thinks camera hardware comes first
 https://www.theverge.com/tech/887899/spacex-ipo-risks-ai|Why is SpaceX going public?
+https://venturebeat.com/technology/google-releases-gemini-3-1-flash-lite-at-1-8th-the-cost-of-pro|Google releases Gemini 3.1 Flash Lite at 1/8th the cost of Pro

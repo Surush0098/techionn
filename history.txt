@@ -878,3 +878,4 @@ https://www.theverge.com/science/889768/bill-gates-terrapower-nuclear-wyoming-re
 https://www.theverge.com/ai-artificial-intelligence/889782/anthropic-pentagon-discussions-ai-deal|Anthropic makes last-ditch effort to salvage deal with Pentagon after blowup
 https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/|How 1,000+ customer calls shaped a breakout enterprise AI startup
 https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/|Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement
+https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts|AI tools can unmask anonymous accounts

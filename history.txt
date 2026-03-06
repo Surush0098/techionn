@@ -880,3 +880,4 @@ https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-ente
 https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/|Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement
 https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts|AI tools can unmask anonymous accounts
 https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/|City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A
+https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/|Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts

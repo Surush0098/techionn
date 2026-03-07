@@ -883,3 +883,4 @@ https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-a
 https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/|Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts
 https://venturebeat.com/orchestration/new-kv-cache-compaction-technique-cuts-llm-memory-50x-without-accuracy-loss|New KV cache compaction technique cuts LLM memory 50x without accuracy loss
 https://www.theverge.com/gadgets/891056/vizio-accounts-are-becoming-walmart-accounts|Vizio accounts are becoming Walmart accounts
+https://venturebeat.com/orchestration/langchains-ceo-argues-that-better-models-alone-wont-get-your-ai-agent-to|LangChain's CEO argues that better models alone won't get your AI agent to production

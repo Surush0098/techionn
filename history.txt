@@ -885,3 +885,4 @@ https://venturebeat.com/orchestration/new-kv-cache-compaction-technique-cuts-llm
 https://www.theverge.com/gadgets/891056/vizio-accounts-are-becoming-walmart-accounts|Vizio accounts are becoming Walmart accounts
 https://venturebeat.com/orchestration/langchains-ceo-argues-that-better-models-alone-wont-get-your-ai-agent-to|LangChain's CEO argues that better models alone won't get your AI agent to production
 https://www.theverge.com/report/891241/live-nation-ticketmaster-week-one-jury-trial|How Live Nation allegedly terrorized the concert industry
+https://venturebeat.com/technology/microsoft-says-ungoverned-ai-agents-could-become-corporate-double-agents-its|Microsoft says ungoverned AI agents could become corporate 'double agents.' Its fix costs $99 a month.

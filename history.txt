@@ -888,3 +888,4 @@ https://www.theverge.com/report/891241/live-nation-ticketmaster-week-one-jury-tr
 https://venturebeat.com/technology/microsoft-says-ungoverned-ai-agents-could-become-corporate-double-agents-its|Microsoft says ungoverned AI agents could become corporate 'double agents.' Its fix costs $99 a month.
 https://www.theverge.com/games/890010/panic-gaming-big-walk-portland-house-house|Panic’s gaming ambitions hinge on the weird and whimsical
 https://www.theverge.com/podcast/890703/hasbro-toys-games-magic-exodus-ai-tariffs|Hasbro’s CEO has an AI Peppa Pig help design toys
+https://venturebeat.com/technology/andrej-karpathys-new-open-source-autoresearch-lets-you-run-hundreds-of-ai|Andrej Karpathy's new open source 'autoresearch' lets you run hundreds of AI experiments a night — with revolutionary implications

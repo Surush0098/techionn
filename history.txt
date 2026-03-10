@@ -895,3 +895,4 @@ https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2p
 https://techcrunch.com/2026/03/10/ai-network-startup-eridu-emerges-from-stealth-with-hefty-200m-series-a/|AI network startup Eridu emerges from stealth with hefty $200M Series A
 https://www.theverge.com/tech/891755/sonos-announces-play-era-100-sl-speakers|Sonos just launched Play, a new $299 portable speaker
 https://www.theverge.com/tech/891985/irobot-roomba-mini-robot-robovac-vacuum-price-availability|iRobot’s Roomba Mini can clean where its larger robovacs can’t reach
+https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/|Mandiant’s founder just raised $190M for his autonomous AI agent security startup

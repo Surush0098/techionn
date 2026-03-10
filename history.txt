@@ -891,3 +891,4 @@ https://www.theverge.com/podcast/890703/hasbro-toys-games-magic-exodus-ai-tariff
 https://venturebeat.com/technology/andrej-karpathys-new-open-source-autoresearch-lets-you-run-hundreds-of-ai|Andrej Karpathy's new open source 'autoresearch' lets you run hundreds of AI experiments a night — with revolutionary implications
 https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/|Yann LeCun’s AMI Labs raises $1.03 billion to build world models
 https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/|Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B
+https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram|Meta’s deepfake moderation isn’t good enough, says Oversight Board

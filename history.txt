@@ -890,3 +890,4 @@ https://www.theverge.com/games/890010/panic-gaming-big-walk-portland-house-house
 https://www.theverge.com/podcast/890703/hasbro-toys-games-magic-exodus-ai-tariffs|Hasbro’s CEO has an AI Peppa Pig help design toys
 https://venturebeat.com/technology/andrej-karpathys-new-open-source-autoresearch-lets-you-run-hundreds-of-ai|Andrej Karpathy's new open source 'autoresearch' lets you run hundreds of AI experiments a night — with revolutionary implications
 https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/|Yann LeCun’s AMI Labs raises $1.03 billion to build world models
+https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/|Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B

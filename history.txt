@@ -897,3 +897,4 @@ https://www.theverge.com/tech/891755/sonos-announces-play-era-100-sl-speakers|So
 https://www.theverge.com/tech/891985/irobot-roomba-mini-robot-robovac-vacuum-price-availability|iRobot’s Roomba Mini can clean where its larger robovacs can’t reach
 https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/|Mandiant’s founder just raised $190M for his autonomous AI agent security startup
 https://techcrunch.com/2026/03/11/health-insurance-startup-alan-reaches-e5b-valuation/|Health insurance startup Alan reaches €5B valuation
+https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark|Anthropic is launching a new think tank amid Pentagon blacklist fight

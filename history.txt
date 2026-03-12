@@ -903,3 +903,4 @@ https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/|Googl
 https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation|You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer
 https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent|Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent
 https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck|Bespoke AI models are the next big thing in filmmaking
+https://www.theverge.com/tech/893594/microsoft-copilot-health-launch|Microsoft’s Copilot Health can connect to your medical records and wearables

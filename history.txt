@@ -912,3 +912,4 @@ https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandb
 https://www.theverge.com/games/894379/epic-games-fortnite-v-bucks-price-hike-operating-costs|Epic says its Fortnite V-bucks price hike is a &#8216;direct correlation&#8217; to operating costs
 https://www.theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo|Peacock is adding an AI Andy Cohen to narrate an endless stream of Bravo clips
 https://www.theverge.com/streaming/894152/peacock-live-sports-nba-streams-vertical-mobile|Peacock’s NBA streams are going vertical
+https://techcrunch.com/podcast/wizs-first-investor-breaks-down-googles-32b-acquisition/|Wiz’s first investor breaks down Google’s $32B acquisition

@@ -910,3 +910,4 @@ https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-v
 https://www.theverge.com/tech/894306/apple-app-store-fees-china-reduced-antitrust|Apple reduces App Store fees in China to ward off regulators
 https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises|NanoClaw and Docker partner to make sandboxes the safest way for enterprises to deploy AI agents
 https://www.theverge.com/games/894379/epic-games-fortnite-v-bucks-price-hike-operating-costs|Epic says its Fortnite V-bucks price hike is a &#8216;direct correlation&#8217; to operating costs
+https://www.theverge.com/streaming/894128/peacock-nbcuniversal-ai-andy-cohen-bravo|Peacock is adding an AI Andy Cohen to narrate an endless stream of Bravo clips

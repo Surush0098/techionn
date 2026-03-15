@@ -915,3 +915,4 @@ https://www.theverge.com/streaming/894152/peacock-live-sports-nba-streams-vertic
 https://techcrunch.com/podcast/wizs-first-investor-breaks-down-googles-32b-acquisition/|Wiz’s first investor breaks down Google’s $32B acquisition
 https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/|Digg lays off staff and shuts down app as company retools
 https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer|Wordle’s creator made a fun new puzzle game
+https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data|AI companies want to harvest improv actors’ skills to train AI on human emotion

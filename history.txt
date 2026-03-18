@@ -930,3 +930,4 @@ https://venturebeat.com/data/enterprise-ai-agents-keep-operating-from-different-
 https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering|DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?
 https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/|Sequen snags $16M to bring TikTok-style personalization tech to any consumer company
 https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/|Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove
+https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out|Amazon doesn’t want the blame for the Post Office going under

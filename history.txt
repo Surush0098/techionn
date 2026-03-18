@@ -927,3 +927,4 @@ https://www.theverge.com/tech/895940/amazon-1-hour-3-hour-delivery|Amazon&#8217;
 https://www.theverge.com/tech/895921/intel-core-ultra-290hx-270hx-flagship-gaming-laptop-cpu|Intel announces Core Ultra 200HX Plus CPUs for high-end gaming laptops
 https://www.theverge.com/transportation/895265/bmw-i3-neue-klasse-ev-price-specs|BMW brings back the i3 as a funky four-door EV
 https://venturebeat.com/data/enterprise-ai-agents-keep-operating-from-different-versions-of-reality|Enterprise AI agents keep operating from different versions of reality — Microsoft says Fabric IQ is the fix
+https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering|DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?

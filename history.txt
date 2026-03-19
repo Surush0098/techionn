@@ -934,3 +934,4 @@ https://www.theverge.com/tech/897114/amazon-usps-contract-money-running-out|Amaz
 https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records|Fitbit&#8217;s AI health coach will soon be able to read your medical records
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal|Uber to invest $1.25 billion in Rivian as part of new robotaxi deal
 https://techcrunch.com/2026/03/19/k2-to-launch-its-first-high-powered-satellite-for-space-compute/|K2 to launch its first high-powered satellite for space compute
+https://techcrunch.com/2026/03/19/alphabets-x-has-a-new-spinout-and-its-going-after-one-of-the-worlds-most-expensive-bureaucratic-nightmares/|Anori, Alphabet’s new X spinout, is tackling one of the world’s most expensive bureaucratic nightmares

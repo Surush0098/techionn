@@ -939,3 +939,4 @@ https://techcrunch.com/2026/03/19/arc-expands-into-electric-commercial-and-defen
 https://www.theverge.com/science/897874/iea-fuel-gas-shortage-recommendations-work-from-home|&#8216;Work from home,&#8217; encourages the world&#8217;s energy watchdog
 https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone|Amazon is making an Alexa phone
 https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment|Google Search is now using AI to replace headlines
+https://www.theverge.com/transportation/897551/kodiak-ai-self-driving-truck-ceo-interview|Kodiak CEO says making trucks drive themselves is only half the battle

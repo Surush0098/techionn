@@ -945,3 +945,4 @@ https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference|AI w
 https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant|Musk says he’s building Terafab chip plant in Austin, Texas
 https://www.theverge.com/tech/898815/samsung-quick-share-airdrop-support-galaxy-s26|Samsung adds native AirDrop support to Galaxy S26 devices
 https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/|Sam Altman-backed fusion startup Helion in talks with OpenAI
+https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/|Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way

@@ -951,3 +951,4 @@ https://techcrunch.com/2026/03/24/ultrahuman-ramps-up-u-s-push-with-ring-pro-as-
 https://www.theverge.com/transportation/899323/zoox-robotaxi-las-vegas-san-francisco-austin-miami|Zoox is bringing its robotaxis to Austin and Miami
 https://www.theverge.com/tech/899330/nuki-keypad-2-nfc-aliro-apple-homekey-launch|Nuki adds Apple Home Key to its smart lock
 https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales|Nintendo cuts Switch 2 production amid weakening console sales
+https://venturebeat.com/orchestration/the-three-disciplines-separating-ai-agent-demos-from-real-world-deployment|The three disciplines separating AI agent demos from real-world deployment

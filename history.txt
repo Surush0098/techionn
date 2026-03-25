@@ -959,3 +959,4 @@ https://www.theverge.com/tech/900219/sony-honda-afeela-discontinue-cancel-refund
 https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode|Anthropic’s Claude Code gets ‘safer’ auto mode
 https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/|After pivoting, Y Combinator grad Glimpse raises $35M led by a16z
 https://techcrunch.com/2026/03/25/arinna-4-million-seed-round-solar-energy-space-power-problem/|Arinna raises $4M seed round to solve the space power problem
+https://www.theverge.com/tech/900270/ring-4k-battery-powered-video-doorbell-ai-price-release-date-specs|Ring finally brings 4K video to its battery-powered doorbell camera

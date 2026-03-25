@@ -956,3 +956,4 @@ https://www.theverge.com/streaming/899327/for-all-mankind-season-6-renewal-apple
 https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/|Databricks bought two startups to underpin its new AI security product
 https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/|Lucid Bots raises $20M to keep up with demand for its window-washing drones
 https://www.theverge.com/tech/900219/sony-honda-afeela-discontinue-cancel-refund|Sony and Honda ain’t feelin’ the Afeela anymore
+https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode|Anthropic’s Claude Code gets ‘safer’ auto mode

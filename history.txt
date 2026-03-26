@@ -964,3 +964,4 @@ https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europ
 https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and|Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free
 https://www.theverge.com/tech/901105/sonos-play-speaker-review|The versatile Play speaker is a great way into the Sonos world
 https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps|EU backs nude app ban and delays to landmark AI rules
+https://www.theverge.com/tech/899735/dji-avata-360-release-date-price-specs-impressions-antigravity-a1-comparison|DJI’s Avata 360 is a more functional, flexible 360 drone

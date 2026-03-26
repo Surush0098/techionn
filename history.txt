@@ -963,3 +963,4 @@ https://www.theverge.com/tech/900270/ring-4k-battery-powered-video-doorbell-ai-p
 https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe|Uber aims to launch Europe’s first robotaxi service with Pony AI and Verne
 https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and|Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free
 https://www.theverge.com/tech/901105/sonos-play-speaker-review|The versatile Play speaker is a great way into the Sonos world
+https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps|EU backs nude app ban and delays to landmark AI rules

@@ -961,3 +961,4 @@ https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerat
 https://techcrunch.com/2026/03/25/arinna-4-million-seed-round-solar-energy-space-power-problem/|Arinna raises $4M seed round to solve the space power problem
 https://www.theverge.com/tech/900270/ring-4k-battery-powered-video-doorbell-ai-price-release-date-specs|Ring finally brings 4K video to its battery-powered doorbell camera
 https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe|Uber aims to launch Europe’s first robotaxi service with Pony AI and Verne
+https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and|Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free

@@ -976,3 +976,4 @@ https://www.theverge.com/tech/898077/apple-in-china-patrick-mcgee-foxconn|The or
 https://www.theverge.com/tech/901470/kitchenaid-artisan-plus-tilting-stand-mixer-speed-control-light|KitchenAid redesigned its iconic mixer so you can set an exact speed
 https://venturebeat.com/technology/softr-launches-ai-native-platform-to-help-nontechnical-teams-build-business|Softr launches AI-native platform to help nontechnical teams build business apps without code
 https://venturebeat.com/infrastructure/nvidia-backed-thinklabs-ai-raises-usd28-million-to-tackle-a-growing-power|Nvidia-backed ThinkLabs AI raises $28 million to tackle a growing power grid crunch
+https://www.theverge.com/tech/897520/apple-without-steve-jobs-90s|Between Jobs

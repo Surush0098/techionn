@@ -983,3 +983,4 @@ https://www.theverge.com/tech/904032/instagram-premium-subscription-story-viewin
 https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/|It’s not your imagination: AI seed startups are commanding higher valuations
 https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations|The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale
 https://www.theverge.com/science/904991/spacex-announces-ipo-but-its-keeping-the-numbers-secret-for-now|SpaceX reportedly files for IPO but it’s keeping the numbers secret (for now)
+https://www.theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb|These Raspberry Pi price hikes are no joke

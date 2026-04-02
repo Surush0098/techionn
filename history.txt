@@ -986,3 +986,4 @@ https://www.theverge.com/science/904991/spacex-announces-ipo-but-its-keeping-the
 https://www.theverge.com/gadgets/905189/raspberry-pi-price-increases-pi-4-3gb|These Raspberry Pi price hikes are no joke
 https://www.theverge.com/transportation/905427/uber-go-electric-grant-driver-switch-ev|Uber expands its $4,000 ‘Go Electric’ grant to drivers nationwide
 https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google|Microsoft launches 3 new AI models in direct shot at OpenAI and Google
+https://www.theverge.com/transportation/905811/tesla-q1-2026-sales-deliveries-elon-musk|Tesla’s sales recover slightly, but the trend lines are all bad

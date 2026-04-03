@@ -989,3 +989,4 @@ https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-
 https://www.theverge.com/transportation/905811/tesla-q1-2026-sales-deliveries-elon-musk|Tesla’s sales recover slightly, but the trend lines are all bad
 https://www.theverge.com/games/905476/indie-pass-io-subscription-service-games|Indie Pass is a new subscription service just for indie games
 https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model|Microsoft’s new ‘superintelligence’ game plan is all about business
+https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs|Chatbots are now prescribing psychiatric drugs

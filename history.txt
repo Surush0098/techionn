@@ -992,3 +992,4 @@ https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcripti
 https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs|Chatbots are now prescribing psychiatric drugs
 https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/|The Facebook insider building content moderation for the AI era
 https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made|Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize
+https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs|Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS

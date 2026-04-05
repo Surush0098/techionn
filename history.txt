@@ -995,3 +995,4 @@ https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking
 https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs|Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS
 https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content|Really, you made this without AI? Prove it
 https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history|How the Amazon Echo learned to talk — and listen
+https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers|Suno is a music copyright nightmare

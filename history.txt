@@ -994,3 +994,4 @@ https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-th
 https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made|Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize
 https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-yoke-eqs|Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS
 https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content|Really, you made this without AI? Prove it
+https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history|How the Amazon Echo learned to talk — and listen

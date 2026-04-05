@@ -996,3 +996,4 @@ https://www.theverge.com/transportation/906539/mercedes-steer-by-wire-steering-y
 https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content|Really, you made this without AI? Prove it
 https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history|How the Amazon Echo learned to talk — and listen
 https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers|Suno is a music copyright nightmare
+https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing|OCSF explained: The shared data language security teams have been missing

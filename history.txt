@@ -1017,3 +1017,4 @@ https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintec
 https://techcrunch.com/2026/04/09/mariana-minerals-taps-pronto-to-help-automate-a-copper-mine/|Ex-Tesla engineer’s startup taps Pronto to help automate a copper mine
 https://www.theverge.com/transportation/908886/waymo-potholes-cities-data-waze-robotaxi|Waymo is offering to help cities fix their potholes
 https://techcrunch.com/2026/04/09/what-founders-can-learn-from-anjunas-layoffs-and-recovery/|What founders can learn from Anjuna’s layoffs and recovery
+https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons|Microsoft starts removing Copilot buttons from Windows 11 apps

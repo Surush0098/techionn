@@ -1021,3 +1021,4 @@ https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-butto
 https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup|Gen Z’s love-hate relationship with AI
 https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us|YouTube Premium is getting pricier
 https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community|Cloudflare made a WordPress for AI agents
+https://www.theverge.com/tech/909608/snap-specs-qualcomm-snapdragon-ar-glasses|Snap is sticking with Qualcomm for its next AR glasses

@@ -1023,3 +1023,4 @@ https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us|YouTube 
 https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community|Cloudflare made a WordPress for AI agents
 https://www.theverge.com/tech/909608/snap-specs-qualcomm-snapdragon-ar-glasses|Snap is sticking with Qualcomm for its next AR glasses
 https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/|Every fusion startup that has raised over $100M
+https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china|Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?

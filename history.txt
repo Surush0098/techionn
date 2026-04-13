@@ -1030,3 +1030,4 @@ https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handh
 https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development|Agentic coding at enterprise scale demands spec-driven development
 https://www.theverge.com/games/910218/roblox-age-verification-check-games-kids-select-accounts|Roblox will need age verification to make sure you’re at least 9 years old
 https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-connections|Roblox has games again
+https://www.theverge.com/tech/910834/neuralink-bcis-bet|Did Neuralink make the wrong bet?

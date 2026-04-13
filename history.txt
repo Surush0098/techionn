@@ -1026,3 +1026,4 @@ https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m
 https://www.theverge.com/transportation/909480/solid-state-battery-donut-lab-ev-china|Is the ‘Holy Grail of batteries’ finally ready to bless us with its presence?
 https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic|The AI code wars are heating up
 https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is|Your developers are already running AI locally: Why on-device inference is the CISO’s new blind spot
+https://www.theverge.com/news/910901/microsoft-xbox-gamepad-cursor-windows-handhelds|Microsoft&#8217;s new Xbox Gamepad Cursor adds a virtual mouse to handhelds

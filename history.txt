@@ -1033,3 +1033,4 @@ https://www.theverge.com/games/910699/roblox-games-experiences-switch-friends-co
 https://www.theverge.com/tech/910834/neuralink-bcis-bet|Did Neuralink make the wrong bet?
 https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-battery-charging-2027|The Mercedes EQS returns with massive range and charging gains
 https://www.theverge.com/gadgets/911540/a-sleek-wearable-airbag-for-cyclists-is-nearly-here|A sleek, wearable airbag for cyclists is nearly here
+https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds|43% of AI-generated code changes need debugging in production, survey finds

@@ -1035,3 +1035,4 @@ https://www.theverge.com/transportation/911196/mercedes-benz-eqs-ev-range-batter
 https://www.theverge.com/gadgets/911540/a-sleek-wearable-airbag-for-cyclists-is-nearly-here|A sleek, wearable airbag for cyclists is nearly here
 https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds|43% of AI-generated code changes need debugging in production, survey finds
 https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs|Alienware’s new gaming monitor offers a 240Hz QD-OLED panel for just $350
+https://www.theverge.com/tech/910298/ecovacs-deebot-x12-omnicyclone-robot-vacuum-mop-pretreat-ai|Ecovacs’ new robovac spots and pretreats dried stains using powerful jets

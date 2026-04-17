@@ -1049,3 +1049,4 @@ https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-avai
 https://www.zoomit.ir/laptop/458876-microsoft-counters-the-macbook-neo-with-freebies-for-students/|مایکروسافت برای مقابله با تهدید مک‌بوک ارزان‌قیمت، به کاربران هدایای ویژه می‌دهد
 https://www.zoomit.ir/mobile/458869-idc-new-mobile-market-report/|افت تقاضا و فروش؛ بازار جهانی موبایل وضعیت جالبی ندارد
 https://www.theverge.com/tech/913752/blue-origin-reusable-rocket-test-ast-sapcemobile|A giant cell tower is going to space this weekend
+https://www.zoomit.ir/ai-articles/458880-openai-codex-mac-automation-update/|هوش مصنوعی Codex با توانایی کنترل مستقیم مک آپدیت شد

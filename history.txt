@@ -1052,3 +1052,4 @@ https://www.theverge.com/tech/913752/blue-origin-reusable-rocket-test-ast-sapcem
 https://www.zoomit.ir/ai-articles/458880-openai-codex-mac-automation-update/|هوش مصنوعی Codex با توانایی کنترل مستقیم مک آپدیت شد
 https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/|Loop raises $95M to build supply chain AI that predicts disruptions
 https://www.zoomit.ir/business/458886-reed-hastings-netflix-co-founder-leave/|رید هستینگز، بنیان‌گذار نتفلیکس، از این شرکت جدا می‌شود
+https://www.zoomit.ir/ai-articles/458920-openai-sora-boss-leaves-company/|خالق ابزار ویدیوساز سورا OpenAI را ترک کرد؛ تمرکز بر کاربری‌های تجاری و سازمانی

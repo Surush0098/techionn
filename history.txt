@@ -1077,3 +1077,4 @@ https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-wo
 https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/|Beehiiv rolls out new creator tools, including webinars and customizable paywalls
 https://www.zoomit.ir/business/459115-qualcomm-samsung-new-chip-rumor/|سامسونگ و کوالکام احتمالا برای تولید تراشه وارد همکاری می‌شوند
 https://www.zoomit.ir/software-news/459138-microsoft-office-vibe-working-tools-update/|نرم‌افزارهای مایکروسافت آفیس با «کدنویسی حسی» سوپرشارژ شدند
+https://www.zoomit.ir/ai-articles/459143-deepseek-new-ai-coding-v4-flash/|نسخه ۲۰۲۶ هوش مصنوعی دیپ‌سیک برای رقابت با بزرگان معرفی شد

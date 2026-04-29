@@ -1098,3 +1098,4 @@ https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand
 https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats|Taylor Swift is stepping up the legal war on AI copycats
 https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update|General Motors is adding Gemini to four million cars
 https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification|Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU
+https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos|China freezes new robotaxi licenses after Baidu chaos

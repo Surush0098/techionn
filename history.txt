@@ -1111,3 +1111,4 @@ https://www.theverge.com/tech/921432/dyson-robot-vacuum-motor-picea|Dyson put so
 https://www.zoomit.ir/processor/459352-amd-intel-ace-architecture-x86-ai/|اتحاد رقبای دیرینه؛ اینتل و AMD سرعت پردازش هوش مصنوعی را ۱۶ برابر می‌کنند
 https://www.zoomit.ir/tech/459368-japan-airlines-ai-robot/|تماشا کنید: ربات انسان‌نما در فرودگاه ژاپن کارهای خدماتی را انجام می‌دهد
 https://www.zoomit.ir/ai-articles/459378-xai-grok-4-3-features-official/|گراک ۴٫۳ معرفی شد؛ هوش مصنوعی جدید ایلان ماسک با هزینه کمتر از قبل
+https://www.zoomit.ir/ai-articles/459386-microsoft-word-legal-ai-agent/|نرم‌افزار ورد مایکروسافت حالا یک وکیل هوش مصنوعی دارد؛ بررسی اسناد حقوقی و قراردادها

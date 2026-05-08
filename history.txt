@@ -1136,3 +1136,4 @@ https://www.zoomit.ir/ai-articles/459581-google-gemini-agent-remy-24-7-digital-p
 https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/|Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K
 https://www.zoomit.ir/wearables/459602-google-fitbit-air-official/|فیت‌بیت ایر رونمایی شد؛ دستبند هوشمند گوگل با طراحی بسیار خاص
 https://www.zoomit.ir/ai-articles/459594-openai-new-voice-agent-details/|هوش مصنوعی صوتی OpenAI با ویژگی‌های پیشرفته از راه رسید
+https://www.zoomit.ir/processor/459598-amd-new-instinct-ai-chip-specs-price-official/|پردازنده‌های هوش مصنوعی جدید AMD با قدرت خیره‌کننده معرفی شدند

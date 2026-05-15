@@ -1167,3 +1167,4 @@ https://www.theverge.com/tech/930318/android-contextual-suggestions-google-ai-fe
 https://www.theverge.com/news/930303/windows-update-automatic-driver-rollback-feature|Windows Update will soon automatically roll back faulty drivers
 https://www.zoomit.ir/gaming/459836-xbox-game-pass-china-project-saluki/|«پروژه سالوکی» فاش شد؛ ورود احتمالی ایکس‌باکس گیم‌پس به بازار چین
 https://venturebeat.com/data/enterprises-can-now-train-custom-ai-models-from-production-workflows-no-ml-team-required|Enterprises can now train custom AI models from production workflows — no ML team required
+https://www.zoomit.ir/processor/459856-tsmc-arizona-expansion-global-chips/|پیش‌بینی بزرگ: ارزش بازار تراشه تا سال ۲۰۳۰ به ۱٫۵ تریلیون دلار می‌رسد

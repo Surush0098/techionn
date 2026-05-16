@@ -1174,3 +1174,4 @@ https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mb
 https://www.theverge.com/tech/931147/x-illegal-hate-terror-content-ofcom-commitments|X agrees to crack down on illegal hate and terror content in the UK
 https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/|The OpenAI trial wraps up, and the Musk founder machine keeps spinning
 https://www.zoomit.ir/ai-articles/459882-chatgpt-new-update-bank-accounts/|هوش مصنوعی ChatGPT حالا به حساب‌های بانکی متصل می‌شود
+https://www.zoomit.ir/security/459880-anthropic-mythos-ai-bypasses-apple-m5-mac-security/|نفوذ به دژ دو میلیارد دلاری اپل؛ هوش مصنوعی آنتروپیک، سد دفاعی مک‌های M5 را دور زد

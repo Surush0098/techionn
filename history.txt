@@ -1183,3 +1183,4 @@ https://www.zoomit.ir/ai-articles/459885-elon-musk-grok-build-official/|کدنو
 https://www.zoomit.ir/tech/459918-solar-panels-irans-dams-water-energy/|راه‌حل غیرمنتظره برای بحران کم‌آبی ایران: نصب پنل‌ خورشیدی شناور روی سدها
 https://www.zoomit.ir/business/459879-spacexai-talent-exodus-crisis/|فرار مغزها؛ ۵۰ مهندس نخبه از پروژه هوش مصنوعی ایلان ماسک جدا شدند
 https://www.zoomit.ir/iran-news/459985-iran-pro-internet-147k-freelancers-registration/|نصر تهران: ۱۴۷ هزار فریلنسر برای دریافت اینترنت پرو ثبت‌نام کردند
+https://www.zoomit.ir/security/460007-microsoft-kills-sms-verification-pushes-passkeys-windows-11/|پایان دوران تأیید هویت پیامکی؛ مایکروسافت کاربران ویندوز را به سمت Passkey سوق می‌دهد

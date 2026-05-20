@@ -1188,3 +1188,4 @@ https://www.zoomit.ir/iran-news/460006-mci-earthquake-research-institute-network
 https://www.zoomit.ir/iran-news/460058-hypertension-treatment-revolution-dr-obidi/|۸۰ سالگی شرکت داروسازی دکتر عبیدی؛ تحول درمان فشار خون بالا با تولید ۷ داروی کلیدی
 https://www.zoomit.ir/wearables/460056-google-wear-os-7-official/|گوگل Wear OS 7 معرفی شد؛ سیستم‌عامل پیشرفته برای ساعت‌های هوشمند
 https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai|Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI
+https://www.theverge.com/tech/934457/android-17-continue-on-handoff|Android 17 is getting its own version of Apple&#8217;s Handoff

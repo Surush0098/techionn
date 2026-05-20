@@ -1186,3 +1186,4 @@ https://www.zoomit.ir/iran-news/459985-iran-pro-internet-147k-freelancers-regist
 https://www.zoomit.ir/security/460007-microsoft-kills-sms-verification-pushes-passkeys-windows-11/|پایان دوران تأیید هویت پیامکی؛ مایکروسافت کاربران ویندوز را به سمت Passkey سوق می‌دهد
 https://www.zoomit.ir/iran-news/460006-mci-earthquake-research-institute-network-resilience-agreement/|همراه اول و پژوهشگاه زلزله‌شناسی برای ارتقای سامانه هشدار سریع همکاری می‌کنند
 https://www.zoomit.ir/iran-news/460058-hypertension-treatment-revolution-dr-obidi/|۸۰ سالگی شرکت داروسازی دکتر عبیدی؛ تحول درمان فشار خون بالا با تولید ۷ داروی کلیدی
+https://www.zoomit.ir/wearables/460056-google-wear-os-7-official/|گوگل Wear OS 7 معرفی شد؛ سیستم‌عامل پیشرفته برای ساعت‌های هوشمند

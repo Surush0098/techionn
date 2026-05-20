@@ -1187,3 +1187,4 @@ https://www.zoomit.ir/security/460007-microsoft-kills-sms-verification-pushes-pa
 https://www.zoomit.ir/iran-news/460006-mci-earthquake-research-institute-network-resilience-agreement/|همراه اول و پژوهشگاه زلزله‌شناسی برای ارتقای سامانه هشدار سریع همکاری می‌کنند
 https://www.zoomit.ir/iran-news/460058-hypertension-treatment-revolution-dr-obidi/|۸۰ سالگی شرکت داروسازی دکتر عبیدی؛ تحول درمان فشار خون بالا با تولید ۷ داروی کلیدی
 https://www.zoomit.ir/wearables/460056-google-wear-os-7-official/|گوگل Wear OS 7 معرفی شد؛ سیستم‌عامل پیشرفته برای ساعت‌های هوشمند
+https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai|Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI

@@ -1193,3 +1193,4 @@ https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles
 https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github|‘Fuck you, Bambu’: How one private message could change the face of 3D printing
 https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo|Meta lays off thousands of employees to offset AI investments
 https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/|Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement
+https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce|Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce

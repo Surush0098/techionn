@@ -1190,3 +1190,4 @@ https://www.zoomit.ir/wearables/460056-google-wear-os-7-official/|گوگل Wear 
 https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai|Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI
 https://www.theverge.com/tech/934457/android-17-continue-on-handoff|Android 17 is getting its own version of Apple&#8217;s Handoff
 https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/|General Catalyst just led a $63M bet on India’s travel payments market
+https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github|‘Fuck you, Bambu’: How one private message could change the face of 3D printing

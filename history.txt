@@ -1195,3 +1195,4 @@ https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo|Meta
 https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/|Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement
 https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce|Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce
 https://www.zoomit.ir/ai-articles/460119-alibaba-new-qwen3-7-max-model-ai-specs/|هوش مصنوعی جدید علی‌بابا معرفی شد؛ توهم کمتر و کدنویسی پیشرفته‌تر
+https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal|Microsoft is letting Office users remove an annoying Copilot button

@@ -1198,3 +1198,4 @@ https://www.zoomit.ir/ai-articles/460119-alibaba-new-qwen3-7-max-model-ai-specs/
 https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal|Microsoft is letting Office users remove an annoying Copilot button
 https://www.zoomit.ir/energy-environment/460114-world-largest-floating-wind-turbine/|بزرگ‌ترین توربین بادی شناور جهان در سواحل چین نصب شد
 https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/|Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say
+https://www.zoomit.ir/internet-network/460139-google-ai-overview-bug-glitch/|اختلال عجیب در گوگل؛ وقتی هوش مصنوعی با یک کلمه ساده گیج می‌شود

@@ -1216,3 +1216,4 @@ https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-yout
 https://www.zoomit.ir/software-news/460309-nvidia-geforce-control-panel-app-retirement/|انویدیا نرم‌افزار خاطره‌انگیز GeForce Control Panel را پس از ۲۰ سال بازنشسته کرد
 https://www.zoomit.ir/economics/460307-china-xiaomi-q1-profit-sinks-43-higher/|گزارش مالی شیائومی؛ افت ۴۳ درصدی سود و تلاش برای حضور پررنگ‌تر در بازارهای جهانی
 https://www.zoomit.ir/internet-network/460313-duckduckgo-installs-up-30/|مخالفت کاربران با گوگلِ جدید؛ آمار نصب داک‌داک‌گو ۳۰ درصد رشد کرد
+https://www.zoomit.ir/security/460275-perplexity-releases-bumblebee-security-tool/|«بامبل‌بی» متن‌باز شد؛ ابزاری پیشرفته برای مقابله با تهدیدهای امنیتی

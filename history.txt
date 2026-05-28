@@ -1220,3 +1220,4 @@ https://www.zoomit.ir/security/460275-perplexity-releases-bumblebee-security-too
 https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/|Startup Battlefield 200 applications close today: Nominate a founder or submit your startup
 https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/|SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M
 https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/|Your SEO strategy is optimized for a search engine that no longer exists.
+https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability|YouTube will let you ask AI to make a custom video feed

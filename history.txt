@@ -1224,3 +1224,4 @@ https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availabi
 https://www.zoomit.ir/social-network/460351-youtube-ai-detection-update/|یوتیوب حالا ویدیوهای هوش مصنوعی را به‌صورت خودکار برچسب‌گذاری می‌کند
 https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/|At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals
 https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg|These new iOS 27 renders hint at Siri’s big redesign
+https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit|CNN sues Perplexity over ‘verbatim’ copycat articles

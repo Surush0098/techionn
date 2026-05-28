@@ -1222,3 +1222,4 @@ https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-he
 https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/|Your SEO strategy is optimized for a search engine that no longer exists.
 https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability|YouTube will let you ask AI to make a custom video feed
 https://www.zoomit.ir/social-network/460351-youtube-ai-detection-update/|یوتیوب حالا ویدیوهای هوش مصنوعی را به‌صورت خودکار برچسب‌گذاری می‌کند
+https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/|At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals

@@ -1227,3 +1227,4 @@ https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg|These new iOS
 https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit|CNN sues Perplexity over ‘verbatim’ copycat articles
 https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays|Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor
 https://www.zoomit.ir/ai-articles/460407-ai-spending-roi-enterprise-costs/|اشتباه نیم میلیارد دلاری؛ کارمندان یک شرکت بخش بزرگی از بودجه را صرف هوش مصنوعی کردند
+https://www.zoomit.ir/ai-articles/460389-microsoft-365-copilot-redesign-agentic-ai/|مایکروسافت ظاهر و باطن کوپایلوت را زیرورو کرد؛ تولد فضای کاری هوشمند در دل آفیس

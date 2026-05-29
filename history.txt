@@ -1229,3 +1229,4 @@ https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-d
 https://www.zoomit.ir/ai-articles/460407-ai-spending-roi-enterprise-costs/|اشتباه نیم میلیارد دلاری؛ کارمندان یک شرکت بخش بزرگی از بودجه را صرف هوش مصنوعی کردند
 https://www.zoomit.ir/ai-articles/460389-microsoft-365-copilot-redesign-agentic-ai/|مایکروسافت ظاهر و باطن کوپایلوت را زیرورو کرد؛ تولد فضای کاری هوشمند در دل آفیس
 https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/|This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory
+https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike|Hundreds of prolific Wikipedia editors are threatening to go on strike

@@ -1233,3 +1233,4 @@ https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layof
 https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning|This AI startup will clean your home for free to train future robots
 https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/|After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M
 https://www.zoomit.ir/mobile/460437-samsung-doubles-foldable-market-share-huawei-leads/|ادامه حکمرانی هواوی بر بازار گوشی‌های تاشو؛ سهم سامسونگ تقریبا دو برابر شد
+https://www.zoomit.ir/processor/460438-nvidia-arm-laptop-chips-computex/|انویدیا، مایکروسافت و آرم برای رونمایی از کلاس جدید تراشه‌های لپ‌تاپی آماده می‌شوند

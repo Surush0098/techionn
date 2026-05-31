@@ -1235,3 +1235,4 @@ https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startu
 https://www.zoomit.ir/mobile/460437-samsung-doubles-foldable-market-share-huawei-leads/|ادامه حکمرانی هواوی بر بازار گوشی‌های تاشو؛ سهم سامسونگ تقریبا دو برابر شد
 https://www.zoomit.ir/processor/460438-nvidia-arm-laptop-chips-computex/|انویدیا، مایکروسافت و آرم برای رونمایی از کلاس جدید تراشه‌های لپ‌تاپی آماده می‌شوند
 https://www.zoomit.ir/tech/460442-spacex-golden-dome-missile-defense/|شرکت فضایی ایلان ماسک «ماهواره موشک‌یاب» برای سامانه گنبد طلایی آمریکا می‌سازد
+https://www.zoomit.ir/processor/460506-nvidia-upcoming-n1x-supply-chain-takeaways/|فروش ۱۰ میلیونی در انتظار N1X؛ پردازنده اختصاصی انویدیا شاید بازار کامپیوتر را متحول کند

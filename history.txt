@@ -1245,3 +1245,4 @@ https://www.zoomit.ir/os/460559-nvidia-rtx-spark-windows-compatibility/|انوی
 https://techcrunch.com/2026/06/01/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launch/|Revolut rolls out services to thousands of users in India ahead of broader launch
 https://www.zoomit.ir/ai-articles/460596-microsoft-own-data-suggests-ai-more-expensive-hiring-humans/|بر اساس داده‌های مایکروسافت، هزینه هوش مصنوعی از استخدام انسان بیشتر است
 https://venturebeat.com/data/ai-agents-keep-giving-confident-wrong-answers-the-context-layer-is-enterprise-ais-next-production-problem|AI agents keep giving confident wrong answers. The context layer is enterprise AI's next production problem.
+https://venturebeat.com/technology/zips-new-ai-agents-want-to-stop-your-finance-team-from-uploading-contracts-into-personal-chatgpt-accounts|Zip’s new AI agents want to stop your finance team from uploading contracts into personal ChatGPT accounts

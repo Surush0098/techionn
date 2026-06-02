@@ -1243,3 +1243,4 @@ https://www.zoomit.ir/iran-news/460564-wepod-adds-riton-gold-fund-investment/|د
 https://www.zoomit.ir/business/460560-nvidia-rtx-spark-vs-qualcomm-snapdragon/|ورود انویدیا به بازار پردازنده‌های لپ‌تاپ؛ کوالکام به رقیب جدیدش خوش‌آمد گفت
 https://www.zoomit.ir/os/460559-nvidia-rtx-spark-windows-compatibility/|انویدیا: تمام نرم‌افزارهای تاریخ ویندوز روی لپ‌تاپ‌های RTX Spark اجرا خواهند شد
 https://techcrunch.com/2026/06/01/revolut-rolls-out-services-to-thousands-of-users-in-india-ahead-of-broader-launch/|Revolut rolls out services to thousands of users in India ahead of broader launch
+https://www.zoomit.ir/ai-articles/460596-microsoft-own-data-suggests-ai-more-expensive-hiring-humans/|بر اساس داده‌های مایکروسافت، هزینه هوش مصنوعی از استخدام انسان بیشتر است

@@ -1250,3 +1250,4 @@ https://www.theverge.com/tech/941146/liv-2-dot-0-smart-mosquito-repellent-system
 https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning|Gemini Spark is the most impressive and terrifying AI experience I’ve had yet
 https://startup360.ir/nobitex-response-us-sanctions-users-assets/|واکنش نوبیتکس به تحریم آمریکا؛ دارایی کاربران امن است
 https://www.zoomit.ir/ai-articles/460680-satya-nadella-put-whole-water-debate-rest/|مدیرعامل مایکروسافت: مصرف آب دیتاسنترهای ما به اندازه یک رستوران است!
+https://www.zoomit.ir/ai-articles/460679-openclaw-runs-natively-windows/|مایکروسافت اجرای ایمن OpenClaw را در ویندوز ممکن می‌کند

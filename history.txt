@@ -1251,3 +1251,4 @@ https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent
 https://startup360.ir/nobitex-response-us-sanctions-users-assets/|واکنش نوبیتکس به تحریم آمریکا؛ دارایی کاربران امن است
 https://www.zoomit.ir/ai-articles/460680-satya-nadella-put-whole-water-debate-rest/|مدیرعامل مایکروسافت: مصرف آب دیتاسنترهای ما به اندازه یک رستوران است!
 https://www.zoomit.ir/ai-articles/460679-openclaw-runs-natively-windows/|مایکروسافت اجرای ایمن OpenClaw را در ویندوز ممکن می‌کند
+https://www.zoomit.ir/os/460659-microsoft-defender-third-party-antivirus-policy/|موضع مایکروسافت درباره استفاده از آنتی‌ویروس‌ در ویندوز ۱۱ تغییر کرد

@@ -1253,3 +1253,4 @@ https://www.zoomit.ir/ai-articles/460680-satya-nadella-put-whole-water-debate-re
 https://www.zoomit.ir/ai-articles/460679-openclaw-runs-natively-windows/|مایکروسافت اجرای ایمن OpenClaw را در ویندوز ممکن می‌کند
 https://www.zoomit.ir/os/460659-microsoft-defender-third-party-antivirus-policy/|موضع مایکروسافت درباره استفاده از آنتی‌ویروس‌ در ویندوز ۱۱ تغییر کرد
 https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/|These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked
+https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones|Shokz upgraded its open earbuds with better sound and a lighter design

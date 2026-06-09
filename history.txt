@@ -1279,3 +1279,4 @@ https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seat
 https://www.zoomit.ir/ai-articles/461023-apple-private-cloud-compute-google-wwdc2026/|هوش مصنوعی امن اپل روی سرورهای گوگل اجرا می‌شود
 https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code|Apple’s best AI idea looks a lot like vibe coding
 https://www.theverge.com/transportation/946398/rivian-r2-review-price-specs-ai-ev|The Rivian R2 is too much fun to let drive itself
+https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc|Apple’s AI pitch will live or die by its privacy promise

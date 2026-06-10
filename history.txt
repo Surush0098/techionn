@@ -1281,3 +1281,4 @@ https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code|Ap
 https://www.theverge.com/transportation/946398/rivian-r2-review-price-specs-ai-ev|The Rivian R2 is too much fun to let drive itself
 https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc|Apple’s AI pitch will live or die by its privacy promise
 https://www.zoomit.ir/internet-network/461081-azerbaijan-globally-rank-chatgpt/|پای ایرانی‌ها در میان است؛ رشد خیره‌کننده جمهوری آذربایجان در رتبه‌بندی ChatGPT
+https://www.zoomit.ir/ai-articles/461078-claude-fable-5-build-windows-os/|باورنکردنی؛ هوش مصنوعی جدید انتروپیک نسخه‌ای از ویندوز را ساخت! + ویدیو

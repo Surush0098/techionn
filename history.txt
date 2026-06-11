@@ -1288,3 +1288,4 @@ https://www.theverge.com/transportation/947553/byd-flash-chargers-uk-europe-ev-b
 https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple|Deezer launches an AI music detector for other streaming services
 https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail|Anthropic apologizes for invisible Claude Fable guardrails
 https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability|YouTube is introducing DMs (again)
+https://www.zoomit.ir/ai-articles/461134-gemini-chrome-expands-latin-america-middle-east/|نسخه کروم هوش مصنوعی جمنای در خاورمیانه فعال شد

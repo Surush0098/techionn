@@ -1289,3 +1289,4 @@ https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detec
 https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail|Anthropic apologizes for invisible Claude Fable guardrails
 https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability|YouTube is introducing DMs (again)
 https://www.zoomit.ir/ai-articles/461134-gemini-chrome-expands-latin-america-middle-east/|نسخه کروم هوش مصنوعی جمنای در خاورمیانه فعال شد
+https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/|Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal

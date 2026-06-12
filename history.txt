@@ -1291,3 +1291,4 @@ https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-
 https://www.zoomit.ir/ai-articles/461134-gemini-chrome-expands-latin-america-middle-east/|نسخه کروم هوش مصنوعی جمنای در خاورمیانه فعال شد
 https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/|Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal
 https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights|Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights
+https://www.zoomit.ir/gaming/461185-gta-5-joins-gta-plus-subscription/|بازی GTA 5 در آستانه عرضه GTA 6 به سرویس اشتراکی +GTA اضافه شد

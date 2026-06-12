@@ -1290,3 +1290,4 @@ https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fabl
 https://www.theverge.com/streaming/948256/youtube-brings-back-private-messaging-feature-availability|YouTube is introducing DMs (again)
 https://www.zoomit.ir/ai-articles/461134-gemini-chrome-expands-latin-america-middle-east/|نسخه کروم هوش مصنوعی جمنای در خاورمیانه فعال شد
 https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/|Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal
+https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights|Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights

@@ -1293,3 +1293,4 @@ https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-gr
 https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights|Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights
 https://www.zoomit.ir/gaming/461185-gta-5-joins-gta-plus-subscription/|بازی GTA 5 در آستانه عرضه GTA 6 به سرویس اشتراکی +GTA اضافه شد
 https://www.zoomit.ir/business/461190-xbox-console-future-strategy/|برند ایکس‌باکس از بازار کنسول‌ها فاصله نمی‌گیرد
+https://www.zoomit.ir/software-news/461184-metas-edits-app-ai-assistant-desktop-version/|تلاش متا برای بازپس‌گیری تولیدکنندگان محتوا؛ دستیار هوش مصنوعی به اپلیکیشن Edits اضافه شد

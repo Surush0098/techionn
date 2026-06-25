@@ -1345,3 +1345,4 @@ https://www.theverge.com/streaming/956712/disney-youtube-tv-directv-streaming-se
 https://startup360.ir/startup-founders-new-sales-playbook/|گزارش HBR: چرا بنیان‌گذاران استارتاپ‌ها به استراتژی جدید فروش نیاز دارند؟
 https://www.zoomit.ir/ai-articles/461941-slash-fintech-ai-token-cost/|اشتباه پرهزینه؛ یک کارمند با هوش مصنوعی ۸۰ هزار دلار برای شرکت خرج تراشید
 https://www.zoomit.ir/health-medical/461652-glp1-drugs-may-reduce-violent-behavior/|فراتر از کاهش وزن؛ داروهای لاغری شاید رفتارهای خشونت‌آمیز را نیز کاهش دهند
+https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/|From Fortnite to robots: General Intuition raises $2.3B on bet that video games can train AI agents for the real world

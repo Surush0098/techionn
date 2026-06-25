@@ -14,7 +14,7 @@ GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
 
 # تنظیمات مدل
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-2.5-flash-lite')
+model = genai.GenerativeModel('gemini-3.1-flash-lite')
 SAFE_SLEEP = 5 
 
 HISTORY_FILE = "history.txt"

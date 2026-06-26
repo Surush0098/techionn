@@ -1381,3 +1381,4 @@ https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-bi
 https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready|Autonomous security agents need complete data. Here's how to check if yours is ready.
 https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov|OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov
 https://www.zoomit.ir/ai-articles/462007-openai-launches-gpt-5-6-sol-preview/|هوش مصنوعی پرچمدار GPT-5.6 در قالب ۳ نسخه رونمایی شد
+https://www.zoomit.ir/processor/461973-qualcomm-snapdragon-new-chip-leak/|کوالکام امسال چندین پردازنده سری اسنپدراگون ۸ می‌سازد

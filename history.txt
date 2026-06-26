@@ -1371,3 +1371,4 @@ https://www.zoomit.ir/economics/461975-apple-stock-drops-after-price-hikes/|سق
 https://venturebeat.com/orchestration/most-companies-think-theyre-building-a-software-factory-theyre-actually-just-shipping-bugs-faster|Most companies think they're building a software factory. They're actually just shipping bugs faster.
 https://www.theverge.com/tech/957597/samsung-smartthings-api-charges|Samsung will soon start charging to access its smart home API
 https://www.zoomit.ir/mobile/461927-genai-smartphone-market-forecast/|بیش از ۵۰ درصد گوشی‌های سال ۲۰۲۷ به هوش مصنوعی پیشرفته مجهز می‌شوند
+https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/|Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that

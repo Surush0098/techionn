@@ -1383,3 +1383,4 @@ https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-mod
 https://www.zoomit.ir/ai-articles/462007-openai-launches-gpt-5-6-sol-preview/|هوش مصنوعی پرچمدار GPT-5.6 در قالب ۳ نسخه رونمایی شد
 https://www.zoomit.ir/processor/461973-qualcomm-snapdragon-new-chip-leak/|کوالکام امسال چندین پردازنده سری اسنپدراگون ۸ می‌سازد
 https://www.zoomit.ir/ai-articles/461993-xai-grok-integration-t3code/|هوش مصنوعی ایلان ماسک با ابزارهای متن‌باز برنامه‌نویسی پیوند خورد
+https://www.zoomit.ir/hardware/462001-lenovo-memory-price-forecast-2030/|لنوو: قیمت سخت‌افزار به‌این‌زودی‌ها افت نمی‌کند

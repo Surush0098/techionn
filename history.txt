@@ -1372,3 +1372,4 @@ https://venturebeat.com/orchestration/most-companies-think-theyre-building-a-sof
 https://www.theverge.com/tech/957597/samsung-smartthings-api-charges|Samsung will soon start charging to access its smart home API
 https://www.zoomit.ir/mobile/461927-genai-smartphone-market-forecast/|بیش از ۵۰ درصد گوشی‌های سال ۲۰۲۷ به هوش مصنوعی پیشرفته مجهز می‌شوند
 https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/|Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that
+https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations|Anthropic&#8217;s Mythos mess is only getting worse

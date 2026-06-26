@@ -1364,3 +1364,4 @@ https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt
 https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere|Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'
 https://www.zoomit.ir/cryptocurrency/461977-tether-surpasses-ethereum-market-cap/|اتریوم جا ماند؛ تتر دومین ارز دیجیتال بزرگ جهان شد
 https://www.zoomit.ir/internet-network/461968-spacex-starlink-mobile-service-plans/|رویترز: اپراتور موبایلی استارلینک راه‌اندازی می‌شود
+https://www.zoomit.ir/ai-articles/461969-gemma-4-hit-200m-downloads-only-2-5-months/|۲۰۰ میلیون دانلود در ۲٫۵ ماه؛ عملکرد خیره‌کننده هوش مصنوعی «جما ۴» گوگل

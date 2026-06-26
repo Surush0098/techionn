@@ -1379,3 +1379,4 @@ https://www.theverge.com/tech/957802/level-lock-layoffs-assa-abloy-kwikset-smart
 https://www.zoomit.ir/gaming/462003-playstation-hardware-sales-decline-may-2026/|آمار فروش پلی‌استیشن؛ بدترین عملکرد ماه می در ۲۵ سال اخیر ثبت شد
 https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/|OpenAI poaches Uber India chief to lead its biggest market outside the US
 https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready|Autonomous security agents need complete data. Here's how to check if yours is ready.
+https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov|OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov

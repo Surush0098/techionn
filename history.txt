@@ -1370,3 +1370,4 @@ https://www.zoomit.ir/ai-articles/461964-openai-gpt-5-6-release-restrictions/|ا
 https://www.zoomit.ir/economics/461975-apple-stock-drops-after-price-hikes/|سقوط اپل در بازار سهام؛ بدترین عملکرد در بیش از یک سال اخیر ثبت شد
 https://venturebeat.com/orchestration/most-companies-think-theyre-building-a-software-factory-theyre-actually-just-shipping-bugs-faster|Most companies think they're building a software factory. They're actually just shipping bugs faster.
 https://www.theverge.com/tech/957597/samsung-smartthings-api-charges|Samsung will soon start charging to access its smart home API
+https://www.zoomit.ir/mobile/461927-genai-smartphone-market-forecast/|بیش از ۵۰ درصد گوشی‌های سال ۲۰۲۷ به هوش مصنوعی پیشرفته مجهز می‌شوند

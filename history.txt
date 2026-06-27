@@ -1405,3 +1405,4 @@ https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-am
 https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech|Why is Apple asking me to pay more for Big Tech’s AI obsession?
 https://startup360.ir/uber-tightens-driver-background-checks/|اوبر بررسی سوابق رانندگان را سخت‌گیرانه‌تر کرد؛ حذف ده‌ها هزار راننده از پلتفرم
 https://startup360.ir/world-cup-2026-non-sponsor-brands/|جام جهانی ۲۰۲۶؛ چرا برندهای غیرحامی بیشتر از اسپانسرهای رسمی دیده می‌شوند؟
+https://startup360.ir/two-organizations-problem-ai-management/|گزارش HBR: هر شرکت در واقع دو سازمان متفاوت دارد

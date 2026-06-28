@@ -1435,3 +1435,4 @@ https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-b
 https://startup360.ir/amazon-prime-day-2026-sales-consumer-warning/|فروش میلیاردی پرایم دی آمازون از تغییر رفتار مصرف‌کنندگان آمریکایی خبر می‌دهد
 https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine|Suno launches Spark incubator program to feed independent artists to its AI machine
 https://www.zoomit.ir/space/462124-nasa-cheapest-missions-deliver-less-scientific-bang-buck/|نتیجه مطالعه‌ای بزرگ: فضاپیماهای اقتصادی ناسا کم‌ترین بازده علمی را دارند
+https://www.zoomit.ir/car/462073-waymo-wrong-way-driving-incident/|شکست در جاده؛ خودرو خودران ویمو مستقیما وارد مسیر مخالف شد

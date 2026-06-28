@@ -1437,3 +1437,4 @@ https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-i
 https://www.zoomit.ir/space/462124-nasa-cheapest-missions-deliver-less-scientific-bang-buck/|نتیجه مطالعه‌ای بزرگ: فضاپیماهای اقتصادی ناسا کم‌ترین بازده علمی را دارند
 https://www.zoomit.ir/car/462073-waymo-wrong-way-driving-incident/|شکست در جاده؛ خودرو خودران ویمو مستقیما وارد مسیر مخالف شد
 https://www.zoomit.ir/biology/462119-humans-one-day-talk-animals/|رمزگشایی از واژگان فنچ‌های گورخری؛ گامی بزرگ به سوی گفت‌وگو با حیوانات
+https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity|China’s Z.ai claims it can match Mythos on cybersecurity

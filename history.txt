@@ -1463,3 +1463,4 @@ https://www.zoomit.ir/car/462102-byd-han-flagship-sedan-details/|خودرو لو
 https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label|Tidal won’t pay royalties on AI-generated music but isn’t banning it outright
 https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room|Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’
 https://www.zoomit.ir/ai-articles/462190-anthropic-claude-nvidia-gb300-azure/|هوش مصنوعی آنتروپیک حالا روی سرورهای پرقدرت انویدیا اجرا می‌شود
+https://www.zoomit.ir/gadget/462189-openai-work-louder-codex-hardware/|قدم اول در بازار سخت‌افزار؛ اوپن‌ای‌آی گجت کدنویسی عرضه می‌کند

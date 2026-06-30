@@ -1498,3 +1498,4 @@ https://techcabal.com/2026/06/30/kenyan-edtech-craydel-expands-into-ghana/|Kenya
 https://techcabal.com/2026/06/30/nairobi-techcabal-road-to-moonshot-mixer/|Nairobi to host TechCabal’s Road to Moonshot mixer on Thursday
 https://www.zoomit.ir/software-news/462205-openclaw-ios-app-launch/|هوش مصنوعی OpenClaw حالا اپلیکیشن مخصوص آیفون دارد
 https://www.zoomit.ir/security/462233-malicious-npm-packages-security-alert/|هشدار امنیتی: بدافزار جدید در کمین توسعه‌دهندگان نرم‌افزار است
+https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/|Arcturus could halve the grid’s electrical losses using its nano-infused copper

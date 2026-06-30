@@ -1497,3 +1497,4 @@ https://techcabal.com/2026/06/30/francophone-weekly-by-techcabal-029/|This start
 https://techcabal.com/2026/06/30/kenyan-edtech-craydel-expands-into-ghana/|Kenyan edtech Craydel expands into Ghana, its eighth African market
 https://techcabal.com/2026/06/30/nairobi-techcabal-road-to-moonshot-mixer/|Nairobi to host TechCabal’s Road to Moonshot mixer on Thursday
 https://www.zoomit.ir/software-news/462205-openclaw-ios-app-launch/|هوش مصنوعی OpenClaw حالا اپلیکیشن مخصوص آیفون دارد
+https://www.zoomit.ir/security/462233-malicious-npm-packages-security-alert/|هشدار امنیتی: بدافزار جدید در کمین توسعه‌دهندگان نرم‌افزار است

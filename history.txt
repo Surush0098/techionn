@@ -1470,3 +1470,4 @@ https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framewo
 https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips|Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter — trained entirely on Chinese chips
 https://www.zoomit.ir/iran-news/462217-national-integrated-energy-management-system/|رونمایی از سامانه یکپارچه ملی مدیریت انرژی؛ وعده کاهش ۱۵ تا ۲۵ درصدی مصرف انرژی کشور
 https://www.zoomit.ir/processor/462213-qualcomm-snapdragon-summit-2026-announcement/|تاریخ رونمایی اسنپدراگون ۸ الیت نسل ۶ اعلام شد؛ پردازنده گوشی‌های پرچمدار ۲۰۲۶
+https://www.zoomit.ir/iran-news/462204-irancell-new-projects-in-hamedan/|همدان، میزبان پروژه‌های جدید توسعه شبکه ایرانسل شد

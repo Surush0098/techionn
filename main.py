@@ -7,23 +7,33 @@ from time import mktime
 import os
 from bs4 import BeautifulSoup
 
-# --- کلیدها ---
 TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHANNEL_ID = os.environ["CHANNEL_ID"]
 GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
 
-# تنظیمات مدل
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-3.1-flash-lite')
 SAFE_SLEEP = 5 
 
 HISTORY_FILE = "history.txt"
 
-# --- منابع ---
 FOREIGN_URLS = [
     "https://techcrunch.com/category/startups/feed/",
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://www.theverge.com/tech/rss/index.xml",
+    "https://www.wired.com/feed/rss",
+    "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+    "https://search.cnbc.com/rs/search/combinedcms/view.xml?profile=120000000&id=19854910",
+    "https://news.crunchbase.com/feed/",
+    "https://sifted.eu/feed/",
+    "https://www.eu-startups.com/feed/",
     "https://feeds.feedburner.com/venturebeat/SZYF",
-    "https://www.theverge.com/rss/index.xml",
+    "https://www.techinasia.com/feed",
+    "https://yourstory.com/feed",
+    "https://www.wamda.com/rss",
+    "https://www.menabytes.com/feed/",
+    "https://disrupt-africa.com/feed/",
+    "https://techcabal.com/feed/"
 ]
 
 IRANIAN_URLS = [
@@ -33,7 +43,7 @@ IRANIAN_URLS = [
     "https://icheezha.ir/feed",
     "https://iranianstartup.com/feed",
     "https://itiran.com/category/startup/feed",
-    "https://www.zoomit.ir/feed/",
+    "https://www.zoomit.ir/feed/"
 ]
 
 ALL_URLS = FOREIGN_URLS + IRANIAN_URLS
@@ -74,33 +84,34 @@ def check_is_duplicate_topic(new_title, history_lines):
 
 def analyze_and_score_news(title, summary):
     prompt = f"""
-    Role: Strict Venture Capital (VC) Scout.
+    Role: Strict Venture Capital and Startup News Scout.
     Input News: "{title}"
     Summary: "{summary}"
 
-    Categorize based on these rules:
+    You MUST classify the news based on the following STARTUP ONLY categories. If the news does not clearly belong to these startup ecosystem topics, you MUST REJECT it.
 
-    --- VIP (Must Publish) 💎 ---
-    1. Fundraising / Investment.
-    2. Innovative Ideas / Early-stage Startups.
-    3. Market Statistics / Growth Reports.
-    4. Obscure/Small country startups raising money.
+    ALLOWED CATEGORIES (STARTUP ECOSYSTEM ONLY):
+    - Product: Launch, Soft Launch, Beta, AI Model, API, SDK, Open Source
+    - Funding & M&A: Pre-Seed to Series D+, Angel, Grants, Acquisition, Merger
+    - Growth & Metrics: ARR, MRR, User Growth, Valuation, Unicorn, IPO, Delisting
+    - AI & Developer: AI Agents, MCP, LLM Infrastructure, Frameworks, DevTools, Cloud
+    - Business: Strategic Partnerships, Enterprise Deals, Government Contracts
+    - Founders & Startups: Founder Story, Success, Failures, Layoffs, Shutdowns, Pivots
+    - VC & Accelerators: New Funds, YC, Techstars, Portfolio Announcements
+    - Ecosystem & Industry: Market Reports, Web3, FinTech, HealthTech, SaaS, BioTech
 
-    --- NORMAL (Publish) 🔥 ---
-    1. Major Tech Shifts (AI breakthroughs).
-    2. Strategic Business Moves.
-
-    --- REJECT (Do Not Publish) 🗑️ ---
-    1. Gadget Reviews (Phones, Laptops).
-    2. App Updates/Features.
-    3. Corporate HR / CEO Change (Unless controversial).
-    4. Political Gossip.
-    5. Sales Festivals / Ads.
+    STRICT REJECTION (REJECT IF MATCHES):
+    - Gold prices, stock market general news, forex, crypto coin prices.
+    - Smartphone, PC, Laptop, Hardware or Gadget reviews/rumors.
+    - General consumer app updates.
+    - E-commerce sales, discounts, festivals, and promotional campaigns.
+    - Political news, general government news, or local corporate gossip.
+    - Any general tech news not directly tied to the startup, VC, or software-builder ecosystem.
 
     OUTPUT FORMAT ONLY: VIP | NORMAL | REJECT
     """
     try:
-        response = model.generate_content(prompt).text.strip()
+        response = model.generate_content(prompt).text.strip().upper()
         time.sleep(SAFE_SLEEP)
         if "VIP" in response: return "VIP"
         elif "NORMAL" in response: return "NORMAL"
@@ -108,16 +119,13 @@ def analyze_and_score_news(title, summary):
     except: return "REJECT"
 
 def generate_content(title, content, category, is_foreign):
-    # تعیین هشتگ ثابت
     fixed_hashtag = "#نیوز" if is_foreign else "#خبر"
     
-    # دستورالعمل رسمی برای ترجمه و بازنویسی
     if is_foreign:
-        style_instr = "Read the story and RETELL it in formal, professional Persian (News Anchor style). Do NOT translate word-for-word."
+        style_instr = "Read the story and RETELL it in formal, professional Persian. Do NOT translate word-for-word."
     else:
-        style_instr = "Rewrite the text in formal, professional Persian (Journalistic style)."
+        style_instr = "Rewrite the text in formal, professional Persian."
 
-    # تعیین طول متن
     length_instr = "Write 5 to 11 lines." if category == "VIP" else "Write 4 to 7 lines."
 
     prompt = f"""
@@ -129,8 +137,8 @@ def generate_content(title, content, category, is_foreign):
     1. **Headline:** Start immediately with a BOLD, professional Persian headline.
     2. **Body:** {style_instr}
        - {length_instr}
-       - Tone: **Formal, Professional, News-style (Press tone).**
-       - **STRICTLY FORBIDDEN:** Do NOT use greetings (Hello, Friends, Guys, Rofagha). Do NOT use slang or casual street language.
+       - Tone: **Formal, Professional, News-style.**
+       - **STRICTLY FORBIDDEN:** Do NOT use greetings. Do NOT use slang or casual street language.
        - Start the text directly with the news facts.
        - **Smart Context:** If mentioning an unknown startup, add a footer line with '💡' explaining it briefly.
     3. **Hashtags:** - Add exactly 3 hashtags at the end.
@@ -181,15 +189,11 @@ def check_feeds():
     history_lines = load_history()
     history_links = [line.split("|")[0] for line in history_lines]
     
-    # 150 دقیقه قبل
-    time_threshold = datetime.now() - timedelta(minutes=150)
-    
-    print("Checking feeds...")
+    time_threshold = datetime.now() - timedelta(hours=4)
     
     for url in ALL_URLS:
         try:
             is_foreign = url in FOREIGN_URLS
-            
             feed = feedparser.parse(url)
             for entry in feed.entries:
                 if hasattr(entry, 'published_parsed'):
@@ -201,9 +205,7 @@ def check_feeds():
                         text_analysis = entry.summary if 'summary' in entry else entry.title
                         category = analyze_and_score_news(entry.title, text_analysis)
                         
-                        if category == "REJECT":
-                            print(f"Rejected: {entry.title}")
-                            continue
+                        if category == "REJECT": continue
                         
                         if check_is_duplicate_topic(entry.title, history_lines):
                             save_to_history(entry.link, entry.title)
@@ -214,10 +216,9 @@ def check_feeds():
                         
                         if summary:
                             send_to_telegram(summary, extract_image(entry))
-                            print(f"Sent: {entry.title}")
                             save_to_history(entry.link, entry.title)
                             
-        except Exception as e: print(f"Error: {e}")
+        except: pass
 
 if __name__ == "__main__":
     check_feeds()

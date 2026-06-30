@@ -2,36 +2,30 @@ name: News Bot Runner
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # هر 30 دقیقه اجرا میشود
-  workflow_dispatch:        # اجازه اجرای دستی
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write           # مجوز برای ذخیره فایل هیستوری
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: دریافت کدها
-        uses: actions/checkout@v3
-
-      - name: تنظیمات گیت
-        run: |
+      - uses: actions/checkout@v3
+      
+      - run: |
           git config --global user.name "News Bot"
           git config --global user.email "bot@noreply.github.com"
-
-      - name: نصب پایتون
-        uses: actions/setup-python@v4
+          
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-
-      - name: نصب پیش‌نیازها
-        run: |
-          pip install -r requirements.txt
-
-      - name: اجرای ربات
-        env:
+          
+      - run: pip install -r requirements.txt
+      
+      - env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}

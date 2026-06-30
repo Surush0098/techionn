@@ -1479,3 +1479,4 @@ https://www.zoomit.ir/ai-articles/462125-founder-got-cancer-used-ai-fight-back-f
 https://www.zoomit.ir/ai-articles/462236-meituan-releases-longcat-2-ai-model/|بزرگ‌ترین مدل هوش مصنوعی چین معرفی شد؛ بدون نیاز به تراشه انویدیا
 https://www.zoomit.ir/business/462216-super-micro-taiwan-office-raid/|دادستانی تایوان به دفتر «سوپر مایکرو» یورش برد؛ تحقیق پیرامون قاچاق تراشه‌های AI
 https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/|Crypto exchange OKX wants AI agents to hire and pay each other
+https://news.crunchbase.com/venture/data-funding-solutions-ai-landgren-gilion/|We Need To Save Venture Capital From Bad Data

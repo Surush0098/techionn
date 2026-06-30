@@ -1502,3 +1502,4 @@ https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-loss
 https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/|X now offers an MCP server to make its platform easier for AI tools to use
 https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/|Podcasting platform Riverside enters the newsletter publishing game
 https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/|Amazon launches new $1 billion FDE org, following OpenAI and Anthropic
+https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/|Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade

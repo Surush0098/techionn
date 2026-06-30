@@ -1482,3 +1482,4 @@ https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-an
 https://news.crunchbase.com/venture/data-funding-solutions-ai-landgren-gilion/|We Need To Save Venture Capital From Bad Data
 https://news.crunchbase.com/venture/ma-ai-semiconductors-hardware-qa-munichiello-gvs/|GV’s Dave Munichiello On Qualcomm’s Modular Purchase, The Firm’s 10x Return And The Shift In AI Software
 https://www.eu-startups.com/2026/06/austrian-biotech-startup-epitome-therapeutics-announces-e4-million-in-funding-to-advance-programmes-and-grow-team/|Austrian BioTech startup Epitome Therapeutics announces €4 million in funding to advance programmes and grow team
+https://www.eu-startups.com/2026/06/uk-speech-ai-startup-lucida-ai-lands-e6-1-million-to-develop-speech-native-ai-for-global-communication/|UK speech AI startup Lucida AI lands €6.1 million to develop speech-native AI for global communication

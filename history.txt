@@ -1527,3 +1527,4 @@ https://www.zoomit.ir/ai-articles/462272-anthropic-launches-claude-sonnet-5/|ه�
 https://www.zoomit.ir/ai-articles/462270-anthropic-launches-claude-science-workbench/|کلاود ساینس رونمایی شد؛ هوش مصنوعی در خدمت تحقیقات علمی
 https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/|The DeepMind trio who built a poker AI are now making money for quant hedge funds
 https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/|The DeepMind trio who built a poker AI are now making money for quant hedge funds
+https://www.zoomit.ir/tech/462238-meta-brain2qwerty-v2-release/|رمزگشایی افکار؛ تکنولوژی جدید متا امواج مغزی را به متن تبدیل می‌کند

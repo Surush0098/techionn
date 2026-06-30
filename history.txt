@@ -1525,3 +1525,4 @@ https://ecomotive.ir/1405/04/09/%d9%85%d8%af%db%8c%d8%b1%d8%b9%d8%a7%d9%85%d9%84
 https://www.zoomit.ir/ai-tutorials/462223-github-copilot-token-usage-tips/|چطور همزمان با مدیریت توکن در گیت‌ هاب کوپایلت، دقت و سرعت پاسخ‌ها را افزایش دهیم؟
 https://www.zoomit.ir/ai-articles/462272-anthropic-launches-claude-sonnet-5/|هوش مصنوعی «کلاود سانت ۵» معرفی شد؛ کاهش چشمگیر هزینه‌ها با مدل جدید آنتروپیک
 https://www.zoomit.ir/ai-articles/462270-anthropic-launches-claude-science-workbench/|کلاود ساینس رونمایی شد؛ هوش مصنوعی در خدمت تحقیقات علمی
+https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/|The DeepMind trio who built a poker AI are now making money for quant hedge funds

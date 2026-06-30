@@ -1510,3 +1510,4 @@ https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-whe
 https://yourstory.com/2026/06/fibe-parent-files-draft-papers-with-sebi-for-ipo|Fibe parent files draft papers with Sebi for IPO
 https://www.zoomit.ir/report/462235-online-gold-platforms-criticize-banks-and-regulator/|فعالان طلای آنلاین: انحصار، تعلل در تنظیم‌گری و رقابت بانک‌ها بازار را تهدید می‌کند
 https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/|Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip
+https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/|Acti puts AI agents directly into your smartphone keyboard

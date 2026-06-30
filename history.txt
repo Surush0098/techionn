@@ -1467,3 +1467,4 @@ https://www.zoomit.ir/gadget/462189-openai-work-louder-codex-hardware/|قدم ا
 https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/|Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role
 https://www.zoomit.ir/car/462139-catl-global-battery-standardization-alliance/|اتحاد بی‌ام‌و، گوگل، شیائومی و CATL برای بازنویسی قوانین بازار باتری
 https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85|DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%
+https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips|Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter — trained entirely on Chinese chips

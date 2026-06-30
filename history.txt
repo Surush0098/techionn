@@ -1517,3 +1517,4 @@ https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheape
 https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/|Acti puts AI agents directly into your smartphone keyboard
 https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/|Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists
 https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo|Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO
+https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation|Google's Gemini Omni Flash hits the API, turning enterprise video production into a conversation

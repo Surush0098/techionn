@@ -1545,3 +1545,4 @@ https://www.zoomit.ir/ai-articles/462275-google-nano-banana-2-lite-release/|نا
 https://www.zoomit.ir/ai-articles/462277-anthropic-claude-fable-5-returns/|دولت آمریکا محدودیت‌های هوش مصنوعی کلاود فیبل ۵ را لغو کرد
 https://www.zoomit.ir/ai-articles/462276-gemini-omni-flash-revealed/|تولید و ویرایش ویدیو با مکالمه؛ هوش مصنوعی جمنای آمنی فلش معرفی شد
 https://www.zoomit.ir/ai-articles/462274-google-notebooklm-ai-clips-feature/|هوش مصنوعی NotebookLM حالا نتایج تحقیقات را به یک کلیپ کوتاه تبدیل می‌کند
+https://www.wired.com/story/telehealth-middlemen-turnkey-healthcare-providers-glp1/|Just About Anyone Can Sell You GLP-1s Online Now

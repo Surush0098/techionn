@@ -1594,3 +1594,4 @@ https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launc
 https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/|Cloudflare’s new policy pushes AI companies to pay for publishers’ content
 https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/|You Can Now Sound the Alarm on AI Behaving Badly
 https://news.crunchbase.com/startups/tech-layoffs/|The Crunchbase Tech Layoffs Tracker
+https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand|The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand

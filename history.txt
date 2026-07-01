@@ -1593,3 +1593,4 @@ https://techcrunch.com/podcast/humble-robotics-ceo-says-the-tech-finally-caught-
 https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/|Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller
 https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/|Cloudflare’s new policy pushes AI companies to pay for publishers’ content
 https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/|You Can Now Sound the Alarm on AI Behaving Badly
+https://news.crunchbase.com/startups/tech-layoffs/|The Crunchbase Tech Layoffs Tracker

@@ -1544,3 +1544,4 @@ https://ecomotive.ir/1405/04/10/%d9%be%d8%a7%db%8c%d8%a7%d9%86-%d8%af%d8%ba%d8%a
 https://www.zoomit.ir/ai-articles/462275-google-nano-banana-2-lite-release/|نانو بنانا ۲ لایت معرفی شد؛ سریع‌ترین و ارزان‌ترین هوش مصنوعی گوگل
 https://www.zoomit.ir/ai-articles/462277-anthropic-claude-fable-5-returns/|دولت آمریکا محدودیت‌های هوش مصنوعی کلاود فیبل ۵ را لغو کرد
 https://www.zoomit.ir/ai-articles/462276-gemini-omni-flash-revealed/|تولید و ویرایش ویدیو با مکالمه؛ هوش مصنوعی جمنای آمنی فلش معرفی شد
+https://www.zoomit.ir/ai-articles/462274-google-notebooklm-ai-clips-feature/|هوش مصنوعی NotebookLM حالا نتایج تحقیقات را به یک کلیپ کوتاه تبدیل می‌کند

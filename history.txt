@@ -1629,3 +1629,4 @@ https://techcabal.com/2026/07/02/battery-rentals-are-spreading-from-south-africa
 https://techcabal.com/2026/07/02/kenyan-startups-face-tougher-legal-test-layoffs/|Kenya court says restructuring alone cannot justify layoffs, raising startup risks
 https://techcabal.com/2026/07/02/new-nimc-law-turns-identity-into-critical-digital-infrastructure/|Nigeria’s new identity law turns NIMC into the country’s digital trust authority
 https://www.zoomit.ir/ai-articles/462358-gpt-5-6-sol-coming-soon/|هوش مصنوعی قدرتمند GPT-5.6 Sol احتمالا تا هفته آینده معرفی می‌شود
+https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/|Microsoft launches its own AI deployment company with $2.5 billion commitment

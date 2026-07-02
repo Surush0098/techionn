@@ -1643,3 +1643,4 @@ https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-jou
 https://www.zoomit.ir/health-medical/462061-parasite-serious-risk-human-health/|انگل پنهان در یک‌سوم انسان‌های دنیا تهدیدی جدی برای بینایی و بارداری است
 https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/|Meta quietly launches vibe-coded gaming app Pocket
 https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/|Anthropic is discussing a new custom chip with Samsung
+https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/|Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?

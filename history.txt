@@ -1646,3 +1646,4 @@ https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with
 https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/|Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?
 https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/|IQM, Europe’s first public quantum company, admits the future of the tech is uncertain
 https://www.zoomit.ir/ai-articles/462415-microsoft-copilot-earn-right-to-exist-memo-autopilot/|اولتیماتوم مایکروسافت به تیم کوپایلوت: «حق بقای خود را ثابت کنید!»
+https://www.zoomit.ir/business/462414-microsoft-frontier-ai-investment/|شرکت «مایکروسافت فرانتیر» متولد شد؛ مهاجم تازه‌نفس بازار هوش مصنوعی با ۶ هزار نیروی متخصص

@@ -1645,3 +1645,4 @@ https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-po
 https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/|Anthropic is discussing a new custom chip with Samsung
 https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/|Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?
 https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/|IQM, Europe’s first public quantum company, admits the future of the tech is uncertain
+https://www.zoomit.ir/ai-articles/462415-microsoft-copilot-earn-right-to-exist-memo-autopilot/|اولتیماتوم مایکروسافت به تیم کوپایلوت: «حق بقای خود را ثابت کنید!»

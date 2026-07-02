@@ -1622,3 +1622,4 @@ https://news.crunchbase.com/venture/global-startup-exits-ipo-ma-soar-ai-q2-h1-20
 https://www.eu-startups.com/2026/07/bidscript-reports-up-to-50-higher-tender-win-rates-as-it-secures-e701k-pre-seed-funding/|BidScript reports up to 50% higher tender win rates as it secures €701k pre-Seed funding
 https://www.eu-startups.com/2026/07/the-eu-startups-podcast-interview-with-jos-white-co-founder-of-notion-capital/|The EU-Startups Podcast | Interview with Jos White, co-founder of Notion Capital
 https://www.eu-startups.com/2026/07/quantum-systems-lands-e1-billion-series-d-in-one-of-europes-largest-defencetech-financings/|Quantum Systems lands €1 billion Series D in one of Europe’s largest DefenceTech financings
+https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding|Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding

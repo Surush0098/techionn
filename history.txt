@@ -1617,3 +1617,4 @@ https://techcabal.com/2026/07/02/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-d
 https://www.zoomit.ir/iran-news/462338-iran-job-market-spring-2026-report/|کم‌رونق‌ترین بهار بازار کار؛ آگهی‌های استخدام سقوط کرد، ارسال رزومه رکورد زد
 https://www.zoomit.ir/business/462377-jelani-nelson-joined-anthropic/|استاد برجسته و عضو هیئت علمی دانشگاه هاروارد به انتروپیک پیوست
 https://www.zoomit.ir/economics/462367-openai-equity-stake-proposal-us-government/|فرار از فشارهای سیاسی؛ OpenAI پنج درصد از سهامش را به دولت آمریکا پیشنهاد کرد
+https://www.zoomit.ir/ai-articles/462351-xai-launched-voice-agent-builder/|ساخت دستیار صوتی بدون کدنویسی؛ هوش مصنوعی Voice Agent Builder معرفی شد

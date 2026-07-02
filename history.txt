@@ -1649,3 +1649,4 @@ https://www.zoomit.ir/ai-articles/462415-microsoft-copilot-earn-right-to-exist-m
 https://www.zoomit.ir/business/462414-microsoft-frontier-ai-investment/|شرکت «مایکروسافت فرانتیر» متولد شد؛ مهاجم تازه‌نفس بازار هوش مصنوعی با ۶ هزار نیروی متخصص
 https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/|Jersey Mike’s IPO illustrates how bad the AI hype has become
 https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99|New Alibaba AI framework skips loading every tool, cutting agent token use 99%
+https://www.zoomit.ir/business/462412-anthropic-samsung-custom-chip-talks/|آنتروپیک احتمالا با همکاری سامسونگ «تراشه هوش مصنوعی اختصاصی» می‌سازد

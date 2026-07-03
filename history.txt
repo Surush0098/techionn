@@ -1651,3 +1651,4 @@ https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hy
 https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99|New Alibaba AI framework skips loading every tool, cutting agent token use 99%
 https://www.zoomit.ir/business/462412-anthropic-samsung-custom-chip-talks/|آنتروپیک احتمالا با همکاری سامسونگ «تراشه هوش مصنوعی اختصاصی» می‌سازد
 https://www.zoomit.ir/robotics-smart-machines/462375-ant-group-invests-in-zeroth-robotics/|ورود غول چینی به دنیای ربات‌های انسان‌نما؛ حرکت استراتژیک آنت گروپ
+https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/|Last chance to apply — Startup Battlefield Australia applications close July 6

@@ -1676,3 +1676,4 @@ https://startup360.ir/new-generation-entrepreneurs-ai-future-of-business/|چرا
 https://startup360.ir/china-tech-valuation-slump-investors-ai-concerns/|افت شدید ارزش سهام شرکت‌های فناوری چین ادامه دارد و سرمایه‌گذاران هنوز محتاط هستند
 https://www.zoomit.ir/energy-environment/462111-ge-vernova-gas-turbines-ai-data-centers-feaatured/|پایان شعارهای سبز غول‌های فناوری؛ توربین‌های گازی چگونه چت‌بات‌ها را روشن نگه می‌دارند؟
 https://www.zoomit.ir/os/462401-microsoft-aion-ai-os-leak/|جزئیات پروژه مرموز Aion لو رفت؛ سیستم‌عامل هوش مصنوعی مایکروسافت
+https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models|Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models

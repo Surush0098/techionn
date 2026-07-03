@@ -1652,3 +1652,4 @@ https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-eve
 https://www.zoomit.ir/business/462412-anthropic-samsung-custom-chip-talks/|آنتروپیک احتمالا با همکاری سامسونگ «تراشه هوش مصنوعی اختصاصی» می‌سازد
 https://www.zoomit.ir/robotics-smart-machines/462375-ant-group-invests-in-zeroth-robotics/|ورود غول چینی به دنیای ربات‌های انسان‌نما؛ حرکت استراتژیک آنت گروپ
 https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/|Last chance to apply — Startup Battlefield Australia applications close July 6
+https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/|Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped

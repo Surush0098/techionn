@@ -1689,3 +1689,4 @@ https://www.zoomit.ir/software-news/462425-microsoft-teams-facilitator-ai-featur
 https://techcabal.com/2026/07/04/courage-nyoni-lobola-calculator/|A Zimbabwean developer built a bride price calculator that went global
 https://www.zoomit.ir/ai-articles/462461-claude-fable-relaunch-performance-issues/|نسخه جدید Claude Fable بسیار ضعیف‌تر از نسخه‌ قبلی است
 https://www.zoomit.ir/ai-articles/462483-kimi-k27-code-generally-available-github-copilot/|هوش مصنوعی کدنویس Kimi K2.7 Code وارد گیت‌هاب کوپایلت شد
+https://www.zoomit.ir/iran-news/462493-digital-education-ai-assistants-for-teachers/|معاون وزیر ارتباطات: دستیارهای هوش مصنوعی برای معلمان توسعه داده می‌شود

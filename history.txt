@@ -1686,3 +1686,4 @@ https://www.zoomit.ir/robotics-smart-machines/462423-ubtech-launches-uworld-u1-h
 https://www.zoomit.ir/ai-tutorials/462403-ai-agents-explained/|ایجنت هوش مصنوعی چیست؟ از کجا بدانیم چه زمانی به AI Agent نیاز داریم؟
 https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/|3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t
 https://www.zoomit.ir/software-news/462425-microsoft-teams-facilitator-ai-feature/|هوش مصنوعیِ پیش‌گو؛ دستیار «مایکروسافت تیمز» قبل از پرسیدن سؤال، پاسخ‌ را آماده می‌کند
+https://techcabal.com/2026/07/04/courage-nyoni-lobola-calculator/|A Zimbabwean developer built a bride price calculator that went global

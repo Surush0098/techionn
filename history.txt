@@ -1688,3 +1688,4 @@ https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/|3 Nuc
 https://www.zoomit.ir/software-news/462425-microsoft-teams-facilitator-ai-feature/|هوش مصنوعیِ پیش‌گو؛ دستیار «مایکروسافت تیمز» قبل از پرسیدن سؤال، پاسخ‌ را آماده می‌کند
 https://techcabal.com/2026/07/04/courage-nyoni-lobola-calculator/|A Zimbabwean developer built a bride price calculator that went global
 https://www.zoomit.ir/ai-articles/462461-claude-fable-relaunch-performance-issues/|نسخه جدید Claude Fable بسیار ضعیف‌تر از نسخه‌ قبلی است
+https://www.zoomit.ir/ai-articles/462483-kimi-k27-code-generally-available-github-copilot/|هوش مصنوعی کدنویس Kimi K2.7 Code وارد گیت‌هاب کوپایلت شد

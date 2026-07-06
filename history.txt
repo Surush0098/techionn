@@ -1762,3 +1762,4 @@ https://www.zoomit.ir/ai-articles/462522-ampera-unveils-3d-printed-thorium-nucle
 https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/|Vercel CEO Guillermo Rauch on the fight to split off models from agents
 https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/|Every major tech layoff in 2026 that has name-checked AI
 https://www.zoomit.ir/ai-articles/462589-spacex-trademarks-spacexai-satellite-ai/|نام تجاری «اسپیس‌ایکس‌ای‌آی» برای پروژه دیتاسنترهای فضایی ایلان ماسک ثبت شد
+https://www.zoomit.ir/security/462525-are-captchas-obsolete-in-the-age-of-ai/|نفس‌های پایانی «کپچا»؛ هوش مصنوعی به‌راحتی ابزارهای تشخیص هویت را به بازی می‌گیرد

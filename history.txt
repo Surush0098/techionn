@@ -1757,3 +1757,4 @@ https://www.eu-startups.com/2026/07/bgf-surpasses-e5-8-billion-deployed-after-15
 https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding|Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size — and wins everywhere except coding
 https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents|What billions of AI predictions taught Expedia before the age of AI agents
 https://www.zoomit.ir/robotics-smart-machines/462523-uaw-union-general-motors-layoff-robots/|۵۰ ربات هوشمند، هزار کارگر یک شرکت خودروسازی را خانه‌نشین کردند
+https://www.zoomit.ir/business/462583-apple-broadcom-extend-chip-deal-2031/|اپل و برودکام همکاری در حوزه تراشه را تا سال ۲۰۳۱ تمدید کردند

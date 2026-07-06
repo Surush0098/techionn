@@ -1754,3 +1754,4 @@ https://www.zoomit.ir/ai-articles/462521-alibaba-bans-claude-code-employees-qode
 https://www.zoomit.ir/cryptocurrency/462573-ill-bloom-crypto-wallet-vulnerability/|یک آسیب‌پذیری خطرناک در کمین هزاران والت رمزارز است
 https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/|Microsoft lays off nearly 5,000 employees across Xbox, commercial sales
 https://www.eu-startups.com/2026/07/bgf-surpasses-e5-8-billion-deployed-after-15-years-backing-uk-and-irish-startups/|BGF surpasses €5.8 billion deployed after 15 years backing UK and Irish startups
+https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding|Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size — and wins everywhere except coding

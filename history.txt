@@ -1809,3 +1809,4 @@ https://techcabal.com/2026/07/07/road-to-moonshot-nairobi-2026/|TechCabal’s Ro
 https://techcabal.com/2026/07/07/francophone-weekly-by-techcabal-030/|The new $50 million fund backing Senegalese startups
 https://startup360.ir/netflix-binge-model-challenge/|نتفلیکس برای رقابت با تیک‌تاک و یوتیوب باید مدل انتشار سریال‌هایش را تغییر دهد
 https://ecomotive.ir/1405/04/16/%d8%aa%d8%af%d9%88%db%8c%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%d8%a2%d9%88%d8%b1%db%8c-%d8%a8%d8%a7%d8%b1-%d8%a7%d9%88%d9%84-%d8%a8%d8%a7-%d9%87%d8%af%d9%81-%d8%a8%d9%87%d8%a8%d9%88/|تدوین برنامه نوآوری بار اول با هدف بهبود بهره وری انرژی
+https://www.zoomit.ir/ai-tutorials/462538-ai-agents-with-n8n/|آموزش گام‌به‌گام ساخت ایجنت هوش مصنوعی با n8n

@@ -1774,3 +1774,4 @@ https://www.zoomit.ir/business/462591-xbox-ceo-reflects-on-massive-cuts-and-rest
 https://www.zoomit.ir/business/462599-spacex-rebrands-xai-spacexai/|تغییر نام xAI به SpaceXAI تکمیل شد؛ ادغام شرکت‌های معروف ایلان ماسک
 https://www.zoomit.ir/ai-articles/462594-anthropic-discovers-global-workspace-claude-language-models/|یک مطالعه جنجالی از شباهت ساختار درونی «کلاد» به مغز انسان پرده برمی‌دارد
 https://www.eu-startups.com/2026/07/london-based-hive-raises-e13-1-million-to-build-silicon-brain-for-industrial-machines/|London-based HIVE raises €13.1 million to build “silicon brain” for industrial machines
+https://www.eu-startups.com/2026/07/largest-european-fusion-investment-on-record-sees-proxima-fusion-raise-e411-million/|Largest European fusion investment on record sees Proxima Fusion raise €411 million

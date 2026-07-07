@@ -1825,3 +1825,4 @@ https://techcrunch.com/2026/07/07/final-extension-startup-battlefield-australia-
 https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/|Meta rolls out Muse, a new AI image generator
 https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/|Microsoft joins AI cost-cutting trend by relying more on its own models
 https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/|Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out
+https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/|OpenAI’s Chief Futurist Is Leaving the Company

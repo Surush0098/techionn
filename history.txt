@@ -1766,3 +1766,4 @@ https://www.zoomit.ir/security/462525-are-captchas-obsolete-in-the-age-of-ai/|ن
 https://www.zoomit.ir/ai-articles/462524-why-western-labs-are-lagging-in-ai-video-models/|غول‌های فناوری آمریکا، از رقابت در بازار ویدیوهای هوش مصنوعی جا مانده‌اند؛ چرا؟
 https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness|Anthropic's new "J-lens" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness
 https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/|The ‘first’ AI-run ransomware attack still needed a human
+https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/|US investors will soon get access to SK Hynix, another memory maker riding the AI boom

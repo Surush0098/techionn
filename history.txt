@@ -1884,3 +1884,4 @@ https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-trainin
 https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/|Why this CEO thinks video games make better training data than the internet
 https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/|OpenAI releases new voice models for more natural live conversations
 https://www.zoomit.ir/ai-articles/462707-chatgpt-upgraded-voice-mode-gpt-live/|هوش مصنوعی صوتی GPT-Live با عملکرد باورنکردنی رونمایی شد + ویدیو
+https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/|With EU backing, QuantumDiamonds aims to speed up chip manufacturing

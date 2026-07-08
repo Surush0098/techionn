@@ -1865,3 +1865,4 @@ https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data
 https://startup360.ir/adobe-figma-design-software-empire-challenge/|چگونه ادوبی از نوآورترین شرکت نرم‌افزار خلاق به یک غول مورد انتقاد تبدیل شد؟
 https://www.zoomit.ir/ai-articles/462647-deepseek-secretly-developing-own-ai-chip-replace-nvidia/|مدیران هوش مصنوعی چینی دیپ‌سیک به تولید تراشه اختصاصی فکر می‌کنند
 https://www.zoomit.ir/pr/462688-emdadyar24-app-launches-pr/|امدادیار24 شروع به کار کرد؛ نرم‌افزاری برای نظم دادن به امداد و خدمات خودرو
+https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/|These AI startups are growing  revenue at faster and faster rates

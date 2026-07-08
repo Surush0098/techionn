@@ -1858,3 +1858,4 @@ https://startup360.ir/wepod-ask-me-ai-chatbot/|ویپاد قابلیت «از م
 https://www.zoomit.ir/security/462687-china-warns-against-claude-code-security-risks/|مقامات چینی: هوش مصنوعی Claude Code از کاربران جاسوسی می‌کند
 https://www.zoomit.ir/health-medical/462595-chemo-free-technique-destroys-cancer-cells/|تکنیک چکش مولکولی برای درمان سرطان در آزمایش‌های جدید نویدبخش ظاهر شد
 https://www.zoomit.ir/iran-news/462670-elecomp-business-resilience/|عضو سازمان نصر: الکامپ امسال باید به حل مسائل شرکت‌ها در بحران بپردازد
+https://www.zoomit.ir/pr/462671-pars-web-server-node-js-pr/|پارس وب سرور و مسیر تکامل میزبانی Node.js؛ از VPS های پیچیده تا هاست ‌های تخصصی

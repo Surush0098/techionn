@@ -1862,3 +1862,4 @@ https://www.zoomit.ir/pr/462671-pars-web-server-node-js-pr/|پارس وب سرو
 https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/|Former OpenAI exec Kevin Weil is now on the board of Stoke Space
 https://www.eu-startups.com/2026/07/why-ai-provider-dependency-is-becoming-europes-next-startup-risk-sponsored/|Why AI provider dependency is becoming Europe’s next startup risk (Sponsored)
 https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message|Slack’s Slackbot can now pull your CRM data, generate charts, and send DocuSigns — all from a chat message.
+https://startup360.ir/adobe-figma-design-software-empire-challenge/|چگونه ادوبی از نوآورترین شرکت نرم‌افزار خلاق به یک غول مورد انتقاد تبدیل شد؟

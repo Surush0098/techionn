@@ -1888,3 +1888,4 @@ https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-
 https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/|SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’
 https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/|This startup thinks robotics is about to have its ChatGPT moment
 https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/|I Built a Self-Improving AI, and So Can You
+https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person|OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person

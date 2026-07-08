@@ -1828,3 +1828,4 @@ https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai
 https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/|OpenAI’s Chief Futurist Is Leaving the Company
 https://yourstory.com/2026/07/the-complexity-tax-are-organisations-caught-up-in-the-ai-adoption-wave|The complexity tax: Are organisations caught up in the AI adoption wave?
 https://yourstory.com/2026/07/the-cost-of-caregiving|The cost of caregiving; Cult.Fit files draft IPO papers
+https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/|Hot French startup ZML releases free product to speed inference across lots of AI chips

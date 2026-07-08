@@ -1830,3 +1830,4 @@ https://yourstory.com/2026/07/the-complexity-tax-are-organisations-caught-up-in-
 https://yourstory.com/2026/07/the-cost-of-caregiving|The cost of caregiving; Cult.Fit files draft IPO papers
 https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/|Hot French startup ZML releases free product to speed inference across lots of AI chips
 https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/|Hot French startup ZML releases free product to speed inference across lots of AI chips
+https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/|AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round

@@ -1855,3 +1855,4 @@ https://techcabal.com/2026/07/08/administrators-seek-buyers-for-collapsed-koko-n
 https://startup360.ir/mark-zuckerberg-no-retirement-ai-projects/|مارک زاکربرگ: حتی با ثروت نامحدود هم بازنشسته نمی‌شوم
 https://startup360.ir/ai-index-companies-real-ai-adoption/|همه از هوش مصنوعی حرف می‌زنند، اما کدام شرکت‌ها واقعا از آن استفاده می‌کنند؟
 https://startup360.ir/wepod-ask-me-ai-chatbot/|ویپاد قابلیت «از من بپرس» را برای پشتیبانی هوشمند کاربران معرفی کرد
+https://www.zoomit.ir/security/462687-china-warns-against-claude-code-security-risks/|مقامات چینی: هوش مصنوعی Claude Code از کاربران جاسوسی می‌کند

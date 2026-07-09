@@ -1949,3 +1949,4 @@ https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its
 https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/|OpenAI is shutting down Atlas, but its AI browser ambitions are still growing
 https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/|Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic
 https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/|Can AI answer the $3 trillion question?
+https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research|Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds

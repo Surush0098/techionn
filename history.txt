@@ -1930,3 +1930,4 @@ https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/|Mercor
 https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/|New York Times says OpenAI hid evidence in ChatGPT copyright trial
 https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/|Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia
 https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/|How did the government decide OpenAI’s frontier model was safe to release?
+https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/|How to stop Meta’s AI image generator from using your Instagram photos

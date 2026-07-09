@@ -1934,3 +1934,4 @@ https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-usin
 https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/|Meta’s new AI chips will begin production in September
 https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/|Anthropic Wants You to Pay Up for Claude Fable 5
 https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x|Enterprises using multiple AI models are underestimating failure rates by 2.25x
+https://yourstory.com/2026/07/accels-akhilesh-agarwal-passes-away-startup-ecosystem-pays-tribute|Accel's Akhilesh Agarwal passes away; startup ecosystem pays tribute

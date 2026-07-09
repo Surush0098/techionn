@@ -1946,3 +1946,4 @@ https://www.zoomit.ir/ai-articles/462778-gpt-5-6-sol-performance-and-pricing/|ه
 https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/|An AI agent startup just let its agent run its $100 million fundraise
 https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/|OpenAI launches its new family of models with GPT-5.6
 https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/|An AI agent startup just let its agent run its $100 million fundraise
+https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/|OpenAI is shutting down Atlas, but its AI browser ambitions are still growing

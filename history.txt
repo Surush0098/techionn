@@ -1928,3 +1928,4 @@ https://www.zoomit.ir/ai-articles/462763-anthropic-claude-wrapped-reflection-ai-
 https://www.zoomit.ir/iran-news/462760-otp-corporate-seal-legal-opinion/|اداره حقوقی قوه قضاییه: رمز یک‌بار مصرف جایگزین مهر است، نه امضای الکترونیکی
 https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/|Mercor is in talks for a $20B valuation
 https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/|New York Times says OpenAI hid evidence in ChatGPT copyright trial
+https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/|Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia

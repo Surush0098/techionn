@@ -1937,3 +1937,4 @@ https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-u
 https://yourstory.com/2026/07/accels-akhilesh-agarwal-passes-away-startup-ecosystem-pays-tribute|Accel's Akhilesh Agarwal passes away; startup ecosystem pays tribute
 https://techcabal.com/2026/07/09/refiant-ai-launches-10-million-token-ai-model/|South Africa-founded startup launches AI model with 10 million-token memory
 https://techcabal.com/2026/07/09/why-nigerias-telemedicine-sector-is-growing-again/|Why Nigeria’s telemedicine sector is growing again
+https://www.zoomit.ir/ai-articles/462776-openai-gpt-5-6-chatgpt-work-launch/|همزمان با انتشار GPT-5.6، هوش مصنوعی جدید ChatGPT Work رونمایی شد

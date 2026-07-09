@@ -1924,3 +1924,4 @@ https://techcabal.com/2026/07/09/jego-gocab-evs/|JéGO, GoCab strike deal to put
 https://techcabal.com/2026/07/09/float-expands-to-uk/|Why a South African fintech chose the UK before the rest of Africa
 https://www.zoomit.ir/ai-articles/462765-meta-muse-spark-1-1-coding-model/|هوش مصنوعی جدید متا با تمرکز ویژه بر کدنویسی معرفی شد
 https://www.zoomit.ir/ai-articles/462750-meta-builds-first-canadian-data-center-alberta/|متا برای اولین‌بار دیتاسنتر هوش مصنوعی در کانادا احداث می‌کند
+https://www.zoomit.ir/ai-articles/462763-anthropic-claude-wrapped-reflection-ai-usage/|قابلیت جدید Claude برای تحلیل رفتار کاربران هوش مصنوعی معرفی شد

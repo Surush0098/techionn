@@ -1927,3 +1927,4 @@ https://www.zoomit.ir/ai-articles/462750-meta-builds-first-canadian-data-center-
 https://www.zoomit.ir/ai-articles/462763-anthropic-claude-wrapped-reflection-ai-usage/|قابلیت جدید Claude برای تحلیل رفتار کاربران هوش مصنوعی معرفی شد
 https://www.zoomit.ir/iran-news/462760-otp-corporate-seal-legal-opinion/|اداره حقوقی قوه قضاییه: رمز یک‌بار مصرف جایگزین مهر است، نه امضای الکترونیکی
 https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/|Mercor is in talks for a $20B valuation
+https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/|New York Times says OpenAI hid evidence in ChatGPT copyright trial

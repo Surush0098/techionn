@@ -1944,3 +1944,4 @@ https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-
 https://www.zoomit.ir/movies-tv-shows/462633-apple-f1-streaming-deal-analysis/|مدیران فرمول یک به قرارداد پنج‌ساله با اپل خوش‌بین هستند
 https://www.zoomit.ir/ai-articles/462778-gpt-5-6-sol-performance-and-pricing/|هوش مصنوعی GPT-5.6 Sol با یک‌سوم هزینه، تقریبا هم‌سطح Fable 5 است
 https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/|An AI agent startup just let its agent run its $100 million fundraise
+https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/|OpenAI launches its new family of models with GPT-5.6

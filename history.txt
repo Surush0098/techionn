@@ -1995,3 +1995,4 @@ https://www.wired.com/story/prologium-battery-startup-betting-against-china/|Mee
 https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/|The Week’s 10 Biggest Funding Rounds: A Pair Of Billion-Dollar Deals For Cyber And AI Infrastructure Lead
 https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them|Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them
 https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen|Google's TabFM skips per-dataset training and still predicts on tables it's never seen
+https://www.zoomit.ir/ai-articles/462831-elon-musk-admits-anthropic-ai-leadership/|ایلان ماسک از رقیبش تعریف کرد: «آنتروپیک رهبر بازار هوش مصنوعی است»

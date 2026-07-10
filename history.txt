@@ -1969,3 +1969,4 @@ https://www.zoomit.ir/ai-articles/462787-gpt-5-6-safety-cybersecurity-features-a
 https://www.zoomit.ir/space/462784-worlds-first-commercial-nuclear-powered-payload-orbit/|اسپیس‌ایکس نخستین ماهواره تجاری حامل انرژی هسته‌ای دنیا را پرتاب کرد
 https://www.zoomit.ir/ai-articles/462786-gpt-5-6-promo-ai/|تماشا کنید: چطور ChatGPT 5.6 در کارهای روزانه به مردم کمک می‌کند؟
 https://www.zoomit.ir/ai-articles/462790-fidji-simo-steps-down-openai-agi-chief/|رئیس تیم AGI اوپن‌ای‌آی به‌دلیل ابتلا به بیماری مزمن از سمت خود کناره‌گیری کرد
+https://www.zoomit.ir/ai-articles/462789-openai-shuts-down-chatgpt-atlas-browser/|مرورگر هوشمند «چت‌جی‌پی‌تی اطلس» تعطیل شد

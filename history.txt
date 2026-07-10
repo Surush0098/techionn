@@ -2006,3 +2006,4 @@ https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/|Ap
 https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars|OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars
 https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less|Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less
 https://www.zoomit.ir/business/462828-gates-heir-shopping-app-phia-accused-of-cookie-stuffing/|رسوایی در استارتاپ دختر بیل گیتس؛ «فیا» به ثبت تراکنش جعلی متهم شد
+https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/|Apple sues OpenAI over alleged trade secret theft

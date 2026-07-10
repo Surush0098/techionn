@@ -1990,3 +1990,4 @@ https://techcabal.com/2026/07/10/nombank-slow-lending-strategy-is-delivering-fas
 https://startup360.ir/marketing-engineer-ai-revenue-teams/|چرا «مهندس بازاریابی» به مهم‌ترین شغل جدید تیم‌های درآمدی تبدیل شده است؟
 https://startup360.ir/ai-3-trillion-infrastructure-investment/|کارشناسان درباره بازگشت سرمایه عظیم صنعت هوش مصنوعی هشدار می‌دهند
 https://www.zoomit.ir/ai-tutorials/462780-claude-skills-explained/|راهنمای جامع Claude Skills: صفر تا صد استفاده از اسکیل‌های کلاد
+https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/|Open source AI matters more than ever, according to Hugging Face’s Clem Delangue

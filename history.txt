@@ -2003,3 +2003,4 @@ https://www.zoomit.ir/health-medical/462813-cancer-cases-expected-soar-worldwide
 https://www.zoomit.ir/space/462823-spacex-starlink-100000-satellites-gen3-fcc/|اسپیس‌ایکس می‌خواهد ۱۰۰هزار ماهواره استارلینک را در مدار زمین قرار دهد
 https://www.zoomit.ir/social-network/462817-meta-breaches-eu-dsa-addictive-design/|اعتیاد کاربران به اینستاگرام؛ جریمه ۱۲ میلیارد دلاری در انتظار متا است؟
 https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/|Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets
+https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars|OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars

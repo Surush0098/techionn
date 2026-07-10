@@ -1952,3 +1952,4 @@ https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/|Can AI 
 https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research|Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds
 https://www.zoomit.ir/economics/462734-cxmt-ipo-china-semiconductor/|تراشه‌ساز سرشناس چین وارد بازار بورس می‌شود
 https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/|OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter
+https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/|Fidji Simo steps down from OpenAI’s no. 2 role

@@ -1993,3 +1993,4 @@ https://www.zoomit.ir/ai-tutorials/462780-claude-skills-explained/|راهنما�
 https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/|Open source AI matters more than ever, according to Hugging Face’s Clem Delangue
 https://www.wired.com/story/prologium-battery-startup-betting-against-china/|Meet the Battery Startup Taking on China’s Giants
 https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/|The Week’s 10 Biggest Funding Rounds: A Pair Of Billion-Dollar Deals For Cyber And AI Infrastructure Lead
+https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them|Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them

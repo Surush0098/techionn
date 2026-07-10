@@ -1997,3 +1997,4 @@ https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-ga
 https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen|Google's TabFM skips per-dataset training and still predicts on tables it's never seen
 https://www.zoomit.ir/ai-articles/462831-elon-musk-admits-anthropic-ai-leadership/|ایلان ماسک از رقیبش تعریف کرد: «آنتروپیک رهبر بازار هوش مصنوعی است»
 https://www.zoomit.ir/economics/462830-sk-hynix-wall-street-debut/|ورود پرقدرت «اس‌کی هاینیکس» به بورس آمریکا با رکوردشکنی تاریخی
+https://www.zoomit.ir/linux/462829-linus-torvalds-not-a-programmer/|خالق لینوکس: من دیگر یک برنامه‌نویس نیستم

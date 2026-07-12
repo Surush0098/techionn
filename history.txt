@@ -2067,3 +2067,4 @@ https://www.zoomit.ir/aviation-aerospace/462947-spacex-starship-flight-13-starli
 https://www.zoomit.ir/car/462965-apple-failed-car-project-legacy-m7-ultra-ai-chips/|پروژه شکست‌خورده «اپل کار» مسیر تراشه‌های هوش مصنوعی اپل را تغییر داد
 https://www.zoomit.ir/business/460887-enron-biggest-fraud-history-featured/|داستان سقوط انران؛ شرکتی که میلیاردها دلار سود ساخت، بدون اینکه پولی در کار باشد
 https://www.zoomit.ir/iran-news/462929-iran-game-industry-crisis-report/|گزارش چالش‌های صنعت بازی‌سازی در ایران:‌ ۳۵ درصد از فعالان در فرایند مهاجرت یا در فکر آن هستند
+https://www.zoomit.ir/ai-articles/462910-ai-finds-ethereum-validator-bug-humans-verify/|هوش مصنوعی یک باگ بحرانی و مهم را در شبکه اتریوم پیدا کرد

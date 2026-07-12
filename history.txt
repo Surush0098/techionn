@@ -2065,3 +2065,4 @@ https://www.zoomit.ir/ai-articles/462962-stanford-study-local-llms-can-answer-mo
 https://www.zoomit.ir/report/462313-nobitex-user-behavior-report/|گزارش نوبیتکس: همستر کامبت در یک روز ۱۴۰ هزار کاربر را پای معامله رمزارزی کشاند
 https://www.zoomit.ir/aviation-aerospace/462947-spacex-starship-flight-13-starlink-v3-deployment/|ماهواره‌های نسل سوم استارلینک با دوربین‌های ویژه به فضا پرتاب می‌شوند
 https://www.zoomit.ir/car/462965-apple-failed-car-project-legacy-m7-ultra-ai-chips/|پروژه شکست‌خورده «اپل کار» مسیر تراشه‌های هوش مصنوعی اپل را تغییر داد
+https://www.zoomit.ir/business/460887-enron-biggest-fraud-history-featured/|داستان سقوط انران؛ شرکتی که میلیاردها دلار سود ساخت، بدون اینکه پولی در کار باشد

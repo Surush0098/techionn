@@ -2069,3 +2069,4 @@ https://www.zoomit.ir/business/460887-enron-biggest-fraud-history-featured/|دا
 https://www.zoomit.ir/iran-news/462929-iran-game-industry-crisis-report/|گزارش چالش‌های صنعت بازی‌سازی در ایران:‌ ۳۵ درصد از فعالان در فرایند مهاجرت یا در فکر آن هستند
 https://www.zoomit.ir/ai-articles/462910-ai-finds-ethereum-validator-bug-humans-verify/|هوش مصنوعی یک باگ بحرانی و مهم را در شبکه اتریوم پیدا کرد
 https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/|Uber’s Autonomous Vehicle Strategy: Slow Their Adoption
+https://www.zoomit.ir/ai-articles/462936-lingbot-world-2-open-source-world-model-released/|هوش مصنوعی جهان‌ساز LingBot-2.0 با پایداری خیره‌کننده معرفی شد

@@ -2071,3 +2071,4 @@ https://www.zoomit.ir/ai-articles/462910-ai-finds-ethereum-validator-bug-humans-
 https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/|Uber’s Autonomous Vehicle Strategy: Slow Their Adoption
 https://www.zoomit.ir/ai-articles/462936-lingbot-world-2-open-source-world-model-released/|هوش مصنوعی جهان‌ساز LingBot-2.0 با پایداری خیره‌کننده معرفی شد
 https://yourstory.com/2026/07/india-nano-enterprises-struggle-for-formal-loans-msme-sparks-2026|India's nano enterprises and the struggle for formal loans
+https://yourstory.com/2026/07/elasticruns-playbook-for-quick-commerce-making-job-applications-faster-smarter|ElasticRun’s playbook for last-mile delivery; Making job applications faster, smarter

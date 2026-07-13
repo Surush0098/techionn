@@ -2087,3 +2087,4 @@ https://www.zoomit.ir/ai-articles/462927-ai-pushing-older-workers-out-labor-mark
 https://www.zoomit.ir/iran-news/462989-fuel-quota-bank-card-transfer-infrastructure/|با هدف حذف کارت سوخت؛ مصوبه انتقال سهمیه بنزین به کارت بانکی ابلاغ شد
 https://www.zoomit.ir/social-network/462975-linkedin-most-ai-saturated-platform-study/|بیش از ۴۰ درصد پست‌های طولانی لینکدین را هوش مصنوعی می‌نویسد
 https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/|Python Is So Slow. Can Julia Solve the Two-Language Problem?
+https://news.crunchbase.com/venture/ai-ma-ipo-valuations-b2b-ranum-sapphire-ventures/|Welcome To The ‘Show Me’ Era: Sapphire Ventures’ Anders Ranum On What Separates Winning AI Startups From The Rest

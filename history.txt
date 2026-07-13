@@ -2086,3 +2086,4 @@ https://www.zoomit.ir/economics/462999-tsmc-q2-2024-revenue-record-ai-boom/|قد
 https://www.zoomit.ir/ai-articles/462927-ai-pushing-older-workers-out-labor-market/|هوش مصنوعی، بی‌سروصدا نسل قدیمی کارگران را به حاشیه می‌راند
 https://www.zoomit.ir/iran-news/462989-fuel-quota-bank-card-transfer-infrastructure/|با هدف حذف کارت سوخت؛ مصوبه انتقال سهمیه بنزین به کارت بانکی ابلاغ شد
 https://www.zoomit.ir/social-network/462975-linkedin-most-ai-saturated-platform-study/|بیش از ۴۰ درصد پست‌های طولانی لینکدین را هوش مصنوعی می‌نویسد
+https://www.wired.com/story/python-is-so-slow-can-julia-solve-the-two-language-problem/|Python Is So Slow. Can Julia Solve the Two-Language Problem?

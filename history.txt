@@ -2173,3 +2173,4 @@ https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-make
 https://www.eu-startups.com/2026/07/dutch-startup-destinus-leads-consortium-to-develop-anti-missile-defence-system-for-europe/|Dutch startup Destinus leads consortium to develop anti-missile defence system for Europe
 https://www.eu-startups.com/2026/07/meout-summit-bringing-europes-startup-ecosystem-to-budapest-this-november/|MeOut Summit: Bringing Europe’s startup ecosystem to Budapest this November
 https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis|1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis
+https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts|Canva launches Code 2.0, offering AI website building to every user — including free accounts

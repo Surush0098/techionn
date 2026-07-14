@@ -2172,3 +2172,4 @@ https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-front
 https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/|Superhuman’s new auto-draft feature almost makes me like AI replies
 https://www.eu-startups.com/2026/07/dutch-startup-destinus-leads-consortium-to-develop-anti-missile-defence-system-for-europe/|Dutch startup Destinus leads consortium to develop anti-missile defence system for Europe
 https://www.eu-startups.com/2026/07/meout-summit-bringing-europes-startup-ecosystem-to-budapest-this-november/|MeOut Summit: Bringing Europe’s startup ecosystem to Budapest this November
+https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis|1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis

@@ -2168,3 +2168,4 @@ https://www.zoomit.ir/iran-news/463110-talasea-repeat-purchase-rate/|بیش از
 https://www.zoomit.ir/ai-articles/463108-demis-hassabis-proposes-global-ai-watchdog-led-by-us/|مدیرعامل گوگل دیپ‌مایند: سازمانی بین‌المللی برای نظارت بر هوش مصنوعی ایجاد کنید
 https://www.zoomit.ir/processor/463104-samsung-to-manufacture-2nm-ai-chips-for-anthropic/|سامسونگ تراشه ۲ نانومتری برای آنتروپیک می‌سازد
 https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/|Reflection inks $1B compute deal with Nebius
+https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/|The real AI race may no longer be at the frontier

@@ -2261,3 +2261,4 @@ https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-se
 https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/|Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling
 https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/|Hack suggests AI music generator Suno scraped YouTube for training data
 https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/|Inside Ode with Anthropic, the startup betting AI services are the future of enterprise
+https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/|AI Isn’t Smarter Than a Baby—Yet

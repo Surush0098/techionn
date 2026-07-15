@@ -2264,3 +2264,4 @@ https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-se
 https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/|AI Isn’t Smarter Than a Baby—Yet
 https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/|Thinking Machines Lab Drops Its First Model
 https://www.zoomit.ir/ai-articles/463149-openai-gpt-5-6-sol-file-deletion-issues/|هشدار؛ نسخه جدید چت‌جی‌پی‌تی برخی از فایل‌ها را خودسرانه پاک می‌کند!
+https://www.zoomit.ir/ai-articles/463199-codex-users-grow/|هوش مصنوعی Codex در ۵ ماه به ۸ میلیون کاربر دست یافت!

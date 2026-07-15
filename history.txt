@@ -2266,3 +2266,4 @@ https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkli
 https://www.zoomit.ir/ai-articles/463149-openai-gpt-5-6-sol-file-deletion-issues/|هشدار؛ نسخه جدید چت‌جی‌پی‌تی برخی از فایل‌ها را خودسرانه پاک می‌کند!
 https://www.zoomit.ir/ai-articles/463199-codex-users-grow/|هوش مصنوعی Codex در ۵ ماه به ۸ میلیون کاربر دست یافت!
 https://www.zoomit.ir/biology/463167-uranium-eating-bacteria-discovered/|دانشمندان در معدن متروکه شوروی، باکتری‌های اورانیوم‌خوار کشف کردند
+https://www.zoomit.ir/biology/462508-new-view-ovarian-aging/|یائسگی قانون ابدی نیست؛ زنان شاید در طول زندگی قادر به ساخت تخمک جدید باشند

@@ -2226,3 +2226,4 @@ https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-un
 https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/|Rime picks up $24M Series A to help enterprises field customer calls
 https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/|Indian AI coding startup Emergent becomes a unicorn with $130M Series C
 https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/|Vint Cerf is working on a plan to unleash AI agents on the open internet
+https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/|An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI

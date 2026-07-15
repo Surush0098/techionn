@@ -2271,3 +2271,4 @@ https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-r
 https://news.crunchbase.com/ma/stripe-acquisition-pace-accelerates-paypal/|Stripe’s Acquisition Pace Has Accelerated In The Past Five Years, But Nothing Comes Close To Its Reported $53B PayPal Bet
 https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack|Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026
 https://www.zoomit.ir/os/463059-waydroid-linux-android-16-run/|این ابزار پیشرفته، اندروید ۱۶ را روی لینوکس اجرا می‌کند
+https://www.zoomit.ir/ai-articles/463217-openai-reveals-gpt-red-security-testing/|هوش مصنوعی پیشرفته GPT-Red برای تست امنیت سیستم‌ها معرفی شد

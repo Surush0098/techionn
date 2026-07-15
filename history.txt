@@ -2259,3 +2259,4 @@ https://ecomotive.ir/1405/04/24/%d8%b1%d8%a6%db%8c%d8%b3-%d8%b5%d9%86%d8%af%d9%8
 https://www.zoomit.ir/ai-articles/463146-coinbase-ai-coding-adoption/|بیش‌از ۹۵ درصد کدهای صرافی کوین‌بیس با هوش مصنوعی نوشته می‌شود
 https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/|Inside Ode with Anthropic, the startup betting AI services are the future of enterprise
 https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/|Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling
+https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/|Hack suggests AI music generator Suno scraped YouTube for training data

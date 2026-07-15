@@ -2273,3 +2273,4 @@ https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requ
 https://www.zoomit.ir/os/463059-waydroid-linux-android-16-run/|این ابزار پیشرفته، اندروید ۱۶ را روی لینوکس اجرا می‌کند
 https://www.zoomit.ir/ai-articles/463217-openai-reveals-gpt-red-security-testing/|هوش مصنوعی پیشرفته GPT-Red برای تست امنیت سیستم‌ها معرفی شد
 https://www.zoomit.ir/ai-articles/462587-ai-bubble-burst-faetured/|حباب هوش مصنوعی چطور شکل گرفت و ترکیدن آن چه بلایی سر اقتصاد می‌آورد؟
+https://www.zoomit.ir/ai-articles/463206-german-consortium-releases-soofi-s-open-30b-ai-model/|هوش مصنوعی آلمانی Soofi S با توانایی پردازش متن‌های طولانی معرفی شد

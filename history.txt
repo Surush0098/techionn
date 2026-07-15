@@ -2196,3 +2196,4 @@ https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-it
 https://www.zoomit.ir/ai-articles/463071-tech-winners-returning-work-ai-boom/|ثروتمندان بازار تکنولوژی، حالا برای تسلط بر هوش مصنوعی می‌جنگند
 https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/|OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B
 https://yourstory.com/2026/07/krishna-byre-gowdas-plan-for-bengaluru-google-ai-push-india|Krishna Byre Gowda’s plan for Bengaluru; Google’s AI push in India
+https://yourstory.com/2026/07/cloudlens-ai-agentless-cloud-cost-optimisation-aws|This startup wants CFOs to treat cloud bills as innovation funds

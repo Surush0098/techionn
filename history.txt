@@ -2197,3 +2197,4 @@ https://www.zoomit.ir/ai-articles/463071-tech-winners-returning-work-ai-boom/|ث
 https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/|OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B
 https://yourstory.com/2026/07/krishna-byre-gowdas-plan-for-bengaluru-google-ai-push-india|Krishna Byre Gowda’s plan for Bengaluru; Google’s AI push in India
 https://yourstory.com/2026/07/cloudlens-ai-agentless-cloud-cost-optimisation-aws|This startup wants CFOs to treat cloud bills as innovation funds
+https://www.eu-startups.com/2026/07/paris-based-mio-emerges-from-stealth-with-e1-9-million-in-funding-to-build-an-ai-colleague-that-lives-inside-slack/|Paris-based Mio emerges from stealth with €1.9 million to build an AI colleague that lives inside Slack

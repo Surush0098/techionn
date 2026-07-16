@@ -2344,3 +2344,4 @@ https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faste
 https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs|The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs
 https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed|Zero trust must now move at agent speed
 https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix|The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix
+https://www.zoomit.ir/economics/463284-deepseek-planning-new-fundraising-ipo/|هدف بعدی دیپ‌سیک: دست‌یابی به ارزش بازار ۷۴ میلیارد دلار

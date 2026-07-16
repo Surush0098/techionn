@@ -2339,3 +2339,4 @@ https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-3
 https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway|The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway
 https://www.zoomit.ir/gaming/463237-roblox-shuts-down-connect-service/|سرویس تماس ویدیویی روبلاکس تعطیل شد
 https://www.zoomit.ir/ai-articles/463289-google-renames-notebooklm-gemini-notebook/|نام هوش مصنوعی NotebookLM به «جمنای نوت‌بوک» تغییر کرد
+https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/|Roblox launches an AI-powered game creation feature in its mobile app

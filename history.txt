@@ -2307,3 +2307,4 @@ https://news.crunchbase.com/venture/data-china-ai-lead-asia-startup-funding-peak
 https://www.eu-startups.com/2026/07/german-traveltech-success-omio-group-agrees-to-acquire-rail-europe-in-major-rail-distribution-deal/|German TravelTech success Omio Group agrees to acquire Rail Europe in major rail distribution deal
 https://www.zoomit.ir/ai-articles/463277-anthropic-claude-code-reset-openai-pressure/|ریست محدودیت استفاده از هوش مصنوعی کلاد؛ وقتی رقابت به نفع کاربر تمام می‌شود
 https://www.zoomit.ir/social-network/463235-xai-sues-grok-user-csam/|یک کاربر هوش مصنوعی گراک به دلیل تولید تصاویر غیراخلاقی با شکایت رسمی روبه‌رو شد
+https://www.zoomit.ir/economics/463258-apple-baidu-ai-partnership-china/|جهش سهام علی‌بابا و بایدو در چین پس از انتشار گزارش‌هایی از همکاری با اپل

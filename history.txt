@@ -2320,3 +2320,4 @@ https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai
 https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/|Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’
 https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/|Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8
 https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/|Apple Intelligence approved for launch in China with Alibaba and Baidu
+https://www.eu-startups.com/2026/07/email-is-still-the-1-attack-vector-for-startups-heres-what-founders-get-wrong/|Email is still the #1 attack vector for startups. Here’s what founders get wrong.

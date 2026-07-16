@@ -2336,3 +2336,4 @@ https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-sta
 https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/|Google’s AI Mode now lets you link and interact with select apps
 https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/|Yes, you can now order DoorDash from the command line
 https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/|How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product
+https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway|The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway

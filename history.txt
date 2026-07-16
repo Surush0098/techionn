@@ -2285,3 +2285,4 @@ https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-op
 https://yourstory.com/2026/07/how-ai-is-rewriting-indias-credit-story|How AI is rewriting India’s credit story
 https://yourstory.com/2026/07/emergent-turns-unicorn-groww-q1-net-profit|Emergent turns unicorn; Groww's net profit soars 94% in Q1
 https://www.eu-startups.com/2026/07/espoo-based-hyperion-robotics-raises-e6-4-million-to-bring-physical-ai-to-european-infrastructure/|Espoo-based Hyperion Robotics raises €6.4 million to bring physical AI to European infrastructure
+https://www.eu-startups.com/2026/07/london-based-applied-computing-raises-e17-4-million-to-scale-ai-that-works-for-the-energy-industry/|London-based Applied Computing raises €17.4 million to scale AI that works for the energy industry

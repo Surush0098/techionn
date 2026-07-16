@@ -2334,3 +2334,4 @@ https://www.zoomit.ir/ai-articles/463285-1password-integrates-with-anthropic-cla
 https://www.zoomit.ir/business/463278-tsmc-invests-100bn-us-chips/|جهش ۷۷ درصدی درآمد TSMC به‌لطف هوش مصنوعی!
 https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/|AI-powered travel agency Fora hits unicorn status, raises $60M
 https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/|Google’s AI Mode now lets you link and interact with select apps
+https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/|Yes, you can now order DoorDash from the command line

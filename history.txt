@@ -2345,3 +2345,4 @@ https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastruct
 https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed|Zero trust must now move at agent speed
 https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix|The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix
 https://www.zoomit.ir/economics/463284-deepseek-planning-new-fundraising-ipo/|هدف بعدی دیپ‌سیک: دست‌یابی به ارزش بازار ۷۴ میلیارد دلار
+https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials|The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials

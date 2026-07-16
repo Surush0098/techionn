@@ -2340,3 +2340,4 @@ https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-
 https://www.zoomit.ir/gaming/463237-roblox-shuts-down-connect-service/|سرویس تماس ویدیویی روبلاکس تعطیل شد
 https://www.zoomit.ir/ai-articles/463289-google-renames-notebooklm-gemini-notebook/|نام هوش مصنوعی NotebookLM به «جمنای نوت‌بوک» تغییر کرد
 https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/|Roblox launches an AI-powered game creation feature in its mobile app
+https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/|Here’s Why Anthropic Is Pushing States to Regulate AI Faster

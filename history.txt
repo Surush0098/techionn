@@ -2347,3 +2347,4 @@ https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a
 https://www.zoomit.ir/economics/463284-deepseek-planning-new-fundraising-ipo/|هدف بعدی دیپ‌سیک: دست‌یابی به ارزش بازار ۷۴ میلیارد دلار
 https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials|The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials
 https://www.zoomit.ir/biology/462836-strange-science-cloning-neanderthal/|آیا فناوری می‌تواند نئاندرتال‌ها را دوباره به زندگی بازگرداند؟
+https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/|Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis

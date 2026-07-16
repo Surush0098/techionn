@@ -2291,3 +2291,4 @@ https://startup360.ir/why-employees-quit-jobs/|مهم‌ترین دلیل ترک
 https://startup360.ir/skyroom-online-education-market-growth-iran/|اسکای‌ روم: بازار آموزش آنلاین ایران در کمتر از یک دهه ۷ برابر رشد کرد
 https://www.zoomit.ir/business/463224-anthropic-prepares-mega-ipo-investor-meetings/|شرکت هوش مصنوعی آنتروپیک در آستانه عرضه عمومی سهام است
 https://www.zoomit.ir/ai-articles/463225-spacexai-open-sources-grok-build-after-data-privacy-backlash/|هوش مصنوعی «گراک بیلد» حالا متن‌باز است
+https://www.zoomit.ir/ai-articles/463222-thinking-machines-releases-inkling-open-weights-ai-model/|مدیر سابق OpenAI هوش مصنوعی متن‌باز Inkling را معرفی کرد

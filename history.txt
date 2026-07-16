@@ -2279,3 +2279,4 @@ https://venturebeat.com/technology/thinking-machines-open-sources-first-multimod
 https://venturebeat.com/technology/amazon-agi-director-says-ai-agent-reliability-not-capability-is-blocking-enterprise-deployment-at-vb-transform-2026|Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026
 https://www.zoomit.ir/cryptocurrency/463162-bitmine-ethereum-staking-revenue-report/|درآمد ۴۶ میلیون دلاری بیت‌ماین از استیکینگ اتریوم
 https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/|Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic
+https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/|Applied Computing wants to give oil and gas operators an AI model for the entire plant

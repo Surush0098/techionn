@@ -2350,3 +2350,4 @@ https://www.zoomit.ir/biology/462836-strange-science-cloning-neanderthal/|آیا
 https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/|Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis
 https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems|China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems
 https://www.zoomit.ir/car/463233-honda-replaces-google-assistant-gemini/|هوش مصنوعی گوگل وارد خودروهای هوندا شد؛ تجربه‌ی گفت‌و‌گو با ماشین!
+https://www.zoomit.ir/ai-articles/463238-microsoft-sales-strategy-against-openai/|جزییات جلسه محرمانه مایکروسافت برای مقابله با رقبای هوش مصنوعی

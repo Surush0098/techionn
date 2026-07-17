@@ -2351,3 +2351,4 @@ https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-da
 https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems|China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems
 https://www.zoomit.ir/car/463233-honda-replaces-google-assistant-gemini/|هوش مصنوعی گوگل وارد خودروهای هوندا شد؛ تجربه‌ی گفت‌و‌گو با ماشین!
 https://www.zoomit.ir/ai-articles/463238-microsoft-sales-strategy-against-openai/|جزییات جلسه محرمانه مایکروسافت برای مقابله با رقبای هوش مصنوعی
+https://yourstory.com/2026/07/hostinger-cmo-kristina-strimaite-ai-replace-incurious|AI won't replace people, it'll replace the incurious, says Hostinger CMO Kristina Strimaite

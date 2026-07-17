@@ -2400,3 +2400,4 @@ https://www.zoomit.ir/security/463327-macos-malware-targets-crypto-wallets/|هش
 https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/|Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation
 https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/|Agility Robotics plants its flag in Tesla’s backyard
 https://www.wired.com/story/amazon-web-services-glitch-oh-no/|AWS Billing Glitch Hits Customers With Billion-Dollar Fees
+https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/|The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still Flow To AI

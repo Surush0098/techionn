@@ -2405,3 +2405,4 @@ https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-
 https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first|Brex built its AI agent policy by watching what agents actually do, not by writing rules first
 https://www.zoomit.ir/ai-articles/463267-ai-music-labeling-proposal/|هوش مصنوعی علیه هنرمندان؛ صنعت موسیقی به دنبال برچسب‌گذاری آثار ساخته‌شده با AI است
 https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/|Databricks hits $188B valuation, extending its run as AI’s favorite second act
+https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/|Databricks hits $188B valuation, extending its run as AI’s favorite second act

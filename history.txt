@@ -2387,3 +2387,4 @@ https://yourstory.com/2026/07/aurrevia-launches-category-iii-aif|Aurrevia launch
 https://yourstory.com/2026/07/startup-news-and-updates-daily-roundup-july-17-2026|Startup news and updates: Daily roundup (July 17, 2026)
 https://startup360.ir/ai-early-retirement-tech-workers/|هوش مصنوعی برخی کارکنان باسابقه فناوری را به بازنشستگی زودهنگام سوق داده است
 https://www.zoomit.ir/business/463337-apple-overtakes-nvidia-most-valuable/|تغییر معادلات بازار؛ اپل دوباره ارزشمندترین شرکت جهان شد
+https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/|Patreon stops asking AI bots not to scrape — and starts blocking them

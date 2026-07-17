@@ -2402,3 +2402,4 @@ https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-bac
 https://www.wired.com/story/amazon-web-services-glitch-oh-no/|AWS Billing Glitch Hits Customers With Billion-Dollar Fees
 https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/|The Week’s 10 Biggest Funding Rounds: No Summer Doldrums As Dollars Still Flow To AI
 https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026|Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026
+https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first|Brex built its AI agent policy by watching what agents actually do, not by writing rules first

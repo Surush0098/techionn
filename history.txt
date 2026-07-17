@@ -2399,3 +2399,4 @@ https://www.zoomit.ir/ai-articles/463339-meta-anthropic-10-billion-deal/|خیز 
 https://www.zoomit.ir/security/463327-macos-malware-targets-crypto-wallets/|هشدار؛ یک بدافزار تلگرامی در کمین ارزهای دیجیتال شما است
 https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/|Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation
 https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/|Agility Robotics plants its flag in Tesla’s backyard
+https://www.wired.com/story/amazon-web-services-glitch-oh-no/|AWS Billing Glitch Hits Customers With Billion-Dollar Fees

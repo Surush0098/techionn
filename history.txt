@@ -2359,3 +2359,4 @@ https://startup360.ir/weekly-startups-podcast-episode-331/|پادکست اخبا
 https://www.zoomit.ir/ai-articles/463304-gemini-3-5-pro-delayed/|چرا هوش مصنوعی پرچمدار گوگل جمنای ۳٫۵ پرو تأخیر خورد؟
 https://www.zoomit.ir/ai-articles/463307-kimi-k3-moonshot-now-forst-frontend-code-arena/|حتی قوی‌تر از فیبل ۵؛ هوش مصنوعی چینی «کیمی» نگاه‌ها را خیره کرد
 https://www.zoomit.ir/ai-articles/463253-jpmorgan-ceo-warns-anthropic-mythos/|هشدار جدی جی‌پی‌مورگان درباره خطرات هوش مصنوعی آنتروپیک
+https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/|A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War

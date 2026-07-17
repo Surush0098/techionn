@@ -2406,3 +2406,4 @@ https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching
 https://www.zoomit.ir/ai-articles/463267-ai-music-labeling-proposal/|هوش مصنوعی علیه هنرمندان؛ صنعت موسیقی به دنبال برچسب‌گذاری آثار ساخته‌شده با AI است
 https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/|Databricks hits $188B valuation, extending its run as AI’s favorite second act
 https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/|Databricks hits $188B valuation, extending its run as AI’s favorite second act
+https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do|Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do

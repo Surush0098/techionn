@@ -2415,3 +2415,4 @@ https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-
 https://www.zoomit.ir/iran-news/463363-tax-organization-amends-pos-penalties-directive/|اصلاح بخشنامه سازمان مالیاتی؛ فروش ثبت‌نشده با کارتخوان از جریمه معاف شد
 https://www.zoomit.ir/movies-tv-shows/463310-netflix-generative-ai-300-titles/|نتفلیکس: تقریبا ۳۰۰ اثر به کمک هوش مصنوعی ساخته شدند
 https://www.zoomit.ir/ai-articles/463348-china-moonshot-kimi-k3-ai/|تغییر معادلات بازار هوش مصنوعی؛ رقیب چینی چت‌جی‌پی‌تی و کلاد، «وزن‌باز» می‌شود
+https://www.zoomit.ir/ai-articles/463347-anthropic-claude-fable-subscription-changes/|آنتروپیک شرایط دسترسی به مدل کلاد فیبل ۵ را تغییر می‌دهد

@@ -2436,3 +2436,4 @@ https://www.zoomit.ir/security/463352-wordpress-emergency-updates-wp2shell-patch
 https://techcrunch.com/2026/07/18/kimi-threat-or-menace/|Kimi: Threat or menace?
 https://www.zoomit.ir/biology/463317-cloning-mammals-still-inefficient/|۳۰ سال از تولد گوسفند دالی گذشت؛ فناوری شبیه‌سازی امروز در چه نقطه‌ای قرار دارد؟
 https://www.zoomit.ir/ai-articles/463265-nobel-economists-warning-ai-jobs/|هشدار ۱۶ اقتصاددان برنده جایزه نوبل: موج عظیم بیکاری ناشی از هوش مصنوعی در راه است
+https://yourstory.com/2026/07/liftoff-for-skyroot-vikram-1-shunya-labs|Liftoff for Skyroot’s Vikram-1; Building AI voice infra for Indian languages

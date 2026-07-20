@@ -2503,3 +2503,4 @@ https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said
 https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data|The cleanup trap: Stop asking RAG to fix bad data
 https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/|AI’s most important protocol is getting a little bit easier to use
 https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/|OpenAI is scared of open-weight models. Should the US be?
+https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026|A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026

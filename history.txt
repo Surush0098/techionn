@@ -2501,3 +2501,4 @@ https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defende
 https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/|Natural raises $30M to reinvent payments for AI agents — and take on Stripe
 https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build|At VB Transform 2026, Zillow's engineering chief said AI ROI numbers only hold up if you measure before you build
 https://venturebeat.com/orchestration/the-cleanup-trap-stop-asking-rag-to-fix-bad-data|The cleanup trap: Stop asking RAG to fix bad data
+https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/|AI’s most important protocol is getting a little bit easier to use

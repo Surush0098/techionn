@@ -2486,3 +2486,4 @@ https://www.zoomit.ir/iran-news/463498-shaparak-security-certificate-payment-net
 https://www.zoomit.ir/pr/463496-hamrah-mechanic-1404-report/|گزارش بازار خودرو 1404 همراه‌مکانیک منتشر شد
 https://www.zoomit.ir/ai-articles/463219-china-open-source-ai-trap-featured/|هوش مصنوعی متن‌باز چین؛ ابزار توسعه یا اهرم قدرت؟
 https://www.zoomit.ir/tech-iran/463492-ecommerce-association-social-responsibility-projects/|آغاز همکاری انجمن تجارت الکترونیک در پروژه‌های ملی مسئولیت اجتماعی؛ از المپیاد مهارت تا میناب
+https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/|Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers

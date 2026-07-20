@@ -2497,3 +2497,4 @@ https://www.zoomit.ir/health-medical/463046-chronic-constipation-gut-brain-disor
 https://www.zoomit.ir/iran-news/463509-farabourse-initial-public-offering-process-takes-over-two-years/|معاون بازار فرابورس: قوانین و مقررات، مسیر پذیرش شرکت‌ها در فرابورس را طولانی کرده است
 https://www.zoomit.ir/security/463510-hugging-face-data-breach-confirmed/|پلتفرم هوش مصنوعی «هاگینگ فیس» هک شد؛ اطلاعات هزاران کاربر در خطر است
 https://www.zoomit.ir/aviation-aerospace/463505-bigger-launch-vehicles-may-not-always-better/|گزارش مؤسسه ارواسپیس: موشک‌های غول‌پیکر شاید از نظر اقتصادی شکست بخورند
+https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems|Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems

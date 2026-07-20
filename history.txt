@@ -2498,3 +2498,4 @@ https://www.zoomit.ir/iran-news/463509-farabourse-initial-public-offering-proces
 https://www.zoomit.ir/security/463510-hugging-face-data-breach-confirmed/|پلتفرم هوش مصنوعی «هاگینگ فیس» هک شد؛ اطلاعات هزاران کاربر در خطر است
 https://www.zoomit.ir/aviation-aerospace/463505-bigger-launch-vehicles-may-not-always-better/|گزارش مؤسسه ارواسپیس: موشک‌های غول‌پیکر شاید از نظر اقتصادی شکست بخورند
 https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems|Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems
+https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/|Natural raises $30M to reinvent payments for AI agents — and take on Stripe

@@ -2505,3 +2505,4 @@ https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-littl
 https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/|OpenAI is scared of open-weight models. Should the US be?
 https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026|A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026
 https://www.zoomit.ir/ai-articles/463523-anthropic-rare-disease-research-grants/|داروسازی به کمک هوش مصنوعی؛ آنتروپیک با طرحی ویژه به استقبال دانشمندان می‌رود
+https://www.zoomit.ir/ai-articles/463521-microsoft-tests-kimi-k3-copilot/|مایکروسافت برای کاهش هزینه‌های کوپایلت به سراغ هوش مصنوعی چینی Kimi K3 می‌رود

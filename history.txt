@@ -2507,3 +2507,4 @@ https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and
 https://www.zoomit.ir/ai-articles/463523-anthropic-rare-disease-research-grants/|داروسازی به کمک هوش مصنوعی؛ آنتروپیک با طرحی ویژه به استقبال دانشمندان می‌رود
 https://www.zoomit.ir/ai-articles/463521-microsoft-tests-kimi-k3-copilot/|مایکروسافت برای کاهش هزینه‌های کوپایلت به سراغ هوش مصنوعی چینی Kimi K3 می‌رود
 https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/|Google is working on a new AI chip designed to make Gemini more efficient
+https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy|Writer's AI harness cuts token spend nearly 40% — without sacrificing accuracy

@@ -2526,3 +2526,4 @@ https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/|The Army 
 https://news.crunchbase.com/venture/seriesa-seed-gap-underrepresented-founders-ai-norman-green-black-ops/|Closing The Series A Gap Is The Next Great Opportunity For Black Founders In The AI Era
 https://news.crunchbase.com/ai/saas-deep-tech-startup-qa-docter-dell-technologies-capital/|Dell Technologies Capital: How To Build A Deep-Tech Startup For A Market That Isn’t Ready Yet And Why AI Won’t Kill SaaS
 https://www.eu-startups.com/2026/07/omio-raises-e8-7-million-strategic-investment-for-asian-expansion/|Omio raises €8.7 million strategic investment for Asian expansion
+https://www.eu-startups.com/2026/07/profitable-space-startup-deltavision-secures-e10-2-million-to-provide-the-cardiovascular-system-for-spacecraft/|Profitable space startup deltaVision secures €10.2 million to provide the “cardiovascular system for spacecraft”

@@ -2573,3 +2573,4 @@ https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-gro
 https://venturebeat.com/technology/googles-gemini-flash-5-6-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way|Google's Gemini Flash 5.6 model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way
 https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/|OpenAI says Hugging Face was breached by its own pre-release models
 https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/|AI and the rise of the universal entertainment app
+https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens|Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens

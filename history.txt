@@ -2571,3 +2571,4 @@ https://venturebeat.com/security/evals-are-the-new-prd-expedia-ai-chief-tells-vb
 https://www.zoomit.ir/social-network/463601-telegram-non-custodial-gram-wallet/|تلگرام «بزرگ‌ترین عرضه‌ کیف پول غیر امانی در تاریخ بشر» را رقم می‌زند
 https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/|Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents
 https://venturebeat.com/technology/googles-gemini-flash-5-6-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way|Google's Gemini Flash 5.6 model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way
+https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/|OpenAI says Hugging Face was breached by its own pre-release models

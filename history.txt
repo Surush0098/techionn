@@ -2570,3 +2570,4 @@ https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no
 https://venturebeat.com/security/evals-are-the-new-prd-expedia-ai-chief-tells-vb-transform-2026|Evals are the new PRD, Expedia’s AI chief tells VB Transform 2026
 https://www.zoomit.ir/social-network/463601-telegram-non-custodial-gram-wallet/|تلگرام «بزرگ‌ترین عرضه‌ کیف پول غیر امانی در تاریخ بشر» را رقم می‌زند
 https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/|Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents
+https://venturebeat.com/technology/googles-gemini-flash-5-6-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way|Google's Gemini Flash 5.6 model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way

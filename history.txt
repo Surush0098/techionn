@@ -2567,3 +2567,4 @@ https://www.zoomit.ir/ai-articles/463552-qwen-3-8-max-spit-out-insanely-polished
 https://www.zoomit.ir/ai-articles/463587-google-launches-gemini-flash-models/|ایمن و خوش‌قیمت؛ گوگل سه هوش مصنوعی جدید ازجمله یک مدل امنیتی را معرفی کرد
 https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/|Data centers expected to use 4x more electricity by 2035
 https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/|Google releases three new Gemini models — but no 3.5 Pro
+https://venturebeat.com/security/evals-are-the-new-prd-expedia-ai-chief-tells-vb-transform-2026|Evals are the new PRD, Expedia’s AI chief tells VB Transform 2026

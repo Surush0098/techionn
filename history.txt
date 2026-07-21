@@ -2543,3 +2543,4 @@ https://yourstory.com/2026/07/bonv-aero-heavy-lift-cargo-drones|BonV Aero builds
 https://yourstory.com/2026/07/myntra-ai-seller-onboarding-shopping-tools|Inside Myntra's AI playbook: Faster seller onboarding, smarter shopping, leaner operations
 https://yourstory.com/2026/07/aquaairx-avataar-air-underwater-drone|One machine, three domains: This Bengaluru drone flies, swims and dives
 https://yourstory.com/2026/07/harvested-robotics-ai-laser-weeder|Two engineering students built a robot that zaps weeds with lasers instead of spraying them
+https://yourstory.com/2026/07/neuralzome-no-code-ai-robot-training|NeuralZome builds no-code AI that lets anyone train a robot without writing code

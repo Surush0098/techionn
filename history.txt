@@ -2512,3 +2512,4 @@ https://www.zoomit.ir/ai-articles/463501-bristol-myers-buys-nvidia-rubin-superpo
 https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/|Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation
 https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/|Anthropic’s landmark $1.5B copyright settlement is approved
 https://yourstory.com/2026/07/traveltech-startup-30-sundays-rs-61-crore-bessemer-venture-partners|Traveltech startup 30 Sundays raises Rs 61 Cr led by Bessemer Venture Partners
+https://yourstory.com/2026/07/battery-waste-industrial-metals-openai-uday-ruddarraju-cto-compute|Turning battery waste into industrial metals; OpenAI elevates Uday Ruddarraju to CTO of Compute

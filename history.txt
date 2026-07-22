@@ -2580,3 +2580,4 @@ https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weigh
 https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/|The Anthropic-Physical Intelligence rumor roiling AI Twitter
 https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know|OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know
 https://yourstory.com/2026/07/ather-energy-raises-rs-1300-crore-through-qip|Ather Energy raises Rs 1,300 Cr through QIP
+https://yourstory.com/2026/07/rise-shadow-ai-exposing-the-gaps-enterprise-data-governance|The rise of shadow AI is exposing the gaps in enterprise data governance

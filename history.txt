@@ -2614,3 +2614,4 @@ https://www.eu-startups.com/2026/07/frances-brenus-pharma-raises-e11-million-ser
 https://yourstory.com/2026/07/vipul-organics-palghar-global-colour-chemistry-business|From a bag of naphthol to a ₹175 crore global colour business: The Vipul Organics story
 https://yourstory.com/2026/07/octobotics-robot-ship-hull-inspection|Inspecting a corroded ship hull is slow, dangerous work. Octobotics sends a robot instead
 https://yourstory.com/2026/07/unibose-robot-tank-inspections|Every year, Indian workers die inside tanks. Unibose built a robot to take their place
+https://yourstory.com/2026/07/zerodrag-indian-drone-hardware|India's drones mostly run on Chinese hardware. ZeroDrag builds an Indian alternative

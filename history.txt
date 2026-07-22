@@ -2654,3 +2654,4 @@ https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valley
 https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering|AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering
 https://www.zoomit.ir/aviation-aerospace/463713-artemis-iii-astronauts-beam-4k-video-from-orion/|فضانوردان آرتمیس ۳ با استفاده از استارلینک، ویدئوهای 4K به زمین خواهند فرستاد
 https://www.zoomit.ir/ai-articles/463712-claude-code-security-plugin-beta-one/|پلاگین هوش مصنوعی Claude Security در قالب نسخه آزمایشی منتشر شد
+https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/|Google justifies its massive AI spending with a booming cloud business

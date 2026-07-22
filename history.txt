@@ -2578,3 +2578,4 @@ https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-
 https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/|OpenAI Models Escaped Containment and Hacked Hugging Face
 https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size|Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size
 https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/|The Anthropic-Physical Intelligence rumor roiling AI Twitter
+https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know|OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know

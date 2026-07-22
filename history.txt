@@ -2641,3 +2641,4 @@ https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing
 https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/|OpenAI’s AI spending spree has ballooned to $750B
 https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots|OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots
 https://techcabal.com/2026/07/22/m-kopa-reaches-10-million-customers/|M-KOPA reaches 10 million customers, six years after its first million
+https://www.zoomit.ir/ai-articles/463705-us-accuses-moonshot-ai-theft/|مشاور علمی ترامپ، هوش مصنوعی چینی Kimi K3 را به سرقت تکنولوژی آمریکا متهم کرد

@@ -2604,3 +2604,4 @@ https://www.zoomit.ir/ai-articles/463617-claude-code-ios-simulator-beta/|هوش 
 https://www.zoomit.ir/ai-articles/463614-us-execs-warn-chinese-ai/|هوش مصنوعی ارزان چینی، زنگ خطر را برای غول‌های آمریکایی به صدا درآورد
 https://www.zoomit.ir/ai-articles/463611-openai-hugging-face-breach/|بیانیه عجیب اوپن‌ای‌ای: هوش مصنوعی ما ناخواسته یک پلتفرم بزرگ را هک کرد!
 https://www.zoomit.ir/ai-articles/463608-qwen-image-3-launch/|هوش مصنوعی چینی Qwen-Image-3.0 با عملکرد خیره‌کننده معرفی شد
+https://www.zoomit.ir/business/463535-xbox-workers-protest-microsoft-layoffs/|کارمندان مایکروسافت به اخراج‌های گسترده اعتراض کردند

@@ -2581,3 +2581,4 @@ https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roil
 https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know|OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know
 https://yourstory.com/2026/07/ather-energy-raises-rs-1300-crore-through-qip|Ather Energy raises Rs 1,300 Cr through QIP
 https://yourstory.com/2026/07/rise-shadow-ai-exposing-the-gaps-enterprise-data-governance|The rise of shadow AI is exposing the gaps in enterprise data governance
+https://yourstory.com/2026/07/helping-women-find-sustainable-work|Helping women find sustainable work; Transition VC launches new fund

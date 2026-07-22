@@ -2582,3 +2582,4 @@ https://venturebeat.com/security/openais-models-broke-containment-and-cyberattac
 https://yourstory.com/2026/07/ather-energy-raises-rs-1300-crore-through-qip|Ather Energy raises Rs 1,300 Cr through QIP
 https://yourstory.com/2026/07/rise-shadow-ai-exposing-the-gaps-enterprise-data-governance|The rise of shadow AI is exposing the gaps in enterprise data governance
 https://yourstory.com/2026/07/helping-women-find-sustainable-work|Helping women find sustainable work; Transition VC launches new fund
+https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/|Synthesia’s AI training platform is moving beyond videos into live coaching

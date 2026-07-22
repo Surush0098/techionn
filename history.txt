@@ -2587,3 +2587,4 @@ https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyo
 https://www.eu-startups.com/2026/07/months-after-raising-e102-5-million-helsinkis-ai-infrastructure-company-verda-secures-e22-million-nib-loan/|Months after raising €102.5 million, Helsinki’s AI infrastructure company Verda secures €22 million NIB loan
 https://www.eu-startups.com/2026/07/londons-modo-energy-secures-e14-9-million-to-scale-its-ai-powered-energy-benchmarking-and-valuation-platform/|London’s Modo Energy secures €14.9 million to scale its AI-powered energy benchmarking and valuation platform
 https://yourstory.com/2026/07/india-semiconductor-mission-37-years-interrupted|India's chip dream was derailed in 1989. In 2026, it's roaring back
+https://yourstory.com/2026/07/gx-group-india-fibre-broadband-photonics-chips|How an Ericsson Castoff Became the Backbone of India’s Fibre Internet: The GX Group Story

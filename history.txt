@@ -2649,3 +2649,4 @@ https://startup360.ir/nike-cuts-online-distributors-china/|نایکی هزارا
 https://www.zoomit.ir/ai-articles/463586-japan-launches-animegen-ai-model/|ژاپن یک هوش مصنوعی اختصاصی برای تولید انیمه معرفی کرد
 https://www.zoomit.ir/software-news/463627-meta-storykit-ai-bedtime-stories/|متا اپلیکیشن قصه‌گویی با هوش مصنوعی برای کودکان می‌سازد
 https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/|Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable
+https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/|How OpenAI’s human mistake led to the AI-powered hack on Hugging Face

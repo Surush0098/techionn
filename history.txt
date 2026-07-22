@@ -2647,3 +2647,4 @@ https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-ne
 https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/|Monday.com lays off hundreds to focus on AI
 https://startup360.ir/nike-cuts-online-distributors-china/|نایکی هزاران فروشنده آنلاین خود در چین را حذف می‌کند
 https://www.zoomit.ir/ai-articles/463586-japan-launches-animegen-ai-model/|ژاپن یک هوش مصنوعی اختصاصی برای تولید انیمه معرفی کرد
+https://www.zoomit.ir/software-news/463627-meta-storykit-ai-bedtime-stories/|متا اپلیکیشن قصه‌گویی با هوش مصنوعی برای کودکان می‌سازد

@@ -2605,3 +2605,4 @@ https://www.zoomit.ir/ai-articles/463614-us-execs-warn-chinese-ai/|هوش مصن
 https://www.zoomit.ir/ai-articles/463611-openai-hugging-face-breach/|بیانیه عجیب اوپن‌ای‌ای: هوش مصنوعی ما ناخواسته یک پلتفرم بزرگ را هک کرد!
 https://www.zoomit.ir/ai-articles/463608-qwen-image-3-launch/|هوش مصنوعی چینی Qwen-Image-3.0 با عملکرد خیره‌کننده معرفی شد
 https://www.zoomit.ir/business/463535-xbox-workers-protest-microsoft-layoffs/|کارمندان مایکروسافت به اخراج‌های گسترده اعتراض کردند
+https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/|Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era

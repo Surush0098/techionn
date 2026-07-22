@@ -2579,3 +2579,4 @@ https://www.wired.com/story/openai-models-escaped-containment-and-hacked-hugging
 https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size|Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size
 https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/|The Anthropic-Physical Intelligence rumor roiling AI Twitter
 https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know|OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know
+https://yourstory.com/2026/07/ather-energy-raises-rs-1300-crore-through-qip|Ather Energy raises Rs 1,300 Cr through QIP

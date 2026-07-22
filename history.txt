@@ -2639,3 +2639,4 @@ https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-mod
 https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/|Arcee, a US open source AI lab, says Chinese models are not inherently dangerous
 https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/|Substack’s new tool tells you who’s been writing their newsletters with AI
 https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/|OpenAI’s AI spending spree has ballooned to $750B
+https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots|OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots

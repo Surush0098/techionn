@@ -2710,3 +2710,4 @@ https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organiz
 https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents|Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents
 https://venturebeat.com/security/an-ai-now-judges-every-move-rubriks-agents-make-its-ai-chief-said-at-vb-transform-2026-but-no-ones-measured-if-the-judge-is-right|An AI now judges every move Rubrik's agents make, its AI chief said at VB Transform 2026 — but no one's measured if the judge is right
 https://www.zoomit.ir/gaming/463772-xbox-free-ad-supported-cloud-gaming/|سرویس بازی ابری رایگان و تبلیغ‌محور ایکس‌باکس برای کاربران منتخاب فعال شد
+https://www.zoomit.ir/ai-articles/463768-ai-kill-switch-bill/|ترس از هوش مصنوعی؛ قانون‌گذاران آمریکا «کلید خاموشی اضطراری» می‌خواهند

@@ -2703,3 +2703,4 @@ https://yourstory.com/2026/07/meesho-cuts-down-losses-by-half-as-revenue-rises|M
 https://yourstory.com/2026/07/hachidori-robotics-track-free-warehouse-robots|Hachidori Robotics builds warehouse robots that need no tracks, magnets or shutdowns
 https://techcabal.com/2026/07/23/wayawaya-appoints-ex-chase-bank-kenya-executive-as-board-adviser/|WayaWaya appoints ex-Chase Bank Kenya executive Raj Singh as board adviser
 https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/|OpenAI makes ChatGPT Health available to all U.S. users
+https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs|The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs

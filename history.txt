@@ -2676,3 +2676,4 @@ https://news.crunchbase.com/venture/billion-dollar-plus-round-counts-rising-ai-f
 https://news.crunchbase.com/ai/on-prem-systems-vs-cloud-security-sagie/|Is On-Prem Making A Comeback?
 https://www.eu-startups.com/2026/07/the-eu-startups-podcast-interview-with-lena-hackeloer-founder-ceo-at-brite-payments/|The EU-Startups Podcast | Interview with Lena Hackelöer, founder & CEO at Brite Payments
 https://www.eu-startups.com/2026/07/munichs-aampere-charges-up-with-e4-2-million-to-expand-its-used-ev-resale-platform-across-europe/|Munich’s Aampere charges up with €4.2 million to expand its used EV resale platform across Europe
+https://yourstory.com/2026/07/banking-tech-company-businessnext-raises-40-million-from-servicenow|Banking tech company BusinessNext raises $40M from ServiceNow

@@ -2657,3 +2657,4 @@ https://www.zoomit.ir/ai-articles/463712-claude-code-security-plugin-beta-one/|�
 https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/|Google justifies its massive AI spending with a booming cloud business
 https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now|The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now
 https://yourstory.com/2026/07/india-chip-dream-eternal-four-fold-rise-in-net-profit|India’s chip dream; Eternal’s four-fold rise in net profit
+https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/|ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push

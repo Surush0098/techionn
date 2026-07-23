@@ -2712,3 +2712,4 @@ https://venturebeat.com/security/an-ai-now-judges-every-move-rubriks-agents-make
 https://www.zoomit.ir/gaming/463772-xbox-free-ad-supported-cloud-gaming/|سرویس بازی ابری رایگان و تبلیغ‌محور ایکس‌باکس برای کاربران منتخاب فعال شد
 https://www.zoomit.ir/ai-articles/463768-ai-kill-switch-bill/|ترس از هوش مصنوعی؛ قانون‌گذاران آمریکا «کلید خاموشی اضطراری» می‌خواهند
 https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/|AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing
+https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/|Runway launches AI model router as generative media gets crowded

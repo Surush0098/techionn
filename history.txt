@@ -2791,3 +2791,4 @@ https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper
 https://www.zoomit.ir/health-medical/463746-daylight-saving-eye-diseases/|تغییر ساعت تابستانی خطر ابتلا به بیماری‌های چشمی را تا ۳۰ درصد افزایش می‌دهد
 https://www.zoomit.ir/business/463829-nothing-denies-market-exit-rumors/|خروج «ناتینگ» از بازارهای جهانی تکذیب شد؛ تأیید تعدیل نیرو
 https://www.zoomit.ir/ai-articles/463737-chinese-ai-stars-return/|فرار مغزهای هوش مصنوعی از آمریکا؛ چرا ستاره‌های چینی به خانه برمی‌گردند؟
+https://www.zoomit.ir/ai-articles/463827-anthropic-releases-claude-opus-5/|هوش مصنوعی پرقدرت Opus 5 با عملکرد مشابه Fable 5 و قیمت کمتر معرفی شد

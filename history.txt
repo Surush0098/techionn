@@ -2726,3 +2726,4 @@ https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-
 https://www.zoomit.ir/ai-articles/463671-ai-comic-copyright-ruling-germany/|شکایت یک عکاس از هوش مصنوعی؛ دادگاه به نفع AI رأی داد
 https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop|Agentic coding goes hands free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop
 https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/|Meet the judges who will crown Australia’s next breakout startup
+https://www.wired.com/story/fda-panel-endorses-unproven-peptides/|An FDA Panel Just Endorsed These Unproven Peptides

@@ -2787,3 +2787,4 @@ https://www.zoomit.ir/energy-environment/463630-pumpkin-peel-outperforms-plastic
 https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/|Build in public, fail in public: what it’s like to be a founder under 20 right now
 https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/|Why Cognition bought Poke: AI personality is becoming a competitive advantage
 https://www.wired.com/story/uncanny-valley-podcast/|Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models
+https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows|Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows

@@ -2731,3 +2731,4 @@ https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models
 https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/|How AI guardrails are impeding the work of offensive cybersecurity researchers
 https://www.eu-startups.com/2026/07/oxford-based-moa-technology-raises-e25-9-million-to-tackle-herbicide-resistant-weeds/|Oxford-based Moa Technology raises €25.9 million to tackle herbicide-resistant weeds
 https://yourstory.com/2026/07/swiggy-board-caps-foreign-ownership-at-49-percent|Swiggy board caps foreign ownership at 49.5%
+https://yourstory.com/2026/07/ev-penetration-may-rise-10-12-percent-total-sales-fy27|EV penetration may rise to 10-12% of total sales in FY27: report

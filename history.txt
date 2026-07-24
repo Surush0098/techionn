@@ -2755,3 +2755,4 @@ https://yourstory.com/2026/07/india-flying-taxi-e200x-iit-madras|IIT Madras star
 https://techcabal.com/2026/07/24/duplo-wants-to-reach-more-businesses-through-banks/|Why Nigerian fintech Duplo is turning to banks to distribute its software
 https://www.zoomit.ir/ai-articles/463793-chatgpt-voice-desktop-app/|نسخه دسکتاپ چت‌جی‌پی‌تی هم به قابلیت صوتی مجهز شد
 https://www.zoomit.ir/ai-articles/463806-mai-image-voice-microsoft-foundry/|مایکروسافت دو هوش مصنوعی تصویرساز جدید با عملکرد تحسین‌برانگیز معرفی کرد
+https://www.zoomit.ir/ai-articles/463801-solved-6-open-problems-gpt-5-6-sol/|هوش مصنوعی GPT-5.6 Sol، مسئله بسیار پیچیده ریاضی را حل کرد

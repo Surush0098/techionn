@@ -2730,3 +2730,4 @@ https://www.wired.com/story/fda-panel-endorses-unproven-peptides/|An FDA Panel J
 https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai|Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI
 https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/|How AI guardrails are impeding the work of offensive cybersecurity researchers
 https://www.eu-startups.com/2026/07/oxford-based-moa-technology-raises-e25-9-million-to-tackle-herbicide-resistant-weeds/|Oxford-based Moa Technology raises €25.9 million to tackle herbicide-resistant weeds
+https://yourstory.com/2026/07/swiggy-board-caps-foreign-ownership-at-49-percent|Swiggy board caps foreign ownership at 49.5%

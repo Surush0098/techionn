@@ -2823,3 +2823,4 @@ https://www.zoomit.ir/report/463877-mahan-energy-saving-20m-cubic-meters/|تغی
 https://www.zoomit.ir/human-science/463717-ai-biases-when-hiring/|تعصب خطرناک مدل‌های زبانی؛ هوش مصنوعی در استخدام بیش از انسان سوگیری دارد
 https://www.zoomit.ir/iran-news/463884-cloud-migration-data-center-power-reduction/|مهاجرت به مراکز داده ابری؛ راهکار طلایی و بلندمدت برای حل ناترازی برق
 https://www.zoomit.ir/iran-news/463882-online-buying-gold-on-gerami/|«گرمی» امکان خرید آنلاین طلا را برای کاربرانش فراهم کرد
+https://www.zoomit.ir/ai-articles/463808-data-centers-electricity-2035/|پیش‌بینی ترسناک: مصرف برق دیتاسنترها در دهه آینده ۴ برابر می‌شود

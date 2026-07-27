@@ -2916,3 +2916,4 @@ https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-
 https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/|Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system
 https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/|OpenAI’s Hugging Face breach has reignited the debate over alignment and control
 https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward|AI cites the deep pages but sends humans to the homepage — most sites are built backward
+https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/|PSA: Your Claude shared chats and Artifacts may have ended up on Google

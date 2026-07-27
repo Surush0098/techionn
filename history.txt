@@ -2919,3 +2919,4 @@ https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-t
 https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/|PSA: Your Claude shared chats and Artifacts may have ended up on Google
 https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/|Private Claude Chats Exposed in Google and Bing Search Results
 https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs|Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs
+https://www.zoomit.ir/business/463965-us-companies-resume-hiring-ai/|بازگشت بزرگان تکنولوژی به روند استخدام؛ هوش مصنوعی جایگزین نیروی انسانی نشد

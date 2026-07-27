@@ -2896,3 +2896,4 @@ https://www.zoomit.ir/ai-articles/463957-google-gemini-4-development-details/|گ
 https://www.zoomit.ir/report/463986-iran-cybersecurity-data-breach-challenges/|مرکز پژوهش‌های مجلس: امنیت سایبری ایران به قانون جامع حفاظت از داده نیاز دارد
 https://www.zoomit.ir/robotics-smart-machines/463991-gene-01-smart-skin-robot/|یک شرکت ایتالیایی، رباتی انسان‌نما با قابلیت درک حضور انسان ساخت
 https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/|Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research
+https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/|Enigma raises $70M to make controlling a robot as easy as adjusting the volume

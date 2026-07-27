@@ -2902,3 +2902,4 @@ https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partner
 https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/|Enigma raises $70M to make controlling a robot as easy as adjusting the volume
 https://www.eu-startups.com/2026/07/14-lessons-from-14-years-in-vc/|14 lessons from 14 years in VC
 https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search|Uh-oh: Some Claude shared conversations and Artifacts appear to be indexed and publicly accessible on Google Search
+https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance|Why SAP says enterprise AI agents need knowledge graphs and governance

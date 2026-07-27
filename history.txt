@@ -2921,3 +2921,4 @@ https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-sear
 https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs|Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs
 https://www.zoomit.ir/business/463965-us-companies-resume-hiring-ai/|بازگشت بزرگان تکنولوژی به روند استخدام؛ هوش مصنوعی جایگزین نیروی انسانی نشد
 https://www.zoomit.ir/business/463963-nvidia-invests-billion-dollars-naver/|انویدیا احتمالا یک میلیارد دلار در پروژه هوش مصنوعی کره جنوبی سرمایه‌گذاری می‌کند
+https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/|Satya Nadella says companies that trust one AI for everything may not survive

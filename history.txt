@@ -2925,3 +2925,4 @@ https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai
 https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/|Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI
 https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/|Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing
 https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/|Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing
+https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know|Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know

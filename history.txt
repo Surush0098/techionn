@@ -2985,3 +2985,4 @@ https://www.zoomit.ir/security/464086-anthropic-claude-cracks-encryption-algorit
 https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/|MCP startup Runlayer accuses Rippling of stealing its product idea
 https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/|MCP startup Runlayer accuses Rippling of stealing its product idea
 https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/|Sam Altman is ready to decelerate
+https://venturebeat.com/orchestration/instacarts-cto-says-ai-made-the-company-stop-worrying-about-tech-debt|Instacart's CTO says AI made the company stop worrying about tech debt

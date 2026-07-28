@@ -2937,3 +2937,4 @@ https://www.zoomit.ir/iran-news/464046-ai-operator-license-regulation-ministry-o
 https://www.zoomit.ir/iran-news/464035-yektanet-new-ceo/|علیرضا کامرانیان‌فر مدیرعامل یکتانت شد
 https://www.zoomit.ir/ai-articles/463979-waymo-robotaxis-austin-parking-fines/|وقتی هوش مصنوعی قوانین رانندگی را نمی‌شناسد؛ جریمه‌های سنگین برای تاکسی‌های خودران ویمو
 https://www.zoomit.ir/ai-articles/464021-kimi-k3-available-directly-hugging-face/|هوش مصنوعی قدرتمند کیمی K3، «وزن‌باز» شد
+https://www.zoomit.ir/economics/464022-x-money-payment-service-launch/|«ایکس مانی» راه‌اندازی شد؛ گام بزرگ ایلان ماسک برای تولید سوپراپلیکیشن

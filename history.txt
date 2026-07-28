@@ -2971,3 +2971,4 @@ https://yourstory.com/2026/07/bigbasket-losses-widen-as-revenues-grows-marginall
 https://www.zoomit.ir/iran-news/464071-tapsell-top-digital-ad-network-dezhino-july-1405/|گزارش دژینو: تپسل موثرترین شبکه تبلیغاتی داخلی در تیر ۱۴۰۵
 https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/|Fish Audio raises $52M seed to build AI voice models for creators and enterprises
 https://www.wired.com/story/is-the-electric-trike-the-next-big-thing-in-shared-micromobility-veo-rover/|Is the Electric Trike the Next Big Thing in Shared Micromobility?
+https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs|Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs

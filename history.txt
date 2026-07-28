@@ -2978,3 +2978,4 @@ https://ecomotive.ir/1405/05/06/%d8%aa%d9%be%d8%b3%d9%84%d8%8c-%d9%85%d9%88%d8%a
 https://www.zoomit.ir/ai-articles/464074-perplexity-personal-computer-windows-launch/|تبدیل کامپیوتر ویندوزی به «عامل هوش مصنوعی»؛ ابزار هیجان‌انگیز پرپلکسیتی معرفی شد
 https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/|Data centers may face temporary power cuts to prevent blackouts on largest US grid
 https://www.zoomit.ir/report/464076-ghessebazi-nobitex-cultural-partnership/|همکاری قصه‌بازی و نوبیتکس؛ روایتی از خلق یک تجربه شنیداری مشترک برای خانواده‌ها
+https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests|GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests

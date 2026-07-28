@@ -2979,3 +2979,4 @@ https://www.zoomit.ir/ai-articles/464074-perplexity-personal-computer-windows-la
 https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/|Data centers may face temporary power cuts to prevent blackouts on largest US grid
 https://www.zoomit.ir/report/464076-ghessebazi-nobitex-cultural-partnership/|همکاری قصه‌بازی و نوبیتکس؛ روایتی از خلق یک تجربه شنیداری مشترک برای خانواده‌ها
 https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests|GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests
+https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature|Runway couldn't fix a bug in its AI video model, so it turned the bug into a feature

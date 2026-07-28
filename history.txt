@@ -2962,3 +2962,4 @@ https://www.zoomit.ir/linux/464064-linus-torvalds-explains-linux-speed/|راز �
 https://www.zoomit.ir/report/464057-national-post-smart-services-development/|نسل جدید پست در ایران؛ هوش مصنوعی، لاکر هوشمند و سورتینگ رباتیک
 https://www.zoomit.ir/ai-articles/464059-hugging-face-deepfake-abuse-report/|گزارش تکان‌دهنده از برهنه‌کردن افراد با هوش مصنوعی؛ هاگینگ فیس مقصر است؟
 https://www.zoomit.ir/ai-articles/464054-anthropic-ceo-responds-open-weight-ai/|مدیرعامل آنتروپیک تکذیب کرد: هرگز از ممنوعیت مدل‌های متن‌باز دفاع نکردم
+https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/|Recursive Superintelligence signs $410 compute deal with Amazon

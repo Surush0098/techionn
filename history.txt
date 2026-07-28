@@ -2982,3 +2982,4 @@ https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-ar
 https://venturebeat.com/technology/runway-couldnt-fix-a-bug-in-its-ai-video-model-so-it-turned-the-bug-into-a-feature|Runway couldn't fix a bug in its AI video model, so it turned the bug into a feature
 https://www.zoomit.ir/cryptocurrency/464089-emirates-accepts-crypto-payments-flights/|خرید بلیت هواپیمایی امارات با ارز دیجیتال امکان‌پذیر شد
 https://www.zoomit.ir/security/464086-anthropic-claude-cracks-encryption-algorithms/|هوش مصنوعی «کلاد» روش‌ جدیدی برای حمله به استانداردهای رمزنگاری ابداع کرد
+https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/|MCP startup Runlayer accuses Rippling of stealing its product idea

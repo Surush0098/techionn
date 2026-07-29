@@ -3045,3 +3045,4 @@ https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-
 https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/|Claude Opus 5 became downright ruthless when tasked with running a vending machine
 https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/|Claude Opus 5 became downright ruthless when tasked with running a vending machine
 https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/|It’s Frighteningly Easy to Jailbreak Some Frontier AI Models
+https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy|Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy

@@ -2993,3 +2993,4 @@ https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-
 https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/|OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face
 https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible|Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible
 https://yourstory.com/2026/07/how-startups-are-rewriting-indias-ipo-story|How startups are rewriting India's IPO story
+https://yourstory.com/2026/07/instamart-gets-a-new-ceo-antler-startups-ai-climatetech-deeptech|Instamart gets a new CEO; Antler India bets on AI, climate tech

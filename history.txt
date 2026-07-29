@@ -3054,3 +3054,4 @@ https://www.zoomit.ir/pr/464163-free-ai-tools-choosing-guide-athena-pr/|هوش �
 https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/|The Hugging Face AI break-in, as told through an increasingly committed bear metaphor
 https://www.zoomit.ir/ai-articles/464115-zuckerberg-opposes-chinese-ai-ban/|هشدار مارک زاکربرگ: ممنوعیت هوش مصنوعی چین، به ضرر آمریکا تمام می‌شود
 https://www.zoomit.ir/ai-articles/464169-openai-building-ai-hardware-family/|اوپن‌ای‌آی «خانواده‌ای از محصولات» را برای تعامل با هوش مصنوعی می‌سازد
+https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/|Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents

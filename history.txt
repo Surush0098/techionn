@@ -3044,3 +3044,4 @@ https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-th
 https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them|Target SVP says its real AI moat isn't the models — it's everything built around them
 https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/|Claude Opus 5 became downright ruthless when tasked with running a vending machine
 https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/|Claude Opus 5 became downright ruthless when tasked with running a vending machine
+https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/|It’s Frighteningly Easy to Jailbreak Some Frontier AI Models

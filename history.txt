@@ -3056,3 +3056,4 @@ https://www.zoomit.ir/ai-articles/464115-zuckerberg-opposes-chinese-ai-ban/|هش
 https://www.zoomit.ir/ai-articles/464169-openai-building-ai-hardware-family/|اوپن‌ای‌آی «خانواده‌ای از محصولات» را برای تعامل با هوش مصنوعی می‌سازد
 https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/|Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents
 https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/|Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026
+https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/|Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI

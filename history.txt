@@ -3036,3 +3036,4 @@ https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-ste
 https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/|Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners
 https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/|Encore AI raises $30M to build AI agents that learn from customer calls
 https://www.eu-startups.com/2026/07/10-european-spacetech-startups-ready-for-liftoff/|10 European SpaceTech startups ready for liftoff
+https://venturebeat.com/infrastructure/bright-machines-says-its-new-hybrid-robot-cell-could-help-solve-a-major-ai-infrastructure-bottleneck|Bright Machines says its new hybrid robot cell could help solve a major AI infrastructure bottleneck

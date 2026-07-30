@@ -3077,3 +3077,4 @@ https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/|L
 https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/|AI Scammers Are Better at Building Trust Than Humans
 https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/|I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots
 https://www.eu-startups.com/2026/07/swiss-startup-ai-infrastructure-capital-ag-launches-with-e16-million-to-tackle-ai-compute-bottleneck/|Swiss startup AI Infrastructure Capital AG launches with €16 million to tackle AI compute bottleneck
+https://www.eu-startups.com/2026/07/swedish-legal-ai-unicorn-legora-acquires-london-based-wexler-in-fifth-acquisition-of-2026/|Swedish legal AI unicorn Legora snaps up London-based Wexler in fifth acquisition of 2026

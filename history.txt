@@ -3129,3 +3129,4 @@ https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics
 https://www.zoomit.ir/car/464108-tesla-fsd-safety-data-europe/|ادعای جنجالی تسلا: سیستم کمک‌راننده پنج برابر ایمن‌تر از رانندگی انسانی است
 https://www.zoomit.ir/ai-articles/464231-google-deepmind-gemini-robotics-2/|باورنکردنی: هوش مصنوعی جدید گوگل، کنترل کامل ربات‌ها را در دست می‌گیرد
 https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/|Investors love AI, as long as you’re a cloud host
+https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost|AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost

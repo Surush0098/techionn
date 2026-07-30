@@ -3118,3 +3118,4 @@ https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fu
 https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/|Fusion power darling Commonwealth Fusion Systems raises another $1B
 https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/|Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI
 https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/|Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic
+https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/|Battery Storage Startup Antora Closes $550M Series C In One Of Year’s Largest Cleantech Rounds

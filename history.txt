@@ -3121,3 +3121,4 @@ https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthro
 https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/|Battery Storage Startup Antora Closes $550M Series C In One Of Year’s Largest Cleantech Rounds
 https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying|Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.
 https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread|Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread
+https://www.zoomit.ir/ai-articles/464230-openai-cuts-gpt-56-prices/|اوپن‌ای‌آی دو مدل هوش مصنوعی محبوب خود را به‌شدت ارزان کرد

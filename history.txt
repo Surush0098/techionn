@@ -3116,3 +3116,4 @@ https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-
 https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/|Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A
 https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/|When will fusion power startup Commonwealth Fusion Systems go public?
 https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/|Fusion power darling Commonwealth Fusion Systems raises another $1B
+https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/|Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI

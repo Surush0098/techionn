@@ -3102,3 +3102,4 @@ https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-
 https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/|Nscale buys Anyscale as it seeks to own more of the AI compute stack
 https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/|Forward-deployed engineers are the AI industry’s latest talent obsession
 https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/|In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable
+https://www.wired.com/story/google-gemini-can-control-humanoid-robots/|Gemini Robotics 2 Brings Google's AI Into the Physical World

@@ -3120,3 +3120,4 @@ https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-
 https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/|Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic
 https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora-550m-series-c/|Battery Storage Startup Antora Closes $550M Series C In One Of Year’s Largest Cleantech Rounds
 https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying|Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.
+https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread|Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread

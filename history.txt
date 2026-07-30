@@ -3123,3 +3123,4 @@ https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-sys
 https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread|Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread
 https://www.zoomit.ir/ai-articles/464230-openai-cuts-gpt-56-prices/|اوپن‌ای‌آی دو مدل هوش مصنوعی محبوب خود را به‌شدت ارزان کرد
 https://www.zoomit.ir/business/464194-binance-us-prediction-market-license/|بزرگ‌ترین صرافی رمزارز دنیا وارد بازار پیش‌بینی می‌شود
+https://www.zoomit.ir/health-medical/463940-regain-sense-of-smell/|سمعک بینی؛ ابداع جدید پژوهشگران می‌تواند حس بویایی را به افراد بازگرداند

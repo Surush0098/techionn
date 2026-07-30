@@ -3107,3 +3107,4 @@ https://www.wired.com/story/doge-veterans-are-landing-big-jobs-at-prediction-mar
 https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags|The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free
 https://yourstory.com/2026/07/phonepe-launches-pulsepro-actionable-data-intelligence-for-indian-businesses|PhonePe launches PulsePro: Actionable data intelligence for Indian businesses
 https://yourstory.com/2026/07/swiggy-losses-down-34-as-revenues-rise-37-in-q1-of-fy27|Swiggy losses narrow to Rs 791 Cr; revenue up 37% in Q1 FY27
+https://yourstory.com/2026/07/startup-news-updates-daily-roundup-july-30-2026|Startup news and updates: Daily roundup (July 30, 2026)

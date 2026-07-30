@@ -3122,3 +3122,4 @@ https://news.crunchbase.com/clean-tech-and-energy/battery-storage-startup-antora
 https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying|Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.
 https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread|Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread
 https://www.zoomit.ir/ai-articles/464230-openai-cuts-gpt-56-prices/|اوپن‌ای‌آی دو مدل هوش مصنوعی محبوب خود را به‌شدت ارزان کرد
+https://www.zoomit.ir/business/464194-binance-us-prediction-market-license/|بزرگ‌ترین صرافی رمزارز دنیا وارد بازار پیش‌بینی می‌شود

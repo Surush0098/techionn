@@ -3061,3 +3061,4 @@ https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-e
 https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that|Enterprise AI agents can't talk to each other, can't be trusted with permissions, and can't be audited — 5 startups are already fixing that
 https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/|Microsoft is openly competing with OpenAI, Anthropic more than ever
 https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/|Mark Zuckerberg predicts that billions of people will have personal AI agents in five years
+https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/|Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag

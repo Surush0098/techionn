@@ -3105,3 +3105,4 @@ https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-
 https://www.wired.com/story/google-gemini-can-control-humanoid-robots/|Gemini Robotics 2 Brings Google's AI Into the Physical World
 https://www.wired.com/story/doge-veterans-are-landing-big-jobs-at-prediction-markets/|DOGE Veterans Are Landing Big Jobs at Prediction Markets
 https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags|The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free
+https://yourstory.com/2026/07/phonepe-launches-pulsepro-actionable-data-intelligence-for-indian-businesses|PhonePe launches PulsePro: Actionable data intelligence for Indian businesses

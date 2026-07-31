@@ -3131,3 +3131,4 @@ https://www.zoomit.ir/ai-articles/464231-google-deepmind-gemini-robotics-2/|با
 https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/|Investors love AI, as long as you’re a cloud host
 https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost|AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost
 https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/|Anthropic says its own AI models breached three companies during security tests
+https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/|AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares

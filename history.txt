@@ -3183,3 +3183,4 @@ https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/
 https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/|VC-backed startups commit more fraud, and researchers think they know why
 https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/|Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation
 https://news.crunchbase.com/venture/biggest-funding-rounds-safe-superintelligence-commonwealth-fusion/|The Week’s 10 Biggest Funding Rounds: Safe Superintelligence And Commonwealth Fusion Lead With Billion-Dollar Deals
+https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud|How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud

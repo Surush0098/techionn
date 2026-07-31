@@ -3136,3 +3136,4 @@ https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs
 https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size|Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size
 https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/|Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests
 https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations|Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations
+https://yourstory.com/2026/07/zepto-rs-1000-cr-pre-ipo-round-prepublic-listing-delayed|Zepto to raise Rs 1,000 Cr in pre-IPO round at $4.5B valuation; public listing delayed

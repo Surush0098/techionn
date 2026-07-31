@@ -3133,3 +3133,4 @@ https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices
 https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/|Anthropic says its own AI models breached three companies during security tests
 https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/|AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares
 https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/|Reddit reports a solid quarter but shows signs of AI’s impact
+https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size|Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size

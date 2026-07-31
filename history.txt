@@ -3134,3 +3134,4 @@ https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-thre
 https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/|AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares
 https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/|Reddit reports a solid quarter but shows signs of AI’s impact
 https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size|Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size
+https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/|Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests

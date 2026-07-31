@@ -3187,3 +3187,4 @@ https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-
 https://www.zoomit.ir/economics/464255-world-cup-prediction-market-chainalysis/|حجم معاملات بازارهای پیش‌بینی جام جهانی ۲۰۲۶ به ۲۰ میلیارد دلار رسید
 https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/|Silicon Valley loves young founders. Until it doesn’t.
 https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/|India is starting to pay for apps, not just download them
+https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap|Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap

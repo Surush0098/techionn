@@ -3197,3 +3197,4 @@ https://www.zoomit.ir/software-news/464292-google-earth-ai-tool-disabled/|ویژ
 https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/|Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal
 https://startup360.ir/dotin-tech-journey-bootcamp-1405/|داتین سومین دوره بوت‌کمپ رایگان «سفر فناورانه» را در تهران برگزار می‌کند
 https://www.zoomit.ir/report/464319-knowledge-based-economy-financing-models-ecommerce-challenges/|طراحی مدل جدید تامین مالی برای شرکت‌های دانش‌بنیان؛ از حذف دوباره‌کاری بانکی تا حمایت از اقتصاد دیجیتال
+https://www.zoomit.ir/iran-news/464312-dotins-ai-solution-for-bank-customer-support-in-wepod/|راهکار هوش مصنوعی داتین برای پشتیبانی بانک‌ها؛ تجربه «از من بپرس» در ویپاد

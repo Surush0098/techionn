@@ -3191,3 +3191,4 @@ https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-po
 https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/|OpenAI reportedly finds evidence that more of its agents ran amok
 https://startup360.ir/dotin-ceo-ai-banking-role/|مدیرعامل داتین: هوش مصنوعی نقش بانکدار را بازتعریف می‌کند، نه اینکه جای او را بگیرد
 https://startup360.ir/shopify-ai-partner-ecosystem/|شاپیفای: هوش مصنوعی فرصت‌های تازه‌ای برای توسعه‌دهندگان و شرکای تجاری ایجاد می‌کند
+https://www.zoomit.ir/iran-news/464312-datins-ai-solution-for-bank-customer-support-in-wepod/|راهکار هوش مصنوعی داتین برای پشتیبانی بانک‌ها؛ تجربه «از من بپرس» در ویپاد

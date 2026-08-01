@@ -3192,3 +3192,4 @@ https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-
 https://startup360.ir/dotin-ceo-ai-banking-role/|مدیرعامل داتین: هوش مصنوعی نقش بانکدار را بازتعریف می‌کند، نه اینکه جای او را بگیرد
 https://startup360.ir/shopify-ai-partner-ecosystem/|شاپیفای: هوش مصنوعی فرصت‌های تازه‌ای برای توسعه‌دهندگان و شرکای تجاری ایجاد می‌کند
 https://www.zoomit.ir/iran-news/464312-datins-ai-solution-for-bank-customer-support-in-wepod/|راهکار هوش مصنوعی داتین برای پشتیبانی بانک‌ها؛ تجربه «از من بپرس» در ویپاد
+https://www.zoomit.ir/social-network/464291-linkedin-adds-ai-slop-button/|لینکدین پست‌های بی‌کیفیت هوش مصنوعی را برچسب‌گذاری می‌کند

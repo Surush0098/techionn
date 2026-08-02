@@ -3221,3 +3221,4 @@ https://www.zoomit.ir/iran-news/464363-inotex-2026-registration/|تاریخ بر
 https://www.zoomit.ir/iran-news/464355-dotin-third-tech-journey/|سومین بوت‌کمپ «سفر فناورانه» داتین برگزار می‌شود؛ ثبت‌ نام تا ۱۵ مرداد
 https://www.zoomit.ir/iran-news/464347-nobitex-clarifies-compensation-for-security-incident-losses/|نوبیتکس: خسارت حمله سایبری را بدون کمک دولتی جبران کردیم
 https://www.zoomit.ir/ai-articles/464343-astra-solves-decade-old-math-problems/|نسخه جدید ChatGPT توانست ۱۰ مسئله مهم ریاضی و کوانتوم را حل کند
+https://www.zoomit.ir/ai-articles/464309-imagine-video-1-5-grok-new-features/|هوش مصنوعی Grok Imagine Video 1.5 با قابلیت تبدیل متن به ویدیو سوپرشارژ شد

@@ -3251,3 +3251,4 @@ https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/|AI Conquered 
 https://news.crunchbase.com/venture/menlo-ventures-matt-murphy-anthropic-ai-investment-thesis/|‘A Rare Land-Grab Moment’: Menlo Ventures’ Matt Murphy On The Next Wave of AI And Putting $3B In New Capital To Work
 https://www.eu-startups.com/2026/08/italys-aflabox-raises-e1-35-million-to-scale-ai-powered-portable-aflatoxin-detection-across-africa-and-europe/|Italy’s Aflabox raises €1.35 million to scale AI-powered portable aflatoxin detection across Africa and Europe
 https://www.eu-startups.com/2026/08/europes-ai-challenge-is-not-invention-but-momentum/|Europe’s AI challenge is not invention, but momentum
+https://www.eu-startups.com/2026/08/helsinki-based-aiforia-secures-e20-million-eib-financing-to-advance-ai-powered-cancer-diagnostics/|Helsinki-based Aiforia secures €20 million EIB financing to advance AI-powered cancer diagnostics

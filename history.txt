@@ -3320,3 +3320,4 @@ https://www.eu-startups.com/2026/08/zurich-based-exclaim-robotics-exits-stealth-
 https://yourstory.com/2026/08/tsalla-aerospace-gps-free-drone-software|Tsalla Aerospace builds autonomy software that flies drones without GPS
 https://yourstory.com/2026/08/meine-electric-iron-air-batteries|Meine Electric is building fast-charging iron-air batteries to store solar power overnight
 https://yourstory.com/2026/08/agrograde-onion-potato-sorting|Agrograde builds machines that sort onions and potatoes by quality, not just size
+https://yourstory.com/2026/08/agmove-robotics-farm-rovers|AgMove Robotics builds small farm rovers to spray between crop rows

@@ -3334,3 +3334,4 @@ https://www.zoomit.ir/business/464524-spotify-crosses-300m-paid-subscribers/|ر�
 https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/|Open-weight AI models are catching up to the frontier. The safety gap remains.
 https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/|Anthropic signs $10B deal with AI cloud startup Volta
 https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/|Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress
+https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/|The White House Is Keeping Its AI Cybersecurity Framework Secret

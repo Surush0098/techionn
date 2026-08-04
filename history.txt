@@ -3302,3 +3302,4 @@ https://www.zoomit.ir/ai-tutorials/464389-google-flow-guide/|همه‌چیز د�
 https://www.zoomit.ir/pr/464470-website-app-infrastructure-hosting-guide-liara/|لیارا؛ زیرساخت موردنیاز برای اجرای سایت و اپلیکیشن
 https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/|Bending Spoons to buy Airtable for $1.28B
 https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/|How One Startup Built a (Mostly) China-Free Robot
+https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/|Mistral Is in the Right Place at the Right Time

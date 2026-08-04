@@ -3316,3 +3316,4 @@ https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-o
 https://www.eu-startups.com/2026/08/e40k-investment-and-investor-know-how-aceon-accelerator-opens-applications-for-its-6th-international-program-sponsored/|€40K investment and investor know-how: AceON Accelerator opens applications for its 6th international program (Sponsored)
 https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/|Spotify expands AI remix and covers project with Merlin partnership
 https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/|Apple says more ex-employees may have taken confidential data to OpenAI
+https://www.eu-startups.com/2026/08/zurich-based-exclaim-robotics-exits-stealth-with-e4-29-million-to-build-robots-for-ai-data-centre-maintenance/|Zürich-based Exclaim Robotics exits stealth with €4.29 million to build robots for AI data centre maintenance

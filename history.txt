@@ -3318,3 +3318,4 @@ https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-
 https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/|Apple says more ex-employees may have taken confidential data to OpenAI
 https://www.eu-startups.com/2026/08/zurich-based-exclaim-robotics-exits-stealth-with-e4-29-million-to-build-robots-for-ai-data-centre-maintenance/|Zürich-based Exclaim Robotics exits stealth with €4.29 million to build robots for AI data centre maintenance
 https://yourstory.com/2026/08/tsalla-aerospace-gps-free-drone-software|Tsalla Aerospace builds autonomy software that flies drones without GPS
+https://yourstory.com/2026/08/meine-electric-iron-air-batteries|Meine Electric is building fast-charging iron-air batteries to store solar power overnight

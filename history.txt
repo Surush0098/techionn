@@ -3288,3 +3288,4 @@ https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks
 https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/|DesignArena creators raise $7.9 million to bring taste to AI models
 https://techcabal.com/2026/08/03/nigeria-wants-to-collect-1-5-crypto-stamp-duty-in-bitcoin-usdt/|Nigeria wants to collect 1.5% crypto stamp duty in Bitcoin, USDT
 https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/|After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
+https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use|Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use

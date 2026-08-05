@@ -3411,3 +3411,4 @@ https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-lea
 https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/|The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop
 https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/|How Lightspeed found its newest hire … via Instagram DM
 https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/|Meta launches Muse Code, an AI agent for large code bases
+https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents|Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents

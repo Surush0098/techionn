@@ -3402,3 +3402,4 @@ https://yourstory.com/2026/08/lemnisca-fermentation-software|Lemnisca builds sof
 https://www.zoomit.ir/social-network/464622-reddit-introduces-ai-moderation-rules-hub/|«صفحه‌ اول اینترنت» به استقبال سیستم نظارت با هوش مصنوعی رفت
 https://www.zoomit.ir/ai-articles/464620-anthropic-builds-in-house-chip-team/|خالق چت‌بات کلاد، یک تیم اختصاصی برای طراحی تراشه تشکیل می‌دهد
 https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/|AI Worms and Viruses Are Coming
+https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know|Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know

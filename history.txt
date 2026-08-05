@@ -3394,3 +3394,4 @@ https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic
 https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/|TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals
 https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/|Google’s Top AI Brains Are Leaving to Launch Discovery Loop
 https://venturebeat.com/security/the-shai-hulud-npm-worm-didnt-fake-its-security-check-it-earned-a-legitimate-one|The Shai-Hulud npm worm didn't fake its security check — it earned a legitimate one
+https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff|AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff

@@ -3382,3 +3382,4 @@ https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-comple
 https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/|Anthropic is hiring an AI chip design team
 https://www.eu-startups.com/2026/08/agentic-ai-is-changing-what-the-cloud-is-for/|Agentic AI is changing what the cloud is for
 https://yourstory.com/2026/08/pb-fintech-net-profit-up-92-in-q1-of-fy27|PB Fintech net profit up 92% in Q1 of FY27
+https://yourstory.com/2026/08/pinegap-raises-8-million-in-series-a-led-by-stellaris-venture-partners|Pinegap raises $8M in Series A led by Stellaris Venture Partners

@@ -3400,3 +3400,4 @@ https://yourstory.com/2026/08/peptris-ai-drug-discovery|Peptris is using AI to f
 https://yourstory.com/2026/08/suncharge-motors-solar-electric-autos|SunCharge Motors builds electric autos with solar panels on the roof
 https://yourstory.com/2026/08/lemnisca-fermentation-software|Lemnisca builds software to predict how fermentation behaves at factory scale
 https://www.zoomit.ir/social-network/464622-reddit-introduces-ai-moderation-rules-hub/|«صفحه‌ اول اینترنت» به استقبال سیستم نظارت با هوش مصنوعی رفت
+https://www.zoomit.ir/ai-articles/464620-anthropic-builds-in-house-chip-team/|خالق چت‌بات کلاد، یک تیم اختصاصی برای طراحی تراشه تشکیل می‌دهد

@@ -3398,3 +3398,4 @@ https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affo
 https://yourstory.com/2026/08/neuranics-fingerprick-blood-count-machine|Neuranics Lab is building a blood count machine that runs by fingerprick
 https://yourstory.com/2026/08/peptris-ai-drug-discovery|Peptris is using AI to find drug candidates to shorten the time it takes for laboratory validation
 https://yourstory.com/2026/08/suncharge-motors-solar-electric-autos|SunCharge Motors builds electric autos with solar panels on the roof
+https://yourstory.com/2026/08/lemnisca-fermentation-software|Lemnisca builds software to predict how fermentation behaves at factory scale

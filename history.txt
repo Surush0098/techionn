@@ -3451,3 +3451,4 @@ https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-suppor
 https://www.eu-startups.com/2026/08/inevitable-ai-group-raises-e5-2-million-from-aleph-to-launch-ai-native-saas-companies/|Inevitable AI Group raises €5.2 million from Aleph to launch AI-native SaaS companies
 https://www.eu-startups.com/2026/08/the-chink-in-europes-innovation-armour/|The chink in Europe’s innovation armour
 https://yourstory.com/2026/08/xovian-radio-sensing-satellites|Xovian is building satellites that listen for radio signals rather than take images
+https://yourstory.com/2026/08/constelli-radar-signal-processing|Constelli builds the signal processing tools used to design radar and electronic warfare systems

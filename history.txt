@@ -3452,3 +3452,4 @@ https://www.eu-startups.com/2026/08/inevitable-ai-group-raises-e5-2-million-from
 https://www.eu-startups.com/2026/08/the-chink-in-europes-innovation-armour/|The chink in Europe’s innovation armour
 https://yourstory.com/2026/08/xovian-radio-sensing-satellites|Xovian is building satellites that listen for radio signals rather than take images
 https://yourstory.com/2026/08/constelli-radar-signal-processing|Constelli builds the signal processing tools used to design radar and electronic warfare systems
+https://yourstory.com/2026/08/leumas-robotic-factory-rental|Leumas rents out robotic factory lines to brands that do not want to build a factory

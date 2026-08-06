@@ -3413,3 +3413,4 @@ https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-insta
 https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/|Meta launches Muse Code, an AI agent for large code bases
 https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents|Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents
 https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/|OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree
+https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/|OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts

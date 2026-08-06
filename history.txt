@@ -3460,3 +3460,4 @@ https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuat
 https://www.wired.com/story/why-normal-people-arent-using-ai-agents/|Why Normal People Aren’t Using AI Agents
 https://www.wired.com/story/flock-videos-highlighted-police-departments-that-face-misuse/|Flock Highlighted Police Departments Using Its Tech. Now 4 Face Allegations of Misuse
 https://www.zoomit.ir/cryptocurrency/464555-us-uk-digital-asset-cooperation/|آمریکا و بریتانیا به ادامه حمایت از استیبل‌کوین‌ها تأکید کردند
+https://www.zoomit.ir/ai-articles/464669-ai-tool-prevents-diabetic-amputations/|هوش مصنوعی به کمک دوربین گوشی روی زخم پای دیابتی نظارت می‌کند

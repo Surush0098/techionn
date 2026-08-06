@@ -3427,3 +3427,4 @@ https://www.zoomit.ir/iran-news/464614-it-production-challenges-iran-elcomp-valu
 https://www.zoomit.ir/business/464651-microsoft-ai-revenue-openai-dependence/|وابستگی خطرناک؛ ۷۰ درصد از درآمد هوش مصنوعی مایکروسافت را اوپن‌ای‌آی تأمین می‌کند
 https://www.zoomit.ir/ai-articles/464646-meta-launches-muse-code-mac/|هوش مصنوعی پیشرفته Muse Code متا برای کدنویسی از راه رسید
 https://www.zoomit.ir/business/464633-nikita-bier-steps-down-x/|مدیر محصول شبکه اجتماعی ایکس از مقام خود کناره‌گیری کرد
+https://www.zoomit.ir/ai-articles/464639-meta-ai-model-escapes-sandbox/|فرار هوش مصنوعی متا از محیط امنیتی و هک یک سیستم خارجی!

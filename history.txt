@@ -3493,3 +3493,4 @@ https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-fas
 https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/|Scientists Used AI to Create 16 New Viruses
 https://www.eu-startups.com/2026/08/londons-safehire-ai-founded-by-ex-british-army-officers-secures-e583-2k-to-scale-ai-powered-digital-risk-screening/|London’s Safehire.ai, founded by ex-British Army officers, secures €583.2k to scale AI-powered digital risk screening
 https://yourstory.com/2026/08/ola-electric-narrows-loss-rs-336-cr-revenue-falls|Ola Electric narrows loss to Rs 336 Cr, revenue falls 45%
+https://yourstory.com/2026/08/skyai-ai-drone-detection|SkyAI Technologies builds AI drone detection systems for airports and secured sites

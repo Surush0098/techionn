@@ -3463,3 +3463,4 @@ https://www.zoomit.ir/cryptocurrency/464555-us-uk-digital-asset-cooperation/|آ�
 https://www.zoomit.ir/ai-articles/464669-ai-tool-prevents-diabetic-amputations/|هوش مصنوعی به کمک دوربین گوشی روی زخم پای دیابتی نظارت می‌کند
 https://www.zoomit.ir/business/464697-elon-musk-time-value-100-million-dollars/|چرا یک ساعت از زمان ایلان ماسک ۱۰۰ میلیون دلار می‌ارزد؟ از زبان خودش بشنوید
 https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/|One of China’s Most Powerful AI Models Has Also Escaped Containment
+https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi|No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi

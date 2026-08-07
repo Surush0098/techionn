@@ -3498,3 +3498,4 @@ https://yourstory.com/2026/08/crystalball-mapping-drones|CrystalBall builds type
 https://yourstory.com/2026/08/reneonix-glass-recycling|Reneonix builds recycling infrastructure to turn used glass into factory-grade raw material
 https://yourstory.com/2026/08/gati-drives-rare-earth-free-motors|Gati Drives builds rare-earth-free electric motors for Indian appliance and HVAC manufacturers
 https://yourstory.com/2026/08/rescript-recycled-paper-startup-success-story-india|Two childhood friends turned India’s trash paper into a multi-crore notebook brand
+https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/|Cloudflare launches Kitesurf, a browser built for AI agents

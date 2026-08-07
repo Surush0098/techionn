@@ -3466,3 +3466,4 @@ https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/|One of Chi
 https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi|No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi
 https://yourstory.com/2026/08/indias-healthcare-ai-race-isnt-about-bigger-models-its-about-better-diagnostics|India’s healthcare AI race isn’t about bigger models. It’s about better diagnostics
 https://www.zoomit.ir/business/464636-block-raises-outlook-ai-code/|افزایش چشمگیر درآمد «بلاک» به لطف استفاده از هوش مصنوعی
+https://yourstory.com/2026/07/jammu-kashmir-startup-ecosystem-next-chapter|Jammu & Kashmir's startup reckoning: What the next chapter demands

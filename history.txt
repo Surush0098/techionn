@@ -3488,3 +3488,4 @@ https://www.eu-startups.com/2026/08/glasgow-based-mironid-raises-e39-9-million-i
 https://yourstory.com/2026/08/how-walkabout-helps-active-agers-find-purpose-in-life-after-55|How WalkAbout helps active agers find purpose in life after 55
 https://yourstory.com/2026/08/ev-retail-sales-break-record-units-july-fada|EV retail sales break record at 3.27 lakh units in July: FADA
 https://www.zoomit.ir/ai-articles/464662-ai-threat-to-strategic-consultants/|هوش مصنوعی احتمالا عصر طلایی مشاوران مدیریتی را به پایان می‌رساند
+https://www.zoomit.ir/ai-articles/464699-sam-altman-on-prompt-engineering/|سخنرانی خواندنی سم آلتمن: دیگر نیازی به نوشتن پرامپت ندارید

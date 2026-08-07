@@ -3502,3 +3502,4 @@ https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-f
 https://yourstory.com/2026/08/weekly-funding-roundup-aug-1-7-sharp-rise-in-vc-inflow-led-by-river-mobility|[Weekly funding roundup Aug 1-7] Sharp rise in VC inflow led by River Mobility
 https://www.zoomit.ir/ai-articles/464685-manually-responding-chatbot-chattjb-satire/|بیلبورد جنجالی سان‌فرانسیسکو؛ چت‌باتی که یک انسان واقعی پشت آن است
 https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck|Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck
+https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong|Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong

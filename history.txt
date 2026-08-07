@@ -3503,3 +3503,4 @@ https://yourstory.com/2026/08/weekly-funding-roundup-aug-1-7-sharp-rise-in-vc-in
 https://www.zoomit.ir/ai-articles/464685-manually-responding-chatbot-chattjb-satire/|بیلبورد جنجالی سان‌فرانسیسکو؛ چت‌باتی که یک انسان واقعی پشت آن است
 https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck|Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck
 https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong|Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong
+https://www.zoomit.ir/software-news/464752-cloudflare-launches-kitesurf-ai-browser/|مرورگر جدیدی که برای انسان‌ها ساخته نشده است؛ بازیگر متفاوت دنیای وب

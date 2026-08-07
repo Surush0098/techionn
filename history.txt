@@ -3489,3 +3489,4 @@ https://yourstory.com/2026/08/how-walkabout-helps-active-agers-find-purpose-in-l
 https://yourstory.com/2026/08/ev-retail-sales-break-record-units-july-fada|EV retail sales break record at 3.27 lakh units in July: FADA
 https://www.zoomit.ir/ai-articles/464662-ai-threat-to-strategic-consultants/|هوش مصنوعی احتمالا عصر طلایی مشاوران مدیریتی را به پایان می‌رساند
 https://www.zoomit.ir/ai-articles/464699-sam-altman-on-prompt-engineering/|سخنرانی خواندنی سم آلتمن: دیگر نیازی به نوشتن پرامپت ندارید
+https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/|Airbnb says AI is helping it ship features faster as it tests a new search function

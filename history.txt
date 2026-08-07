@@ -3501,3 +3501,4 @@ https://yourstory.com/2026/08/rescript-recycled-paper-startup-success-story-indi
 https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/|Cloudflare launches Kitesurf, a browser built for AI agents
 https://yourstory.com/2026/08/weekly-funding-roundup-aug-1-7-sharp-rise-in-vc-inflow-led-by-river-mobility|[Weekly funding roundup Aug 1-7] Sharp rise in VC inflow led by River Mobility
 https://www.zoomit.ir/ai-articles/464685-manually-responding-chatbot-chattjb-satire/|بیلبورد جنجالی سان‌فرانسیسکو؛ چت‌باتی که یک انسان واقعی پشت آن است
+https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck|Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck

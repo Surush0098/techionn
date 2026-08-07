@@ -3504,3 +3504,4 @@ https://www.zoomit.ir/ai-articles/464685-manually-responding-chatbot-chattjb-sat
 https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck|Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck
 https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong|Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong
 https://www.zoomit.ir/software-news/464752-cloudflare-launches-kitesurf-ai-browser/|مرورگر جدیدی که برای انسان‌ها ساخته نشده است؛ بازیگر متفاوت دنیای وب
+https://news.crunchbase.com/venture/biggest-funding-rounds-billion-dollar-raises-manufacturing-energy-ai/|The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks

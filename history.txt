@@ -3512,3 +3512,4 @@ https://yourstory.com/2026/08/the-rise-of-predictive-commerce-for-indias-msmes|T
 https://yourstory.com/2026/08/ai-is-reimagining-service-companies|AI is reimagining service companies; Ola Electric narrows loss in Q1
 https://www.zoomit.ir/ai-articles/464720-ai-accounts-new-cyber-attack-surface/|حساب‌های کاربری هوش مصنوعی به هدف جدید هکرها تبدیل شدند
 https://startup360.ir/ebay-live-shopping-growth/|ای‌بی پس از ثبت رکورد مالی، سرمایه‌گذاری روی خرید زنده را افزایش می‌دهد
+https://www.zoomit.ir/ai-articles/464756-openai-pauses-astra-model-cybersecurity/|توسعه هوش مصنوعی جدید اوپن‌ای‌آی به دلایل امنیتی متوقف شد

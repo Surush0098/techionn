@@ -3510,3 +3510,4 @@ https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-
 https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks|Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks
 https://yourstory.com/2026/08/the-rise-of-predictive-commerce-for-indias-msmes|The rise of predictive commerce for India’s MSMEs
 https://yourstory.com/2026/08/ai-is-reimagining-service-companies|AI is reimagining service companies; Ola Electric narrows loss in Q1
+https://www.zoomit.ir/ai-articles/464720-ai-accounts-new-cyber-attack-surface/|حساب‌های کاربری هوش مصنوعی به هدف جدید هکرها تبدیل شدند

@@ -3506,3 +3506,4 @@ https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-
 https://www.zoomit.ir/software-news/464752-cloudflare-launches-kitesurf-ai-browser/|مرورگر جدیدی که برای انسان‌ها ساخته نشده است؛ بازیگر متفاوت دنیای وب
 https://news.crunchbase.com/venture/biggest-funding-rounds-billion-dollar-raises-manufacturing-energy-ai/|The Week’s 10 Biggest Funding Rounds: A Big Week For Big Checks
 https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/|After Rippling blew millions on AI in months, it built an employee ROI tool
+https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/|OpenAI says it slowed Astra model development over security concerns

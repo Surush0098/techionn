@@ -3630,3 +3630,4 @@ https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-
 https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/|Tech industry is buzzing after a Claude agent hacked into a gym
 https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code|Brex assumes its AI agents could do anything — so it watches the network, not the code
 https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/|Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI
+https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push|AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push

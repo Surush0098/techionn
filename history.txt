@@ -3582,3 +3582,4 @@ https://www.zoomit.ir/security/464845-ai-models-rogue-hacking-sprees/|پشت پ�
 https://www.zoomit.ir/cryptocurrency/464844-us-senate-crypto-clarity-act/|آمریکا قوانین جامع و مهمی را برای رمزارزها تدوین می‌کند
 https://www.zoomit.ir/tech/464846-ai-bootcamps-boom-us-universities/|پایان دوران تحصیلات طولانی؛ راز جدید استخدام در شرکت‌های بزرگ فاش شد
 https://www.zoomit.ir/ai-articles/464903-anthropic-claude-code-auto-mode/|برنامه‌نویسی خودکار «کلاد کد» به‌صورت پیش‌فرض فعال می‌شود
+https://yourstory.com/2026/08/building-a-jetpack-for-satellites|Building a ‘jetpack’ for satellites; Sharp rise in VC inflow

@@ -3618,3 +3618,4 @@ https://yourstory.com/2026/08/bakingo-parent-fa-gifts-raises-nearly-100-crore-fa
 https://www.zoomit.ir/car/464899-zoox-robotaxi-commercial-launch-nhtsa/|مجوز تاریخی برای حذف فرمان و پدال؛ «زوکس» عصر جدید تاکسی‌های خودران را شروع می‌کند
 https://www.zoomit.ir/software-news/464950-aptoide-launches-on-google-play/|فروشگاه اپلیکیشن Aptoide Games معرفی شد؛ رقیب پلی استور برای دانلود بازی
 https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/|Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision
+https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now|Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now

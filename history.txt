@@ -3628,3 +3628,4 @@ https://www.zoomit.ir/ai-articles/464961-openai-gpt-5-6-cyber-released/|هوش �
 https://www.zoomit.ir/cryptocurrency/464901-crypto-shakeout-2026-projects-fold/|سقوط آزاد ارزهای دیجیتال؛ بیش از ۱۰۰ پروژه در یک سال تعطیل شدند
 https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/|Tech industry is buzzing after a Claude agent hacked into a gym
 https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/|Tech industry is buzzing after a Claude agent hacked into a gym
+https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code|Brex assumes its AI agents could do anything — so it watches the network, not the code

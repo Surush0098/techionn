@@ -3668,3 +3668,4 @@ https://www.eu-startups.com/2026/08/innovation-is-reshaping-the-blue-economy-mee
 https://www.eu-startups.com/2026/08/luxembourgs-space-biotech-exobiosphere-secures-e1-million-to-find-cures-from-space/|Luxembourg’s space BioTech Exobiosphere secures €1 million to find “cures from space”
 https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now|Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.
 https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt|Your AI agent may be ready. Your sales motion probably isn’t.
+https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights|LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights

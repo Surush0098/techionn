@@ -3632,3 +3632,4 @@ https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anythi
 https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/|Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI
 https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push|AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push
 https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/|As AI-led attacks multiply, OpenAI launches a new cyber model
+https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks|OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks

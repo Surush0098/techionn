@@ -3656,3 +3656,4 @@ https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generate
 https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/|A New Trick Reveals AI Models’ Inner Thoughts
 https://news.crunchbase.com/venture/latam-startup-vc-silicon-valley-expansion-qa-quinzanos-monashees/|The VC Firm That Helped Build Latin America’s Startup Scene Is Crossing Into Silicon Valley
 https://news.crunchbase.com/ai/native-not-sprinkle-business-growth-change-morse-strattam/|AI-Native, Not AI-Sprinkle: Why AI Is A Business Change, Not A Technology Change
+https://www.eu-startups.com/2026/08/stockholms-quartr-lands-e15-6-million-to-expand-its-ai-ready-public-company-ir-data-coverage/|Stockholm’s Quartr lands €15.6 million to expand its AI-ready public company IR data coverage

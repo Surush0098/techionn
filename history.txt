@@ -3650,3 +3650,4 @@ https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/|
 https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/|AI Is Dead. Organoids Are Alive
 https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/|AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia
 https://www.eu-startups.com/2026/08/what-europes-oldest-companies-can-teach-its-newest-startups/|What Europe’s oldest companies can teach its newest startups
+https://www.eu-startups.com/2026/08/zug-based-zerolook-raises-e1-6-million-to-tackle-ai-driven-flight-search-costs/|Zug-based Zerolook raises €1.6 million to tackle AI-driven flight search costs

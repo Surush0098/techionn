@@ -3670,3 +3670,4 @@ https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-e
 https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt|Your AI agent may be ready. Your sales motion probably isn’t.
 https://venturebeat.com/technology/ltx-2-5-can-generate-a-10-second-ai-video-from-an-image-in-just-6-8-seconds-on-nvidia-superchips-and-its-open-weights|LTX-2.5 can generate a 10-second AI video from an image in just 6.8 seconds on Nvidia superchips — and it's open weights
 https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests|Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests
+https://startup360.ir/california-ban-ai-therapists/|قانون‌گذاران کالیفرنیا به‌دنبال محدود کردن استفاده از چت‌بات‌ها به‌منظور تراپی هستند

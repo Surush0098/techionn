@@ -3677,3 +3677,4 @@ https://www.zoomit.ir/ai-articles/464913-ai-token-costs-bubble-burst/|هشدار
 https://www.zoomit.ir/os/464983-linux-kernel-ai-updates-torvalds/|خالق لینوکس: هوش مصنوعی به توسعه آپدیت‌های بزرگ کمک می‌کند
 https://www.zoomit.ir/ai-articles/465033-claude-invisible-watermarks-ai-text/|هوش مصنوعی «کلاد» به‌طور مخفیانه واترمارک نامرئی به متن‌ها و تصاویر اضافه می‌کند
 https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/|Kyoto Fusioneering starts work on key fusion power plant device
+https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/|An unreleased Anthropic model made progress on one of math’s biggest unsolved problems

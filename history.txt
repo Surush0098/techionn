@@ -3731,3 +3731,4 @@ https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/|The J
 https://news.crunchbase.com/transportation/clearjet-raises-25m-logistics-ai-seriesb/|Exclusive: ClearJet raises $25M to build the ‘Uber of Cargo’
 https://news.crunchbase.com/health-wellness-biotech/fitness-startup-funding-rebounding-ai-data-h1-2026/|Sector Snapshot: Fitness Startup Funding Is Rebounding, But Investors Want AI And Data, Not Treadmills
 https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/|Lovable raise €343 million Series C to expand its platform, infrastructure and global team
+https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai|Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI

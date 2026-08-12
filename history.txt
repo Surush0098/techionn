@@ -3710,3 +3710,4 @@ https://startup360.ir/yulu-raises-93-million-electric-bikes/|استارتاپ ه
 https://www.zoomit.ir/business/465014-anthropic-riot-9-billion-deal/|آنتروپیک قراردادی ۹ میلیارد دلاری با یکی از بزرگ‌ترین ماینرهای بیت‌کوین بست
 https://www.zoomit.ir/software-news/465052-chatgpt-desktop-app-for-linux/|نسخه لینوکس ChatGPT از راه رسید
 https://www.zoomit.ir/ai-articles/465058-grok-voice-connector-podcast/|ویژگی جدید گراک؛ هوش مصنوعی ایلان ماسک حالا می‌تواند برای شما پادکست بسازد
+https://www.zoomit.ir/ai-articles/465054-grok-bot-ai-agents-launch/|گراک بات معرفی شد؛ تیمی از متخصصان هوش مصنوعی که حتی با لپ‌تاپ خاموش هم کار می‌کنند

@@ -3696,3 +3696,4 @@ https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-wi
 https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month|SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month
 https://www.zoomit.ir/robotics-smart-machines/464985-robot-dogs-replacing-security-guards/|نگهبان‌های امنیتی جای خود را به سگ‌های رباتیک می‌دهند
 https://yourstory.com/2026/08/ideaforge-revenue-soared-437-so-why-is-it-losing-money|ideaForge revenue soared 437%. So why is it losing money?
+https://www.zoomit.ir/internet-network/464919-google-ai-crawler-cloudflare-ultimatum/|آمار غیرمنتظره ۵۷ درصدی؛ وقتی ربات‌ها اینترنت را از انسان‌ها ربودند

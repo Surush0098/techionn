@@ -3713,3 +3713,4 @@ https://www.zoomit.ir/ai-articles/465058-grok-voice-connector-podcast/|ویژگ�
 https://www.zoomit.ir/ai-articles/465054-grok-bot-ai-agents-launch/|گراک بات معرفی شد؛ تیمی از متخصصان هوش مصنوعی که حتی با لپ‌تاپ خاموش هم کار می‌کنند
 https://www.zoomit.ir/ai-articles/465051-chatgpt-gemini-one-billion-users/|رقابت شانه‌به‌شانه؛ چت‌جی‌پی‌تی و جمنای حالا بیش از یک میلیارد کاربر دارند
 https://www.eu-startups.com/2026/08/entravel-group-raises-e6-5-million-to-secure-larger-supplier-credit-facilities/|Entravel Group raises €6.5 million to secure larger supplier credit facilities
+https://www.eu-startups.com/2026/08/uk-cybersecurity-startup-cytix-raises-e6-million-series-a-to-tackle-ai-driven-software-change-risks/|UK cybersecurity startup Cytix raises €6 million Series A to tackle AI-driven software change risks

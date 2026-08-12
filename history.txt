@@ -3697,3 +3697,4 @@ https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persi
 https://www.zoomit.ir/robotics-smart-machines/464985-robot-dogs-replacing-security-guards/|نگهبان‌های امنیتی جای خود را به سگ‌های رباتیک می‌دهند
 https://yourstory.com/2026/08/ideaforge-revenue-soared-437-so-why-is-it-losing-money|ideaForge revenue soared 437%. So why is it losing money?
 https://www.zoomit.ir/internet-network/464919-google-ai-crawler-cloudflare-ultimatum/|آمار غیرمنتظره ۵۷ درصدی؛ وقتی ربات‌ها اینترنت را از انسان‌ها ربودند
+https://www.zoomit.ir/ai-articles/464990-zuckerberg-calls-for-lower-ai-barriers/|زاکربرگ نگران شکست‌خوردن آمریکا از هوش مصنوعی چین است

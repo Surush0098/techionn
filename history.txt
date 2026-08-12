@@ -3749,3 +3749,4 @@ https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already
 https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/|As AI safety concerns mount, three pioneers make the case for staying open
 https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/|OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise
 https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis|SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis
+https://yourstory.com/2026/08/astrotalk-turns-unicorn-via-esop-buyback|AstroTalk turns unicorn via ESOP buyback

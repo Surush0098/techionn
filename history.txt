@@ -3754,3 +3754,4 @@ https://www.wired.com/story/rogue-ai-is-just-misunderstood/|Rogue AI Agents Aren
 https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue|Four of five enterprises that secured AI agent identities still can't contain one that goes rogue
 https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/|Amazon will train on Twitch streamers’ content by default, unless they opt out
 https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/|The White House Is Going to Expand Its AI Policy
+https://www.zoomit.ir/ai-articles/465073-spotify-ai-persona-label-system/|اسپاتیفای طرحی برای افشای هویت خوانندگان هوش مصنوعی راه‌اندازی کرد

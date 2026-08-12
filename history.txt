@@ -3752,3 +3752,4 @@ https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-
 https://yourstory.com/2026/08/astrotalk-turns-unicorn-via-esop-buyback|AstroTalk turns unicorn via ESOP buyback
 https://www.wired.com/story/rogue-ai-is-just-misunderstood/|Rogue AI Agents Aren’t Evil. They’re Just Eager to Please
 https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue|Four of five enterprises that secured AI agent identities still can't contain one that goes rogue
+https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/|Amazon will train on Twitch streamers’ content by default, unless they opt out

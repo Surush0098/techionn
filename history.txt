@@ -3751,3 +3751,4 @@ https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bri
 https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis|SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis
 https://yourstory.com/2026/08/astrotalk-turns-unicorn-via-esop-buyback|AstroTalk turns unicorn via ESOP buyback
 https://www.wired.com/story/rogue-ai-is-just-misunderstood/|Rogue AI Agents Aren’t Evil. They’re Just Eager to Please
+https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue|Four of five enterprises that secured AI agent identities still can't contain one that goes rogue

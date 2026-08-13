@@ -3803,3 +3803,4 @@ https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted
 https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/|Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.
 https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/|OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed
 https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/|IBM partners with OpenAI to bolster enterprise AI push
+https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut|Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut

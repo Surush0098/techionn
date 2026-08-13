@@ -3778,3 +3778,4 @@ https://www.eu-startups.com/2026/08/lyons-amdb-security-pro-locks-in-e2-68-milli
 https://yourstory.com/2026/08/decoding-cashfree-payments-0-payment-gateway-fee-offer-and-why-its-a-no-brainer-for-early-stage-businesses|Decoding Cashfree Payments' 0% payment gateway fee offer, and why it's a no-brainer for early-stage businesses
 https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/|Why This Prediction Market Banned Teens
 https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models|Why Capital One built its multi-agent AI platform around open-weight models
+https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges|Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges

@@ -3756,3 +3756,4 @@ https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-
 https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/|The White House Is Going to Expand Its AI Policy
 https://www.zoomit.ir/ai-articles/465073-spotify-ai-persona-label-system/|اسپاتیفای طرحی برای افشای هویت خوانندگان هوش مصنوعی راه‌اندازی کرد
 https://www.zoomit.ir/cryptocurrency/465061-xrp-bridge-exploit-security-flaw/|یک اشتباه نرم‌افزاری باعث سرقت ۲۰۰ هزار دلار رمزارز شد
+https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/|Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes

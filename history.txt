@@ -3771,3 +3771,4 @@ https://www.eu-startups.com/2026/08/lancaster-university-spinout-mindgard-lands-
 https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/|There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It
 https://www.eu-startups.com/2026/08/the-eu-startups-podcast-interview-with-nikita-miller-chief-product-officer-at-perk/|The EU-Startups Podcast | Interview with Nikita Miller, Chief Product Officer at Perk
 https://www.eu-startups.com/2026/08/duolingo-acquires-london-animation-studio-animade-to-strengthen-its-creative-capabilities/|Duolingo acquires London-based animation studio Animade to strengthen its creative capabilities
+https://yourstory.com/2026/08/kusho-ai-software-testing-startup-bengaluru|Kusho AI is building AI agents that test software before it breaks

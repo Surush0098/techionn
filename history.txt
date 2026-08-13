@@ -3798,3 +3798,4 @@ https://www.zoomit.ir/ai-articles/462548-mistral-ai-openai-competitor-featured/|
 https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/|Anthropic set AI agents loose on the same task. They started a turf war.
 https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/|OpenAI hires new CRO as executive shake-up continues
 https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices|DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices
+https://www.zoomit.ir/ai-articles/465163-gemini-3-7-flash-launch/|هوش مصنوعی «جمنای ۳٫۷ فلش» گوگل با جهش استثنایی در کدنویسی رونمایی شد

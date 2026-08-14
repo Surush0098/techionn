@@ -3807,3 +3807,4 @@ https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-a
 https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/|Investors sue Selena Gomez alleging fraud tied to her mental health startup
 https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/|Writer introduces new AI model and upgraded harness to contain token costs
 https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done|Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done
+https://www.wired.com/story/openai-safety-security-ai-agents-culture/|The Safety Reckoning Inside OpenAI

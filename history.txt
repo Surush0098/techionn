@@ -3849,3 +3849,4 @@ https://yourstory.com/2026/08/urjanovac-carbon-capture-products|UrjanovaC captur
 https://yourstory.com/2026/08/drone-safety-system-motor-failure|Every drone that flies over a city is one motor failure from being a falling object. This startup is building a safety kit to combat such failures.
 https://yourstory.com/2026/08/altmin-lithium-battery-cathode-factory|Altmin is building India's first factory to manufacture  the cathodes inside lithium batteries
 https://www.zoomit.ir/ai-articles/465182-apple-trains-china-ai-model/|همکاری بی‌سروصدا با علی‌بابا؛ اپل هوش مصنوعی اختصاصی برای بازار چین توسعه می‌دهد
+https://www.zoomit.ir/ai-articles/465213-gemini-toggle-visible-watermarks/|تغییر بزرگ در هوش مصنوعی گوگل؛ حذف اختیاری واترمارک‌های مرئی

@@ -3809,3 +3809,4 @@ https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-ha
 https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done|Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done
 https://www.wired.com/story/openai-safety-security-ai-agents-culture/|The Safety Reckoning Inside OpenAI
 https://www.zoomit.ir/security/465121-ai-reasoning-tokens-security-exploit/|پژوهشگران امنیتی، افکار پنهان مدل‌های هوش مصنوعی را رمزگشایی کردند
+https://www.zoomit.ir/ai-articles/465119-apple-siri-ai-publisher-talks/|بودجه عظیم اپل برای حل بزرگ‌ترین نقطه ضعف سیری

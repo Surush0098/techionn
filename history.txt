@@ -3821,3 +3821,4 @@ https://www.eu-startups.com/2026/08/berlin-ai-insurtech-startup-omnius-acquired-
 https://yourstory.com/2026/08/zetwerk-files-updated-ipo-papers-with-sebi|Zetwerk files updated IPO papers with SEBI
 https://www.zoomit.ir/business/465169-google-ordered-simplify-rival-stores/|دستور فوری دادگاه به گوگل: حذف موانع حضور فروشگاه‌های اپلیکیشن رقیب در اندروید
 https://www.zoomit.ir/ai-articles/465173-openai-chatgpt-computer-history-macos/|قابلیت جدید ChatGPT، تمام فعالیت‌های کاربر را در مک رصد می‌کند
+https://www.zoomit.ir/ai-articles/465172-openai-launches-ultrafast-gpt-5-6-sol/|۱۴ برابر سرعت پاسخ‌گویی بیشتر؛ قابلیت جدید برای هوش مصنوعی پیشرفته GPT 5.6 Sol

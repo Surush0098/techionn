@@ -3847,3 +3847,4 @@ https://yourstory.com/2026/08/indigotex-wool-denim|Indigotex has made denim from
 https://yourstory.com/2026/08/tagbin-brixx-ai-building-design-bim-platform|Tagbin has built an AI platform that turns words into 3D building designs
 https://yourstory.com/2026/08/urjanovac-carbon-capture-products|UrjanovaC captures carbon dioxide from factory chimneys and turns it into something commercial
 https://yourstory.com/2026/08/drone-safety-system-motor-failure|Every drone that flies over a city is one motor failure from being a falling object. This startup is building a safety kit to combat such failures.
+https://yourstory.com/2026/08/altmin-lithium-battery-cathode-factory|Altmin is building India's first factory to manufacture  the cathodes inside lithium batteries

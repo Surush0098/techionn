@@ -3837,3 +3837,4 @@ https://yourstory.com/2026/08/weekly-funding-roundup-aug-8-14-fund-inflow-turns-
 https://yourstory.com/2026/08/physicswallah-q1-fy27-revenue-jumps-24-1054-crore-amid-88-crore-net-loss|PhysicsWallah Q1 FY27 revenue jumps 24% to Rs 1,054 Cr amid Rs 88 Cr net loss
 https://digiato.com/business/selena-gomez-faces-fraud-lawsuit-over-health-startup|سرمایه‌گذاران استارتاپ سلامت روان سلنا گومز از او به اتهام کلاهبرداری شکایت کردند
 https://startup360.ir/17-to-22-mordad-1405-startups-news-summary/|خلاصه اخبار: این هفته در اکوسیستم استارتاپی چه گذشت؟ (۱۷ تا ۲۲ مرداد ۱۴۰۵)
+https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/|Kog is going deeper to squeeze more inference out of GPUs

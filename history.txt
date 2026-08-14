@@ -3850,3 +3850,4 @@ https://yourstory.com/2026/08/drone-safety-system-motor-failure|Every drone that
 https://yourstory.com/2026/08/altmin-lithium-battery-cathode-factory|Altmin is building India's first factory to manufacture  the cathodes inside lithium batteries
 https://www.zoomit.ir/ai-articles/465182-apple-trains-china-ai-model/|همکاری بی‌سروصدا با علی‌بابا؛ اپل هوش مصنوعی اختصاصی برای بازار چین توسعه می‌دهد
 https://www.zoomit.ir/ai-articles/465213-gemini-toggle-visible-watermarks/|تغییر بزرگ در هوش مصنوعی گوگل؛ حذف اختیاری واترمارک‌های مرئی
+https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/|The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead

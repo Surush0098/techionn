@@ -3844,3 +3844,4 @@ https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-
 https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/|Meta’s ‘open’ AI, and a $250M deal gone very wrong
 https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/|Tech Visionary Says the Big AI Labs Don’t Get What People Want
 https://yourstory.com/2026/08/indigotex-wool-denim|Indigotex has made denim from wool that keeps you warm and skips the water
+https://yourstory.com/2026/08/tagbin-brixx-ai-building-design-bim-platform|Tagbin has built an AI platform that turns words into 3D building designs

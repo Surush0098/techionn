@@ -3845,3 +3845,4 @@ https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/|Me
 https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/|Tech Visionary Says the Big AI Labs Don’t Get What People Want
 https://yourstory.com/2026/08/indigotex-wool-denim|Indigotex has made denim from wool that keeps you warm and skips the water
 https://yourstory.com/2026/08/tagbin-brixx-ai-building-design-bim-platform|Tagbin has built an AI platform that turns words into 3D building designs
+https://yourstory.com/2026/08/urjanovac-carbon-capture-products|UrjanovaC captures carbon dioxide from factory chimneys and turns it into something commercial

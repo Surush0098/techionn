@@ -3841,3 +3841,4 @@ https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-
 https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/|Meta’s ‘open’ AI, and a $250M deal gone very wrong
 https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/|Does Mark Zuckerberg really believe AI is ‘for everyone’?
 https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/|Kog is going deeper to squeeze more inference out of GPUs
+https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/|Meta’s ‘open’ AI, and a $250M deal gone very wrong

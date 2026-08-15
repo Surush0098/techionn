@@ -3863,3 +3863,4 @@ https://www.zoomit.ir/iran-news/465248-khaneh-riz-housing-plan-questions/|ترد
 https://www.zoomit.ir/economics/465224-anthropic-revenue-growth-claude-profit/|آمار خیره‌کننده: درآمد آنتروپیک در یک سال بیش از ۱۴ برابر شد
 https://www.zoomit.ir/aviation-aerospace/465204-all-electric-plane-completes-maiden-flight/|بزرگ‌ترین هواپیمای تمام‌برقی جهان اولین پرواز خود را با موفقیت انجام داد
 https://www.zoomit.ir/iran-news/465237-digital-self-medication-warning-food-drug-organization/|هشدار سازمان غذا و دارو: هوش مصنوعی جایگزین پزشک نیست
+https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/|Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out

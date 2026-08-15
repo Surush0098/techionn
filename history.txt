@@ -3853,3 +3853,4 @@ https://www.zoomit.ir/ai-articles/465213-gemini-toggle-visible-watermarks/|تغ�
 https://news.crunchbase.com/ai/biggest-funding-rounds-databricks-river-ai-data-energy/|The Week’s 10 Biggest Funding Rounds: Data, Neolab, AI Infrastructure, Defense And AI Coding Lead
 https://www.zoomit.ir/internet-network/465216-docomo-starlink-direct-v2-deal/|اپراتور ژاپنی برای اتصال مستقیم گوشی به اینترنت ماهواره‌ای با استارلینک وارد همکاری شد
 https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/|The Next Big Influencer Is This 4-Foot-Tall Robot From China
+https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor|GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor

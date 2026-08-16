@@ -3918,3 +3918,4 @@ https://www.zoomit.ir/ai-articles/465340-axios-openai-local-journalism-automatio
 https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/|Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’
 https://www.zoomit.ir/ai-articles/465292-anthropic-claude-text-watermarking-system/|واترمارک اختصاصی آنتروپیک به متن‌های تولیدی هوش مصنوعی کلاد تزریق می‌شود
 https://www.zoomit.ir/report/465339-greenpay-bnpl-credit-for-farmers/|گرین‌پی؛ وقتی فناوری مالی به کمک کشاورزان می‌آید
+https://www.zoomit.ir/pr/465336-wordpress-high-traffic-slowdown-reasons-liara/|لیارا از دلایل کُند شدن سایت‌های پربازدید وردپرسی می‌گوید

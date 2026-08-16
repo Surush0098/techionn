@@ -3882,3 +3882,4 @@ https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-rev
 https://www.zoomit.ir/economics/465221-saudi-pif-invests-spacex/|شرط‌بندی سنگین عربستان روی جاه‌طلبی‌های فضایی ایلان ماسک
 https://www.zoomit.ir/iran-news/465287-shenoto-platform-was-filtered/|به دستور کارگروه تعیین مصادیق محتوای مجرمانه «شنوتو» فیلتر شد
 https://www.zoomit.ir/ai-articles/465243-github-copilot-adds-grok-46/|هوش مصنوعی رده‌بالای گراک ۴٫۶ وارد گیت‌هاب کوپایلت شد
+https://www.zoomit.ir/ai-articles/465225-ai-math-breakthrough-riemann-hypothesis/|تشویق هوش مصنوعی، قفل معمای ریاضی ۱۶۷ ساله را باز کرد

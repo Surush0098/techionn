@@ -3917,3 +3917,4 @@ https://www.zoomit.ir/ai-articles/465345-chatgpt-computer-history-clicks-keystro
 https://www.zoomit.ir/ai-articles/465340-axios-openai-local-journalism-automation/|خبرگزاری اکسیوس، هوش مصنوعی را وارد چرخه تولید مقاله‌های محلی می‌کند
 https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/|Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’
 https://www.zoomit.ir/ai-articles/465292-anthropic-claude-text-watermarking-system/|واترمارک اختصاصی آنتروپیک به متن‌های تولیدی هوش مصنوعی کلاد تزریق می‌شود
+https://www.zoomit.ir/report/465339-greenpay-bnpl-credit-for-farmers/|گرین‌پی؛ وقتی فناوری مالی به کمک کشاورزان می‌آید

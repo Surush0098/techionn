@@ -3907,3 +3907,4 @@ https://www.zoomit.ir/iran-news/465329-asiatech-invests-culture-art-fund/|تاس
 https://www.zoomit.ir/ai-articles/465334-singapore-biological-brain-cell-datacenter/|تغذیه سرورها با شکر؛ دیتاسنتر جدید سنگاپور با سلول‌های مغز انسان کار می‌کند
 https://www.zoomit.ir/os/465331-ubuntu-growing-faster-on-windows/|رشد بی‌سابقه اوبونتو در دل سیستم‌عامل ویندوز!
 https://www.zoomit.ir/iran-news/465327-bitpin-zarpin-digital-gold-launch/|بیت‌پین از «زرپین» رونمایی کرد؛ دسترسی دیجیتال به بازار طلا با پشتوانه ۱۰۰ درصد فیزیکی
+https://www.zoomit.ir/iran-news/465322-shenoto-blocking-not-approved-by-cyberspace-taskforce/|ستاد ویژه ساماندهی فضای مجازی نقشی در فیلترینگ «شنوتو» نداشته است

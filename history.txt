@@ -3905,3 +3905,4 @@ https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-
 https://itiran.com/2026/08/16/%d8%a8%db%8c%d8%aa%d9%be%db%8c%d9%86-%d8%a7%d8%b2-%d8%a8%d8%a7%d8%b2%d9%88%db%8c-%d8%b3%d8%b1%d9%85%d8%a7%db%8c%d9%87%da%af%d8%b0%d8%a7%d8%b1%db%8c-%d8%ae%d9%88%d8%af-%d8%af%d8%b1/|بیت‌پین از بازوی سرمایه‌گذاری خود در بازار طلا رونمایی کرد
 https://www.zoomit.ir/iran-news/465329-asiatech-invests-culture-art-fund/|تاسیس صندوق توسعه اقتصاد فرهنگ و هنر با مشارکت آسیاتک
 https://www.zoomit.ir/ai-articles/465334-singapore-biological-brain-cell-datacenter/|تغذیه سرورها با شکر؛ دیتاسنتر جدید سنگاپور با سلول‌های مغز انسان کار می‌کند
+https://www.zoomit.ir/os/465331-ubuntu-growing-faster-on-windows/|رشد بی‌سابقه اوبونتو در دل سیستم‌عامل ویندوز!

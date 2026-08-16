@@ -3881,3 +3881,4 @@ https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claude
 https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong|An eval harness found what qualitative review couldn't: AI models are most confident when wrong
 https://www.zoomit.ir/economics/465221-saudi-pif-invests-spacex/|شرط‌بندی سنگین عربستان روی جاه‌طلبی‌های فضایی ایلان ماسک
 https://www.zoomit.ir/iran-news/465287-shenoto-platform-was-filtered/|به دستور کارگروه تعیین مصادیق محتوای مجرمانه «شنوتو» فیلتر شد
+https://www.zoomit.ir/ai-articles/465243-github-copilot-adds-grok-46/|هوش مصنوعی رده‌بالای گراک ۴٫۶ وارد گیت‌هاب کوپایلت شد

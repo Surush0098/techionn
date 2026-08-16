@@ -3922,3 +3922,4 @@ https://www.zoomit.ir/pr/465336-wordpress-high-traffic-slowdown-reasons-liara/|�
 https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/|Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
 https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/|Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
 https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/|Why people aren’t buying Mark Zuckerberg’s AI future
+https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm|Cutting RAG inference costs 6x starts with deciding what never reaches the LLM

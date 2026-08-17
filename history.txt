@@ -3968,3 +3968,4 @@ https://www.zoomit.ir/iran-news/465411-divar-ai-car-fraud-reduction/|چگونه 
 https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/|Amazon, which started off selling books, is destroying rare texts to train AI
 https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/|Groq raises $350M to fuel its pivot from AI chips to neocloud
 https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers|One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers
+https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one|Enterprises with AI context layers report agent failures at more than twice the rate of those without one

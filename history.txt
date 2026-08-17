@@ -3970,3 +3970,4 @@ https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chi
 https://venturebeat.com/orchestration/one-ai-module-faked-86-of-a-pipelines-accuracy-gains-by-feeding-another-the-answers|One AI module faked 86% of a pipeline's accuracy gains by feeding another the answers
 https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one|Enterprises with AI context layers report agent failures at more than twice the rate of those without one
 https://www.zoomit.ir/robotics-smart-machines/465412-booster-t2-humanoid-robot-launched/|انجام کارهای واقعی در محیط‌های انسانی؛ ربات انسان‌نمای T2 رونمایی شد
+https://www.zoomit.ir/report/465405-emrc-iran-retail-market-report/|گزارش بازار خرده‌فروشی ایران: کالابرگ سفره‌ها را بزرگتر نکرد؛ ارزش ریالی بازار ۵۲ درصد افزایش یافت

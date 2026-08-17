@@ -3924,3 +3924,4 @@ https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-star
 https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/|Why people aren’t buying Mark Zuckerberg’s AI future
 https://venturebeat.com/orchestration/cutting-rag-inference-costs-6x-starts-with-deciding-what-never-reaches-the-llm|Cutting RAG inference costs 6x starts with deciding what never reaches the LLM
 https://yourstory.com/2026/08/7-ipos-eye-6400-cr-this-week|7 IPOs eye Rs 6,400 Cr this week
+https://www.eu-startups.com/2026/08/university-of-essex-spin-out-versatile-robotx-bags-over-e1-17-million-to-commercialise-its-agricultural-robots/|University of Essex spin-out Versatile RobotX bags over €1.17 million to commercialise its agricultural robots

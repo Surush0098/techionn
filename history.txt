@@ -3961,3 +3961,4 @@ https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-
 https://www.eu-startups.com/2026/08/legal-ai-will-create-more-work-but-not-for-lawyers/|Legal AI will create more work, but not for lawyers
 https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer|As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer
 https://venturebeat.com/data/how-heidi-built-production-ready-ai-for-healthcare-at-global-scale|How Heidi built production-ready AI for healthcare at global scale
+https://startup360.ir/online-gold-vault-monopoly/|چند خزانه برای طلای آنلاین مجوز گرفتند، اما انحصار در عمل ادامه دارد

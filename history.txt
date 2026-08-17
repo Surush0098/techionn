@@ -3966,3 +3966,4 @@ https://www.zoomit.ir/car/465338-software-defined-vehicles-lifespan-concerns/|ا
 https://www.zoomit.ir/robotics-smart-machines/465351-engineai-t800-humanoid-robot-specs/|ربات انسان‌نمای تمام‌قد T800 با پیشرفت نسلی خیره‌کننده رونمایی شد
 https://www.zoomit.ir/iran-news/465411-divar-ai-car-fraud-reduction/|چگونه دیوار کلاهبرداری خودرو را ۵۰ درصد کاهش داد؟
 https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/|Amazon, which started off selling books, is destroying rare texts to train AI
+https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/|Groq raises $350M to fuel its pivot from AI chips to neocloud

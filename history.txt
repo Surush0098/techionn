@@ -3981,3 +3981,4 @@ https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-j
 https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/|This R-Rated Film Studio Wants to Be the HBO of AI
 https://www.zoomit.ir/space/465408-blue-origin-second-capecanaveral-launch-pad/|بلو ارجین برای نسخه بزرگ‌تر نیوگلن سکوی پرتاب دوم می‌سازد
 https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/|Anthropic’s annualized revenue surges to $65B
+https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required|Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required

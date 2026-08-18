@@ -4018,3 +4018,4 @@ https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software
 https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/|OpenAI launches a safer ChatGPT for teens — years after teens started using it
 https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/|Perplexity’s free AI offer left it with millions more users in India
 https://www.eu-startups.com/2026/08/10-startups-shaping-our-robotic-future/|10 startups shaping our robotic future
+https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x|Enterprises are overpaying for simple AI queries — Snowflake's gateway now auto-routes to cut costs up to 3x

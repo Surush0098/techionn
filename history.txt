@@ -4074,3 +4074,4 @@ https://yourstory.com/2026/08/zerodha-co-founder-nikhil-kamath-infuses-rs-200-cr
 https://www.zoomit.ir/ai-tutorials/465501-gemini-3-7-flash-google/|جمنای ۳٫۷ فلش گوگل؛ مدلی سریع‌تر برای کدنویسی و ایجنت‌های هوش مصنوعی؟
 https://www.zoomit.ir/ai-articles/465523-claude-ai-macos-hp-driver/|هوش مصنوعی، چاپگر ناسازگار ویندوز را به مک متصل کرد
 https://www.zoomit.ir/tech-iran/465525-online-gold-platforms-licensing-halt-iran/|توقف دوباره صدور مجوز پلتفرم‌های آنلاین طلا؛ اتحادیه خواستار تقسیم‌کار شفاف شد
+https://www.zoomit.ir/business/465449-higgsfield-raises-400-million-series-b/|به‌لطف هوش مصنوعی، ارزش استارتاپ Higgsfield در ۸ ماه ۴ برابر شد

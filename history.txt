@@ -4046,3 +4046,4 @@ https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launc
 https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally|Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally
 https://yourstory.com/2026/08/next-chapter-indias-ev-revolution-software-and-emerging-tech-matter-more-speed|Next chapter of India's EV revolution: Why software and emerging tech will matter more than speed
 https://yourstory.com/2026/08/tejaswini-hebalkar-breaking-barriers-milkvilla-building-12-hour-supply-chain|Tejaswini Hebalkar on breaking barriers; How Milkvilla is building a 12-hour supply chain for fresh milk
+https://www.zoomit.ir/ai-articles/465373-ai-impact-on-jobs-bofa/|هوش مصنوعی آخرالزمان بازار کار را رقم نمی‌زند؛ گزارش جدید شرکت BofA

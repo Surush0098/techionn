@@ -4042,3 +4042,4 @@ https://venturebeat.com/data/85-of-companies-burned-by-an-ai-mistake-are-racing-
 https://www.zoomit.ir/business/465496-apple-eu-app-store-rules/|عقب‌نشینی تازه اپل در اروپا؛ ساختار کارمزدهای اپ استور دگرگون شد
 https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/|OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue
 https://www.zoomit.ir/business/465375-china-tech-ai-cost-pressure/|هزینه‌های سنگین هوش مصنوعی؛ شرکت‌های چینی در بن‌بست اقتصادی قرار گرفته‌اند
+https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/|Cursor capitalizes on GitHub frustration, launches rival hosting platform

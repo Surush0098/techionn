@@ -4111,3 +4111,4 @@ https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their
 https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/|I Saw the Future of AI in a Robot That Can Learn on the Spot
 https://www.zoomit.ir/tech/465554-amazon-drone-delivery-us-expansion/|پهپادهای کالارسان آمازون وارد ۵۰۰ شهر و شهرستان آمریکا می‌شوند
 https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/|Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth
+https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/|OpenAI seeks to one-up Anthropic with new customer privacy protections

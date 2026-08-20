@@ -4125,3 +4125,4 @@ https://yourstory.com/2026/08/xbattery-battery-safety-circuit-boards|Xbattery ma
 https://yourstory.com/2026/08/naxion-energy-sodium-ion-storage|Naxion Energy builds sodium-ion storage systems that aim to replace lead-acid inverters and diesel generators
 https://yourstory.com/2026/08/p3c-perovskite-solar-modules|P3C is making solar modules from perovskite, a material that could replace silicon
 https://yourstory.com/2026/08/quarkitech-drone-sensor-data|Quarkitech shrinks sensor data before it ever leaves the drone
+https://yourstory.com/2026/08/indi-energy-sodium-ion-batteries|Indi Energy makes sodium-ion batteries with an anode built from farm waste

@@ -4165,3 +4165,4 @@ https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouha
 https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time|One in five enterprises can't stop a runaway AI agent's spending in real time
 https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message|NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message
 https://www.zoomit.ir/engineering/465602-ibm-modular-quantum-cooling-system/|یخچال‌های کوانتومی جدید آی‌بی‌ام ۱۸۰ برابر سردتر از فضا هستند
+https://www.zoomit.ir/cryptocurrency/465586-bitcoin-com-integrates-uae-usdu/|اولین رمزارز رسمی امارات به والت‌های شخصی راه یافت

@@ -4163,3 +4163,4 @@ https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouha
 https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/|Castelion hits $13B valuation to mass-produce hypersonic missiles
 https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/|Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders
 https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time|One in five enterprises can't stop a runaway AI agent's spending in real time
+https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message|NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message

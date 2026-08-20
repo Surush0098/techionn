@@ -4117,3 +4117,4 @@ https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-
 https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents|TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents
 https://yourstory.com/2026/08/fundamentals-first-arsh-goyal-warns-against-vibe-coding-without-security-basics-|Fundamentals first: Arsh Goyal warns against vibe coding without security basics
 https://yourstory.com/2026/08/nikhil-kamaths-data-centre-bet|Nikhil Kamath’s data centre bet
+https://yourstory.com/2026/08/astra-drones-drone-interceptors|ASTRA Drones is building an interceptor to catch other drones in the air

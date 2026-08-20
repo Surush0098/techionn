@@ -4153,3 +4153,4 @@ https://www.zoomit.ir/ai-articles/465635-grok-apps-sharing-access-control/|هو�
 https://www.zoomit.ir/aviation-aerospace/465562-lufthansa-starlink-highspeed-internet-activation/|تحول در پروازهای لوکس؛ لوفتهانزا اینترنت ماهواره‌ای استارلینک را به پروازهای خود می‌آورد
 https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/|Inertia Enterprises finds a way to make its fusion fuel fast
 https://www.eu-startups.com/2026/08/belgian-creative-learning-platform-artwod-raises-e1-1-million-to-launch-creators-marketplace/|Belgian creative learning platform Artwod raises €1.1 million to launch creators’ marketplace
+https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed|Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed

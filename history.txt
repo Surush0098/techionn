@@ -4192,3 +4192,4 @@ https://news.crunchbase.com/ai/interesting-startup-deals-ai-recycling-robotics-h
 https://www.eu-startups.com/2026/08/limerick-based-redfaire-lands-e13-million-from-bgf-to-scale-its-erp-and-cloud-services-business/|Limerick-based Redfaire lands €13 million from BGF to scale its ERP and cloud services business
 https://yourstory.com/2026/08/eyerov-underwater-inspection-robots|EyeROV builds underwater robots that inspect where divers cannot reach
 https://yourstory.com/2026/08/etrnl-energy-battery-cell|e-TRNL Energy is redesigning the battery cell itself rather than its chemistry
+https://yourstory.com/2026/08/pranos-fusion-power-machinery|Pranos Fusion is building the machinery India would need to generate power from fusion

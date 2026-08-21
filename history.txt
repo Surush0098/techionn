@@ -4193,3 +4193,4 @@ https://www.eu-startups.com/2026/08/limerick-based-redfaire-lands-e13-million-fr
 https://yourstory.com/2026/08/eyerov-underwater-inspection-robots|EyeROV builds underwater robots that inspect where divers cannot reach
 https://yourstory.com/2026/08/etrnl-energy-battery-cell|e-TRNL Energy is redesigning the battery cell itself rather than its chemistry
 https://yourstory.com/2026/08/pranos-fusion-power-machinery|Pranos Fusion is building the machinery India would need to generate power from fusion
+https://yourstory.com/2026/08/algofet-drone-docking-stations|AlgoFET builds the docking stations that let drones recharge without a person present

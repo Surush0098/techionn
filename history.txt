@@ -4209,3 +4209,4 @@ https://news.crunchbase.com/venture/biggest-funding-rounds-defense-tech-ai-infra
 https://yourstory.com/2026/08/weekly-funding-roundup-aug-15-21-vc-inflow-remains-rangebound|(Weekly funding roundup Aug 15-21) VC inflow remains rangebound
 https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/|Why is the DOJ investigating Andreessen Horowitz’s board seats?
 https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs|Nvidia finds that simple linear math can replace costly AI model handoffs
+https://www.zoomit.ir/software-news/465601-therac-25-software-bug-radiation-tragedy/|دستگاهی که قرار بود سرطان را درمان کند، بیماران را با خطای نرم‌افزاری کشت

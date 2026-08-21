@@ -4212,3 +4212,4 @@ https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-repl
 https://www.zoomit.ir/software-news/465601-therac-25-software-bug-radiation-tragedy/|دستگاهی که قرار بود سرطان را درمان کند، بیماران را با خطای نرم‌افزاری کشت
 https://www.zoomit.ir/wearables/465647-nigerian-youth-builds-ai-glasses/|اختراع عینک هوشمندی که عصای سفید نابینایان را بازنشسته می‌کند
 https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/|Nvidia just showed that the harness, not the AI model, is now the real hero
+https://www.zoomit.ir/car/465599-waymo-launches-ojai-robotaxi-expansion/|تاکسی‌های بدون راننده و ارزان‌قیمت؛ «ویمو» نسل جدید محصولاتش را عرضه کرد

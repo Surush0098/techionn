@@ -4166,3 +4166,4 @@ https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runawa
 https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message|NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message
 https://www.zoomit.ir/engineering/465602-ibm-modular-quantum-cooling-system/|یخچال‌های کوانتومی جدید آی‌بی‌ام ۱۸۰ برابر سردتر از فضا هستند
 https://www.zoomit.ir/cryptocurrency/465586-bitcoin-com-integrates-uae-usdu/|اولین رمزارز رسمی امارات به والت‌های شخصی راه یافت
+https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/|AI data startup Micro1 reaches $500M gross run rate amid AI training boom

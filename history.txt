@@ -4210,3 +4210,4 @@ https://yourstory.com/2026/08/weekly-funding-roundup-aug-15-21-vc-inflow-remains
 https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/|Why is the DOJ investigating Andreessen Horowitz’s board seats?
 https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs|Nvidia finds that simple linear math can replace costly AI model handoffs
 https://www.zoomit.ir/software-news/465601-therac-25-software-bug-radiation-tragedy/|دستگاهی که قرار بود سرطان را درمان کند، بیماران را با خطای نرم‌افزاری کشت
+https://www.zoomit.ir/wearables/465647-nigerian-youth-builds-ai-glasses/|اختراع عینک هوشمندی که عصای سفید نابینایان را بازنشسته می‌کند

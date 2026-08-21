@@ -4172,3 +4172,4 @@ https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-
 https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/|OpenAI is gaining on Anthropic with business users, new data indicates
 https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat|Slack wants to drag AI coding out of the terminal and into the group chat
 https://yourstory.com/2026/08/financial-planning-for-founders-preparing-for-growth-uncertainity-and-exit|Financial planning for founders: Preparing for growth, uncertainity and exit
+https://yourstory.com/2026/08/red-balloon-aerospace-building-india-near-space-infrastructure|How Red Balloon Aerospace is building India’s near-space infrastructure

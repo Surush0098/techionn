@@ -4250,3 +4250,4 @@ https://www.zoomit.ir/ai-articles/465630-france-bans-openai-cybersecurity-shift/
 https://www.zoomit.ir/tech-iran/465737-arvand-pharmed-darvand-ipo-sinagen/|گروه دارویی سیناژن وارد بازار سرمایه شد/ ارزش شرکت: حدود ۷ هزار و ۴۰۰ میلیارد تومان
 https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/|OpenAI says California should strengthen its AI safety bill
 https://startup360.ir/fndk-scam-warning-nobitex/|هشدار نوبیتکس درباره FNDK؛ نشانه‌های متعدد از یک پروژه سرمایه‌گذاری مشکوک
+https://www.zoomit.ir/ai-articles/465752-mysterious-ox-alpha-ai-model/|یک هوش مصنوعی مرموز و ناشناس، کلاد فیبل ۵ را در کدنویسی شکست داد

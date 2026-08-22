@@ -4254,3 +4254,4 @@ https://www.zoomit.ir/ai-articles/465752-mysterious-ox-alpha-ai-model/|یک هو
 https://www.zoomit.ir/health-medical/465516-aging-starts-in-your-bones/|راز افزایش سن در مغز استخوان؛ سلول‌های بنیادی چگونه پیری را به کل بدن تزریق می‌کنند؟
 https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/|Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research
 https://www.zoomit.ir/report/465584-internet-instability-b2b-impact-end-users/|یک قطعی، هزار هزینه؛ بهای اینترنت ناپایدار را چه کسی می‌دهد؟
+https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/|Harvard’s $699 startup bootcamp offers AI avatars of its instructors

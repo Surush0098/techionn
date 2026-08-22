@@ -4252,3 +4252,4 @@ https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-a
 https://startup360.ir/fndk-scam-warning-nobitex/|هشدار نوبیتکس درباره FNDK؛ نشانه‌های متعدد از یک پروژه سرمایه‌گذاری مشکوک
 https://www.zoomit.ir/ai-articles/465752-mysterious-ox-alpha-ai-model/|یک هوش مصنوعی مرموز و ناشناس، کلاد فیبل ۵ را در کدنویسی شکست داد
 https://www.zoomit.ir/health-medical/465516-aging-starts-in-your-bones/|راز افزایش سن در مغز استخوان؛ سلول‌های بنیادی چگونه پیری را به کل بدن تزریق می‌کنند؟
+https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/|Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research

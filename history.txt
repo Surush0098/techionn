@@ -4282,3 +4282,4 @@ https://www.zoomit.ir/ai-tutorials/465719-glm-5-3-review/|GLM-5.3؛ مدل جد�
 https://www.zoomit.ir/security/465795-india-orders-google-firebase-shutdown/|هشدار جدی هند به گوگل؛ کلاهبرداران از پلتفرم Firebase برای جعل هویت بانک‌ها استفاده می‌کنند
 https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/|Who’s behind the new ‘stealth model’ Ox Alpha?
 https://www.zoomit.ir/energy-environment/465769-tesla-discontinues-solar-roof/|شکست پروژه سقف خورشیدی تسلا؛ ایلان ماسک از انرژی پاک فاصله می‌گیرد؟
+https://www.zoomit.ir/ai-articles/465767-nvidia-six-billion-poolside-ai/|شبیخون ۶ میلیارد دلاری انویدیا به هوش مصنوعی چینی؛ قدرتمندترین مدل وزن‌باز جهان تولید می‌شود

@@ -4259,3 +4259,4 @@ https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-lim
 https://yourstory.com/2026/08/our-next-space-race-may-be-closer-to-earth|Our next space race may be closer to Earth
 https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/|Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders
 https://www.zoomit.ir/business/465779-anthropic-hires-former-google-chip-lead/|آنتروپیک با کمک مهندس کارکشته ایرانی وارد صنعت سخت‌افزار می‌شود
+https://www.zoomit.ir/ai-articles/465774-deepseek-api-weekend-pricing-update/|لغو قیمت‌گذاری ویژه در ساعات اوج مصرف؛ حرکت استراتژیک دیپ‌سیک برای تسخیر بازار هوش مصنوعی

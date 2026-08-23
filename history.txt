@@ -4276,3 +4276,4 @@ https://www.zoomit.ir/iran-news/465802-cyberspace-center-sharif-park-mou/|توا
 https://www.zoomit.ir/ai-articles/465801-ai-generated-music-july-study/|سهم باورنکردنی هوش مصنوعی در بازار موسیقی؛ حدود ۴۰ درصد در یک ماه
 https://www.zoomit.ir/iran-news/465790-iranian-crypto-exchanges-expand-services/|از بیت‌کوین تا سهام اپل و انویدیا؛ صرافی‌های رمزارز ایرانی از خریدوفروش ساده عبور می‌کنند
 https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/|Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash
+https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/|Is it legal to train AI models on copyrighted books? It’s complicated

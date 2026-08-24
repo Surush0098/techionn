@@ -4285,3 +4285,4 @@ https://www.zoomit.ir/energy-environment/465769-tesla-discontinues-solar-roof/|�
 https://www.zoomit.ir/ai-articles/465767-nvidia-six-billion-poolside-ai/|شبیخون ۶ میلیارد دلاری انویدیا به هوش مصنوعی چینی؛ قدرتمندترین مدل وزن‌باز جهان تولید می‌شود
 https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them|Enterprise AI agents are only as reliable as the messiest documents behind them
 https://www.zoomit.ir/ai-articles/465768-amazon-twitch-ai-lawsuit/|ادعای جنجالی استریمرهای توییچ درباره سرقت محتوا برای آموزش هوش مصنوعی
+https://www.zoomit.ir/hardware/465772-nvidia-ai-servers-price-hike/|ادامه بحران سخت‌افزار؛ انویدیا افزایش قیمت محصولات هوش مصنوعی را اعلام کرد

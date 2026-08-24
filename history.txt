@@ -4311,3 +4311,4 @@ https://www.zoomit.ir/ai-articles/465828-alibaba-launches-wan3-video-ai/|هوش 
 https://www.zoomit.ir/ai-articles/465804-us-sanctions-chinese-ai-market-featured/|غولِ تراشه‌سازی چین در اوج؛ چگونه تحریم‌های آمریکا بازار هوش مصنوعی را به SMIC تحویل داد؟
 https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech/|Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns
 https://www.eu-startups.com/2026/08/london-based-embedd-raises-e2-3-million-to-build-the-software-infrastructure-for-physical-ai/|London-based Embedd raises €2.3 million to build the software infrastructure for physical AI
+https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores|IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores

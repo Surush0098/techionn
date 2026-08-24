@@ -4284,3 +4284,4 @@ https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/|Wh
 https://www.zoomit.ir/energy-environment/465769-tesla-discontinues-solar-roof/|شکست پروژه سقف خورشیدی تسلا؛ ایلان ماسک از انرژی پاک فاصله می‌گیرد؟
 https://www.zoomit.ir/ai-articles/465767-nvidia-six-billion-poolside-ai/|شبیخون ۶ میلیارد دلاری انویدیا به هوش مصنوعی چینی؛ قدرتمندترین مدل وزن‌باز جهان تولید می‌شود
 https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them|Enterprise AI agents are only as reliable as the messiest documents behind them
+https://www.zoomit.ir/ai-articles/465768-amazon-twitch-ai-lawsuit/|ادعای جنجالی استریمرهای توییچ درباره سرقت محتوا برای آموزش هوش مصنوعی

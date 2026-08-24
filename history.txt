@@ -4312,3 +4312,4 @@ https://www.zoomit.ir/ai-articles/465804-us-sanctions-chinese-ai-market-featured
 https://news.crunchbase.com/ma/startup-unicorns-acquisitions-ai-fintech-biotech/|Startups Are Still Acquiring Startups, Led By Ultra-High-Valuation Unicorns
 https://www.eu-startups.com/2026/08/london-based-embedd-raises-e2-3-million-to-build-the-software-infrastructure-for-physical-ai/|London-based Embedd raises €2.3 million to build the software infrastructure for physical AI
 https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores|IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores
+https://yourstory.com/2026/08/devsparks-ai-new-cost-equation-token-economics-matters-nvidia|AI’s new cost equation: Why token economics matters

@@ -4319,3 +4319,4 @@ https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-
 https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/|Hugging Face reportedly in talks to be acquired for $13B
 https://www.eu-startups.com/2026/08/how-smes-can-grow-internationally-without-opening-local-offices/|How SMEs can grow internationally without opening local offices
 https://www.eu-startups.com/2026/08/fresh-from-e1-2-billion-raise-neura-robotics-acquires-adlatus-robotics-to-give-cleaning-robots-a-new-brain/|Fresh from €1.2 billion raise, NEURA Robotics acquires Adlatus Robotics to give cleaning robots a “new brain”
+https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted|Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted

@@ -4321,3 +4321,4 @@ https://www.eu-startups.com/2026/08/how-smes-can-grow-internationally-without-op
 https://www.eu-startups.com/2026/08/fresh-from-e1-2-billion-raise-neura-robotics-acquires-adlatus-robotics-to-give-cleaning-robots-a-new-brain/|Fresh from €1.2 billion raise, NEURA Robotics acquires Adlatus Robotics to give cleaning robots a “new brain”
 https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted|Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted
 https://yourstory.com/2026/08/qpiai-to-install-8-qubit-quantum-computer-pdeu-gujarat|QpiAI to install 8-qubit quantum computer at PDEU in Gujarat
+https://yourstory.com/2026/08/upi-completes-10-years-clocks-nearly-13000-fold-rise-transaction-volume|UPI completes 10 years, clocks nearly 13,000-fold rise in transaction volume

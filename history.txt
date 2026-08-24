@@ -4332,3 +4332,4 @@ https://www.zoomit.ir/iran-news/465853-arvancloud-elecomp-features-ai-solutions/
 https://www.zoomit.ir/ai-articles/465797-us-youth-ai-pessimism-growth/|بدبینی به هوش مصنوعی؛ نسل زد ظاهرا علاقه زیادی به آینده AI ندارد
 https://www.zoomit.ir/health-medical/465765-saliva-test-detects-gastrointestinal-cancer/|باکتری‌های دهان ممکن است سرطان روده را آشکار کنند
 https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/|Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics
+https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/|OpenAI is building AI agents for everything. Will everyone use them?

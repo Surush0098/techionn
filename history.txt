@@ -4382,3 +4382,4 @@ https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-
 https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/|OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show
 https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/|Accel-backed Keenable is indexing the web for AI agents
 https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/|‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux
+https://www.eu-startups.com/2026/08/ai-cost-scrutiny-is-a-win-for-legaltech/|AI cost scrutiny is a win for LegalTech

@@ -4354,3 +4354,4 @@ https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-wit
 https://yourstory.com/2026/08/vyomic-satellite-constellation|VyomIC is building a satellite constellation to replace GPS when losing signal isn’t an option
 https://yourstory.com/2026/08/xera-robotics-underwater-robot|Xera Robotics builds modular underwater robots for inspecting dams, ports and pipelines
 https://yourstory.com/2026/08/serendipity-space-drug-manufacturing-satellites|Serendipity Space is building satellites that make medicines in orbit and bring them back
+https://yourstory.com/2026/08/takeme2space-in-orbit-data-processing|A satellite collects more data than it can send back to Earth. TakeMe2Space has built the tech to process it up in outer space itself

@@ -4384,3 +4384,4 @@ https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-
 https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/|‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux
 https://www.eu-startups.com/2026/08/ai-cost-scrutiny-is-a-win-for-legaltech/|AI cost scrutiny is a win for LegalTech
 https://www.eu-startups.com/2026/08/french-spacetech-startup-arcspace-secures-over-e2-million-for-in-orbit-satellite-servicing-and-repair/|French SpaceTech startup ArcSpace secures over €2 million for in-orbit satellite servicing and repair
+https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs|Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs

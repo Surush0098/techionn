@@ -4401,3 +4401,4 @@ https://startup360.ir/iran-ecommerce-1403-instagram-online-retail-report/|گزا
 https://startup360.ir/why-annual-performance-reviews-do-not-work/|ارزیابی عملکرد سالانه چرا دیگر کار نمی‌کند و چه چیزی باید جایگزین آن شود؟
 https://ecomotive.ir/1405/06/03/%d9%85%d8%af%db%8c%d8%b1%d8%b9%d8%a7%d9%85%d9%84-%d8%af%db%8c%d8%ac%db%8c%da%a9%d8%a7%d9%84%d8%a7-%d9%85%d8%ad%d8%af%d9%88%d8%af%db%8c%d8%aa%d9%87%d8%a7%db%8c-%d9%88%d8%a7%d8%b1/|مدیرعامل دیجی‌کالا: محدودیت‌های وارداتی، بازار اینستاگرامی و کالای قاچاق را بزرگ‌تر کرده است
 https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/|Claude Cowork finally remembers what you told the app in chat
+https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan|Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.

@@ -4379,3 +4379,4 @@ https://www.zoomit.ir/iran-news/465922-skyroom-online-teaching-experience-campai
 https://www.zoomit.ir/iran-news/465908-kian-financial-group-aum-report/|دارایی تحت مدیریت گروه مالی کیان از ۱۰۰ همت عبور کرد
 https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/|Andy Dunn’s startup Pie becomes less of an events app and more of a social network
 https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/|Accel-backed Keenable is indexing the web for AI agents
+https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/|OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show

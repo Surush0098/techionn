@@ -4404,3 +4404,4 @@ https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-
 https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan|Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.
 https://www.zoomit.ir/energy-environment/465921-vaporizing-plastic-self-reassembling-polymer/|بازیافت به شیوه‌ای جدید؛ ساخت پلیمری که با حرارت تبخیر می‌شود و دوباره شکل می‌گیرد
 https://www.zoomit.ir/biology/465862-fertile-female-clones-male-mice/|شبیه‌سازی موش‌های ماده از جنس نر؛ دستاورد بی‌سابقه دانشمندان در ژاپن
+https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/|Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding

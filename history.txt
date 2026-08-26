@@ -4469,3 +4469,4 @@ https://www.zoomit.ir/car/466001-dreame-rocket-car-project-liquidated/|پروژ�
 https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/|Anthropic continues compute-gobbling streak in $45 billion deal with Nscale
 https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/|Google’s Gemini has a branding problem, and so does the rest of AI
 https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/|How do we explain OpenAI’s executive exodus?
+https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again|Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again

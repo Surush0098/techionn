@@ -4410,3 +4410,4 @@ https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-
 https://www.zoomit.ir/ai-articles/465836-sam-altman-ai-risks-power-concentration/|تفاوت ایدئولوژی‌ در دنیای هوش مصنوعی؛ سم آلتمن از رویکرد آنتروپیک انتقاد کرد
 https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/|Robotics startup Generalist reaches $3B valuation, sources say
 https://yourstory.com/2026/08/ten-years-upi-infrastructure-quietly-rewrote-how-india-lives|Ten years of UPI: The infrastructure that quietly rewrote how India lives
+https://yourstory.com/2026/08/assessprep-ai-assessment-platform-startup-profile|How AssessPrep is turning test scores into data schools can use

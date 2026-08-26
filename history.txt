@@ -4461,3 +4461,4 @@ https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-work
 https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/|OpenAI releases its official report on the Hugging Face breach
 https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/|OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers
 https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it|The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it
+https://yourstory.com/2026/08/zerodha-marks-16-years-with-steady-profits|Zerodha marks 16 years with steady profits

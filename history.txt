@@ -4493,3 +4493,4 @@ https://www.zoomit.ir/security/466041-fake-firefox-extensions-crypto-theft/|هش
 https://www.zoomit.ir/car/466039-tesla-robotaxi-expands-six-cities/|تاکسی‌های بدون راننده تسلا هم‌اکنون در ۶ شهر فعال هستند
 https://www.zoomit.ir/robotics-smart-machines/466073-hugging-face-microduck-robot-launch/|مایکروداک رونمایی شد؛ ربات دوست‌داشتنی هاگینگ فیس!
 https://www.zoomit.ir/ai-articles/466080-musk-guarantees-grok-banking-losses/|ایلان ماسک: اگر هوش مصنوعی ما به حساب بانکی‌تان آسیب زد، خسارت‌تان را پرداخت می‌کنیم
+https://www.zoomit.ir/ai-articles/466076-hackers-use-cursor-ai-tool/|هکرهای روس با فریب هوش مصنوعی «کرسر» به هفت شرکت حمله کردند

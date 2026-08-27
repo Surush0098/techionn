@@ -4480,3 +4480,4 @@ https://news.crunchbase.com/venture/socure-raises-acquires-agentic-ai-startup-fr
 https://www.eu-startups.com/2026/08/tackling-sti-testing-readily-diagnostics-raises-e811k-for-affordable-alternative/|Tackling STI testing, Readily Diagnostics raises €811k for affordable alternative
 https://www.eu-startups.com/2026/08/what-germanys-startup-factory-strategy-reveals-about-scaling-deeptech-ecosystems/|The last piece to Germany’s DeepTech ecosystems?
 https://www.eu-startups.com/2026/08/pld-space-continues-stellar-year-of-growth-with-e158-9-million-esa-award/|PLD Space continues stellar year of growth with €158.9 million ESA award
+https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them|Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.

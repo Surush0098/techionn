@@ -4472,3 +4472,4 @@ https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/|Ho
 https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again|Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again
 https://yourstory.com/2026/08/sugarstringsai-simple-cheek-swabs-identify-genetic-disorders|SugarStrings.ai uses simple cheek swabs to identify thousands of genetic disorders
 https://yourstory.com/2026/08/cricket-field-girls-boys-equals-hiring-intent-gccs|A cricket field where girls and boys are equals; Hiring intent among GCCs
+https://www.zoomit.ir/ai-articles/465979-alibaba-qwen-preview-next-architecture/|علی‌بابا برای نمایش قدرت هوش مصنوعی Qwen 3.8-Flash-Next آماده می‌شود

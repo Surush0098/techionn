@@ -4489,3 +4489,4 @@ https://yourstory.com/2026/08/oyos-parent-firm-prism-reports-net-profit-of-rs-99
 https://yourstory.com/2026/08/fintech-firm-paramotor-digital-technology-sebi-nod-ipo|Fintech firm Paramotor Digital Technology secures Sebi's nod for IPO
 https://www.zoomit.ir/ai-articles/466084-jensen-huang-nvidia-achieved-agi/|انویدیا: هوش مصنوعی انسان‌گونه را خلق کردیم؛‌ اما این دستاورد برای‌مان بی‌معنی است
 https://www.zoomit.ir/energy-environment/466027-precision-fermentation-dairy-land-use/|تولید شیر بدون گاو؛ تخمیر دقیق چگونه زمین را از دامداری سنتی نجات می‌دهد؟
+https://www.zoomit.ir/security/466041-fake-firefox-extensions-crypto-theft/|هشدار امنیتی؛ افزونه‌های جعلی فایرفاکس برای سرقت رمزارزها طراحی شده‌اند

@@ -4495,3 +4495,4 @@ https://www.zoomit.ir/robotics-smart-machines/466073-hugging-face-microduck-robo
 https://www.zoomit.ir/ai-articles/466080-musk-guarantees-grok-banking-losses/|ایلان ماسک: اگر هوش مصنوعی ما به حساب بانکی‌تان آسیب زد، خسارت‌تان را پرداخت می‌کنیم
 https://www.zoomit.ir/ai-articles/466076-hackers-use-cursor-ai-tool/|هکرهای روس با فریب هوش مصنوعی «کرسر» به هفت شرکت حمله کردند
 https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/|Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026
+https://yourstory.com/2026/08/software-satellites-indias-next-venture-opportunity-lies-deeptech|From software to satellites: Why India's next venture opportunity lies in deeptech

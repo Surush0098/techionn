@@ -4545,3 +4545,4 @@ https://www.zoomit.ir/energy-environment/465917-nuclear-waste-recovery-technolog
 https://www.zoomit.ir/ai-articles/466131-nvidia-conquest-hugging-face-featured/|هاگینگ فیس چیست و چرا انویدیا  برای خرید آن ۱۲٫۹ میلیارد دلار می‌پردازد؟
 https://www.zoomit.ir/health-medical/466193-oregon-legal-psilocybin-therapy-results/|نتایج نویدبخش نخستین ارزیابی گسترده درمان با سیلوسایبین در آمریکا
 https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned|AI agents that pass authentication can still drift, expose data, or get memory-poisoned
+https://www.zoomit.ir/health-medical/466214-china-mri-brain-computer-interface/|چین از اولین سیستم مبتنی‌بر MRI برای بررسی و تغییر فعالیت مغز رونمایی کرد

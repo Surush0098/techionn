@@ -4534,3 +4534,4 @@ https://www.zoomit.ir/robotics-smart-machines/466152-chinese-ai-cooking-robots-b
 https://www.zoomit.ir/business/466151-honda-nissan-shared-os-partnership/|همکاری استراتژیک هوندا و نیسان برای توسعه نرم‌افزار خودرو
 https://www.zoomit.ir/iran-news/466182-kowsar-new-satellites-donama-constellation/|تصاویر ماهواره «کوثر» هنوز به زمین نرسیده‌اند
 https://www.zoomit.ir/ai-articles/466157-google-tests-gemini-flash-preview/|گوگل با سرعت سرسام‌آور در حال آماده‌سازی Gemini 3.8 است
+https://www.zoomit.ir/ai-articles/466155-google-dreambeans-free-access/|فید شخصی‌سازی‌شده «گوگل دریم‌بینز» حالا به‌صورت رایگان در دسترس است

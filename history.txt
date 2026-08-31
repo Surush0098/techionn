@@ -4557,3 +4557,4 @@ https://yourstory.com/2026/08/bharat-innovates-building-the-ecosystem-indias-dee
 https://yourstory.com/2026/08/government-notifies-rs-127l-cr-semicon-20-eligibility-norms-sops|Government notifies Rs 1.27L-cr Semicon 2.0 with eligibility norms, sops
 https://yourstory.com/2026/08/-theory-practice-building-customer-agents-googles-no-code-tools|From theory to practice: building customer agents with Google's no-code tools
 https://startup360.ir/charisma-pay-asset-backed-credit-elecomp/|کاریزما پی در الکامپ؛ استفاده از دارایی برای دریافت اعتبار بدون نیاز به فروش
+https://www.zoomit.ir/ai-articles/466188-hugging-face-incident-openai-agents-featured/|چگونه ۱۲۰۰ ایجنت سرکش، برای حمله به هاگینگ‌فیس ۷۰ هزار پیام ردوبدل کردند؟

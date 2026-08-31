@@ -4578,3 +4578,4 @@ https://www.zoomit.ir/software-news/466300-telegram-gram-wallet-walt-rebrand/|ت
 https://www.zoomit.ir/tech-iran/466287-soroush-plus-unveils-bot-platform-and-bulk-messaging/|بدون دانش برنامه‌نویسی در سروش‌پلاس بات بسازید
 https://www.zoomit.ir/tech-iran/466286-talasee-central-bank-supervision-system/|اتصال طلاسی به سامانه نظارتی بانک مرکزی برای تطبیق موجودی طلا؛ رونمایی از خدمات جدید در الکامپ
 https://www.zoomit.ir/iran-news/466288-iran-novin-elecomp-29-rd/|کانون ایران نوین در الکامپ ۲۹ از حاصل یک سال و نیم تحقیق و توسعه رونمایی می‌کند
+https://www.zoomit.ir/ai-articles/466231-anthropic-ai-recursive-self-improvement-paper/|هوش مصنوعی، محققِ خودش می‌شود؛ گام نخست آنتروپیک به سوی تکامل خودکار

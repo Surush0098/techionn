@@ -4637,3 +4637,4 @@ https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-go
 https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/|Anthropic’s new Fable release is cheaper, less restrictive
 https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/|OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities
 https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer|Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer
+https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open|Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.

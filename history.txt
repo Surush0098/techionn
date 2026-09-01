@@ -4615,3 +4615,4 @@ https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skill
 https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/|Fambot introduces an ‘AI chief of staff’ for families
 https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/|Google’s answer to Canva is an AI tool where you prompt instead of design
 https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/|ChatGPT Health adds Epic integration for clinicians to import patient data
+https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/|Sequoia-incubated Empirik launches with $21M to predict outages before they happen

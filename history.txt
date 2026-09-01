@@ -4607,3 +4607,4 @@ https://www.zoomit.ir/report/466328-iran-novin-agentra-ai-digital-ecosystem/|م�
 https://www.zoomit.ir/ai-articles/466248-amodei-genius-country-2027-ai-scenario/|«کشورِ نابغه‌ها» در آستانه شکل‌گیری است؛ جمعیتی ۵۰ میلیون نفری از نخبه‌های دیجیتالی
 https://www.zoomit.ir/tech-iran/466337-technopay-taraz-risk-based-credit-scoring-elecomp/|رونمایی از سرویس «تراز» در الکامپ؛ رویکرد جدید تکنوپی در اعتبارسنجی برای عبور از محدودیت‌های بانکی
 https://www.zoomit.ir/ai-articles/466261-pathway-bdh-cq-ai-reasoning/|شکست هوش مصنوعی سنتی؛ مدل جدید Pathway با هزینه‌ای ۱۱ برابر کمتر از اوپن‌ای‌آی کار می‌کند
+https://www.zoomit.ir/biology/465867-ai-blood-test-organ-biological-age/|قطره‌ای خون شاید به‌زودی بتواند سن واقعی قلب، مغز و کلیه‌ها را آشکار کند

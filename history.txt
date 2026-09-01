@@ -4635,3 +4635,4 @@ https://www.zoomit.ir/iran-news/466360-mostafa-akrami-ceo-digikala-bisiness/|م�
 https://www.zoomit.ir/tech/466367-ai-bridge-2026-isfahan-event/|برگزاری رویداد ملی AI Bridge 2026 با حضور متخصصان در اصفهان
 https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/|Open AI’s Astra model is on the way—and very good at breaking into computer systems
 https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/|Anthropic’s new Fable release is cheaper, less restrictive
+https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/|OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities

@@ -4595,3 +4595,4 @@ https://www.zoomit.ir/pr/466297-bazaar-studio-ai-app-builder/|ساخت رایگ�
 https://www.zoomit.ir/report/466322-rasis-cybersecurity-demand-after-war/|مدیر فنی رَسیس پردازش: تقاضای سازمان‌ها برای راهکارهای امنیت سایبری پس از جنگ افزایش یافت
 https://www.zoomit.ir/pr/466293-zero-downtime-server-migration-guide/|چگونه بدون قطعی از یک سرور به سرور دیگر مهاجرت کنیم؟
 https://www.zoomit.ir/ai-articles/466308-anthropic-misleading-claude-max-plans/|آنتروپیک با طرح‌های اشتراکی کلاد، کاربران را فریب داده است
+https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/|India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation

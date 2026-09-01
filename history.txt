@@ -4614,3 +4614,4 @@ https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to
 https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/|AIR raises $50M to help companies vet the skills and add-ons AI agents use
 https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/|Fambot introduces an ‘AI chief of staff’ for families
 https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/|Google’s answer to Canva is an AI tool where you prompt instead of design
+https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/|ChatGPT Health adds Epic integration for clinicians to import patient data

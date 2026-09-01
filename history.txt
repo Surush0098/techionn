@@ -4597,3 +4597,4 @@ https://www.zoomit.ir/pr/466293-zero-downtime-server-migration-guide/|چگونه
 https://www.zoomit.ir/ai-articles/466308-anthropic-misleading-claude-max-plans/|آنتروپیک با طرح‌های اشتراکی کلاد، کاربران را فریب داده است
 https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/|India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation
 https://news.crunchbase.com/venture/proptech-funding-holds-exits-ipo-ai-green-steel-2026/|Sector Snapshot: Proptech Funding Holds Up, But Investors Are Placing Different Bets
+https://www.eu-startups.com/2026/09/zurich-based-xorlab-secures-e5-million-to-scale-sovereign-email-security-across-europe/|Zurich-based xorlab secures €5 million to scale sovereign email security across Europe

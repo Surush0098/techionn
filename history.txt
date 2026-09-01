@@ -4639,3 +4639,4 @@ https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abil
 https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer|Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer
 https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open|Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.
 https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads|Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads
+https://www.zoomit.ir/ai-articles/466277-ai-drives-cybersecurity-burnout-crisis/|پایان توان متخصصان امنیت سایبری در برابر هوش مصنوعی؛ بحرانی تازه که کسی از آن حرف نمی‌زند

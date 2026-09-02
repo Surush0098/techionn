@@ -4687,3 +4687,4 @@ https://www.zoomit.ir/business/466427-google-mrbeast-gemini-partnership/|بزر�
 https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/|Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit
 https://www.wired.com/story/russian-startup-mostik-ai-models-communication/|These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words
 https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/|Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation
+https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke|Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke

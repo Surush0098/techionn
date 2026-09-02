@@ -4664,3 +4664,4 @@ https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-star
 https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/|Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’
 https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/|We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO
 https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/|US government sides with OpenAI on issue of training LLMs on copyrighted material
+https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/|Wonderful more than doubles its valuation to $5B in under 6 months

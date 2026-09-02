@@ -4671,3 +4671,4 @@ https://www.wired.com/story/bot-vs-bot-job-interview-ai/|The Logical End Point o
 https://www.eu-startups.com/2026/09/uk-startup-pharosyn-raises-e2-5-million-for-pharma-competitive-intelligence-platform/|UK startup Pharosyn raises €2.5 million for pharma competitive intelligence platform
 https://www.eu-startups.com/2026/09/mirava-raises-e4-2-million-to-build-a-new-category-in-recreational-boating-sponsored/|MIRAVA raises €4.2 million to build a new category in recreational boating (Sponsored)
 https://venturebeat.com/orchestration/forward-deployed-engineering-is-how-enterprise-ai-learns|Forward-deployed engineering is how enterprise AI learns
+https://yourstory.com/2026/09/zerodha-gets-sebi-nod-to-enter-investment-banking-business|Zerodha gets SEBI nod to enter investment banking business

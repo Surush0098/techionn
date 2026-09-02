@@ -4667,3 +4667,4 @@ https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-t
 https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/|Wonderful more than doubles its valuation to $5B in under 6 months
 https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/|HiddenLayer nabs $100M as enterprises rush to secure their AI deployments
 https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/|Adobe acquires Indian market intelligence startup Rilo
+https://www.wired.com/story/bot-vs-bot-job-interview-ai/|The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other

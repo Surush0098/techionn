@@ -4689,3 +4689,4 @@ https://www.wired.com/story/russian-startup-mostik-ai-models-communication/|Thes
 https://news.crunchbase.com/venture/robotics-ai-startup-lyte-seriesc-raise-maverick/|Former Apple Engineers’ Physical AI Startup Lyte Raises $165M At $1.6B Valuation
 https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke|Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke
 https://www.zoomit.ir/car/466255-uber-drivers-protest-waymo-robotaxis/|تاکسی‌های رباتیک در‌حال ازبین‌بردن درآمد راننده‌های اوبر هستند
+https://www.zoomit.ir/car/466359-waymo-expands-ojai-robotaxi-fleet/|گوگل برای فراگیرکردن تاکسی‌های خودران ارزان‌قیمت با چالش‌های قانونی بزرگی روبه‌رو است

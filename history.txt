@@ -4744,3 +4744,4 @@ https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for
 https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/|Abliteration.ai is making a business out of removing AI guardrails
 https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/|Meta is paying to peek at how you use their latest AI model
 https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/|OpenAI launches Astra, its powerful (and controversial) new model
+https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/|GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era

@@ -4701,3 +4701,4 @@ https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of
 https://www.zoomit.ir/ai-articles/466256-mit-warns-ai-undergrad-assignments/|هشدار تکان‌دهنده MIT: هوش مصنوعی می‌تواند تمام تکالیف دانشگاهی را انجام دهد
 https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities|Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities
 https://yourstory.com/2026/09/uber-cut-10-pc-global-workforce-3400-jobs-likely-to-hit|Uber to cut about 10% of global workforce, nearly 3,400 jobs likely to hit
+https://yourstory.com/2026/09/adobe-acquires-indian-ai-startup-rilo|Adobe acquires Indian AI startup Rilo

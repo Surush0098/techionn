@@ -4727,3 +4727,4 @@ https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/|OpenAI Cut 
 https://www.eu-startups.com/2026/09/breast-implant-alternative-startup-tensive-receives-e20-million-eib-loan-to-advance-regenera/|Breast implant alternative startup Tensive receives €20 million EIB loan to advance REGENERA
 https://www.eu-startups.com/2026/09/europes-next-energy-challenge-is-the-grid/|Europe’s next energy challenge is the grid
 https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-performance-but-its-best-results-come-from-a-model-developers-cant-broadly-use-yet|Meta says Muse Spark 1.3 has frontier performance — but its best results come from a model developers can’t broadly use yet
+https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers|The AI visibility gap: Why great brands disappear from AI answers

@@ -4749,3 +4749,4 @@ https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-
 https://venturebeat.com/security/china-linked-hackers-backdoored-executives-laptops-via-usb-exploiting-a-fix-companies-had-but-werent-using|China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using
 https://www.zoomit.ir/ai-articles/466505-openai-gpt-6-astra-entered-agi-era/|به عصر AGI خوش آمدید؛ هوش مصنوعی پرچمدار GPT-6 Astra با وعده‌های شگفت‌انگیز رونمایی شد
 https://www.zoomit.ir/robotics-smart-machines/466408-blackberry-qnx--cars-robotics-featured/|حیات دوباره پس از مرگ موبایل؛ بلک‌بری چگونه فرمان خودروهای مدرن را به دست گرفت؟
+https://www.zoomit.ir/energy-environment/466148-plastic-waste-to-edible-food/|تولید شیرینی با پلاستیک؛ ایده‌ای تازه برای حل معضل گرسنگی و آلودگی محیط زیست

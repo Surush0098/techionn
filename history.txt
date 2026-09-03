@@ -4730,3 +4730,4 @@ https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-perform
 https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers|The AI visibility gap: Why great brands disappear from AI answers
 https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed|Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed
 https://yourstory.com/2026/09/bits-pilani-incubated-apollyon-dynamics-sets-india-record-with-498-kmh-interceptor-drone|BITS Pilani-incubated Apollyon Dynamics sets new speed record in India with 498 km/h interceptor drone
+https://yourstory.com/2026/09/kalaari-capital-opens-applications-for-investor-fellowship-programme|Kalaari Capital opens applications for investor fellowship programme

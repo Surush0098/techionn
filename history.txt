@@ -4748,3 +4748,4 @@ https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-h
 https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra|'Welcome to the AGI era': OpenAI launches GPT-6 Astra
 https://venturebeat.com/security/china-linked-hackers-backdoored-executives-laptops-via-usb-exploiting-a-fix-companies-had-but-werent-using|China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using
 https://www.zoomit.ir/ai-articles/466505-openai-gpt-6-astra-entered-agi-era/|به عصر AGI خوش آمدید؛ هوش مصنوعی پرچمدار GPT-6 Astra با وعده‌های شگفت‌انگیز رونمایی شد
+https://www.zoomit.ir/robotics-smart-machines/466408-blackberry-qnx--cars-robotics-featured/|حیات دوباره پس از مرگ موبایل؛ بلک‌بری چگونه فرمان خودروهای مدرن را به دست گرفت؟

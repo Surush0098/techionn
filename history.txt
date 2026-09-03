@@ -4699,3 +4699,4 @@ https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safe
 https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises|Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?
 https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists|Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists
 https://www.zoomit.ir/ai-articles/466256-mit-warns-ai-undergrad-assignments/|هشدار تکان‌دهنده MIT: هوش مصنوعی می‌تواند تمام تکالیف دانشگاهی را انجام دهد
+https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities|Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities

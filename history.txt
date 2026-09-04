@@ -4756,3 +4756,4 @@ https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outage
 https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/|Prediction Market Betting Is Getting People Banned and Arrested
 https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/|Crusoe reportedly raises $3B at a  $30B valuation
 https://yourstory.com/2026/09/finance-ministry-norms-allowing-e-commerce-firms-to-maintain-inventory-only-for-exports|Finance Ministry notifies norms allowing ecommerce firms to maintain inventory only for exports
+https://yourstory.com/2026/09/whatsapp-bill-payments-india-in-app-payment-household-utility-bills|WhatsApp launches bill payments in India, enables in-app payment of household, utility bills

@@ -4811,3 +4811,4 @@ https://ecomotive.ir/1405/06/14/%d8%aa%d9%88%d9%84%db%8c%d8%af-%d9%88%db%8c%d8%a
 https://www.zoomit.ir/fundamental-science/466436-tiny-sound-powered-flying-robots/|پرواز بی‌موتور در دنیای میکروسکوپی؛ ساخت ریزربات‌هایی که با امواج صوتی کار می‌کنند
 https://www.zoomit.ir/linux/466493-run-linux-on-windows-without-rebooting/|چطور بدون خداحافظی با ویندوز، طعم لینوکس را بچشیم؟
 https://www.zoomit.ir/op-ed/466592-tech-ecosystem-problem-solving-vs-communities/|اکوسیستم فناوری؛ حل مساله یا کارخانه تولید انجمن؟ | یادداشتی از علی صدرالدینی
+https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/|OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure

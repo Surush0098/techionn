@@ -4813,3 +4813,4 @@ https://www.zoomit.ir/linux/466493-run-linux-on-windows-without-rebooting/|چط�
 https://www.zoomit.ir/op-ed/466592-tech-ecosystem-problem-solving-vs-communities/|اکوسیستم فناوری؛ حل مساله یا کارخانه تولید انجمن؟ | یادداشتی از علی صدرالدینی
 https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/|OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
 https://www.zoomit.ir/health-medical/466556-psilocybin-chemotherapy-neuropathy-protection/|سیلوسایبین می‌تواند از بروز یکی از عوارض شایع شیمی‌درمانی جلوگیری کند
+https://www.zoomit.ir/ai-articles/466594-moonshot-ai-yang-zhilin-featured/|برنامه‌نویس چینی که استخدام اپل را رد کرد تا رقیب گوگل شود؛ یانگ ژیلین کیست؟

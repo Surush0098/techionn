@@ -4908,3 +4908,4 @@ https://www.zoomit.ir/ai-articles/466816-openai-navier-stokes-millennium-prize-p
 https://www.zoomit.ir/health-medical/466133-tofa-weight-loss-fat-burning-study/|لاغری بدون گرسنگی؛ داروی آزمایشی جدید با سوزاندن چربی وزن را کم می‌کند
 https://www.zoomit.ir/ai-articles/466815-south-korea-free-ai-for-all/|کره جنوبی هوش مصنوعی رایگان و نامحدود را در دسترس همه مردم قرار می‌دهد
 https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/|Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market
+https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/|Hackers are stealing Claude tokens from subscribers

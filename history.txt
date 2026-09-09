@@ -4954,3 +4954,4 @@ https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reach
 https://www.wired.com/story/i-used-ai-to-hack-my-home-network/|I Let an AI Agent Hack All My Gadgets—and I’d Do It Again
 https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/|OpenAI adds a prominent AI doomer to its board of directors
 https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/|Massachusetts hits data centers with new clean power rules
+https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/|The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’

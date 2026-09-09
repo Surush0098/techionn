@@ -4942,3 +4942,4 @@ https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-em
 https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/|‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI
 https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/|AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?
 https://www.eu-startups.com/2026/09/the-eu-startups-podcast-interview-with-momchil-sabev-director-of-the-eic-and-eismea/|The EU-Startups Podcast | Interview with Momchil Sabev, Director of the EIC and EISMEA
+https://yourstory.com/2026/09/ai-pilots-production-rebuilding-enterprise-stack-intelligent-agents|From AI pilots to production: Rebuilding the enterprise stack for intelligent agents

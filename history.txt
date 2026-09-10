@@ -4957,3 +4957,4 @@ https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean
 https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/|The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’
 https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/|AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks
 https://www.eu-startups.com/2026/09/milan-based-bynario-raises-e2-1-million-pre-seed-after-ai-research-exposed-serious-apple-vulnerabilities/|Milan-based Bynario raises €2.1 million pre-Seed after AI research exposed serious Apple vulnerabilities
+https://www.eu-startups.com/2026/09/new-german-ai-research-lab-grubel-raises-e3-million-to-build-systems-that-adapt-to-individual-legal-cases/|New German AI research lab Grubel raises €3 million to build systems that adapt to individual legal cases

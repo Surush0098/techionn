@@ -5020,3 +5020,4 @@ https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-a
 https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/|Kimi-maker Moonshot AI targets $2 billion in annual revenue
 https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/|An Anthropic researcher’s doomsday warning comes at a very interesting time
 https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/|The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades
+https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/|Meta Sued Over Training Data for Its AI and Face-Recognition Systems

@@ -5024,3 +5024,4 @@ https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-rec
 https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/|The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week
 https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/|Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
 https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/|Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too
+https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/|OpenAI’s feud with mathematicians is only escalating

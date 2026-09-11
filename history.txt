@@ -5022,3 +5022,4 @@ https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-a
 https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/|The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades
 https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/|Meta Sued Over Training Data for Its AI and Face-Recognition Systems
 https://news.crunchbase.com/venture/biggest-funding-rounds-boring-co-cognition-massive-week/|The Week’s 10 Biggest Funding Rounds: The Boring Co., Cognition And Motive Lead A Massive Week
+https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/|Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data

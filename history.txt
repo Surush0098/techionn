@@ -5046,3 +5046,4 @@ https://www.zoomit.ir/tech-iran/467088-minister-ict-national-network-ipv6/|دس�
 https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/|OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026
 https://www.zoomit.ir/ai-articles/467083-anthropic-stopped-bioweapons-featured/|گزارش جنجالی آنتروپیک: کلاد چگونه به ابزار سرقت چینی‌ها و ساخت سلاح‌های بیولوژیک تبدیل شد؟
 https://www.zoomit.ir/ai-articles/467093-altman-musk-back-amodei-ai-slowdown-warning/|حمایت ایلان ماسک و سم آلتمن از مدیرعامل آنتروپیک؛ بزرگان هوش مصنوعی خواستار کاهش سرعت توسعه شدند
+https://www.zoomit.ir/ai-articles/467105-altman-superhuman-ai-ipo-delay/|مدیرعامل اوپن‌ای‌آی: ساخت هوش مصنوعی فرا انسانی کاملا امکان‌پذیر است

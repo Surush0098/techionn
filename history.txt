@@ -5047,3 +5047,4 @@ https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advise
 https://www.zoomit.ir/ai-articles/467083-anthropic-stopped-bioweapons-featured/|گزارش جنجالی آنتروپیک: کلاد چگونه به ابزار سرقت چینی‌ها و ساخت سلاح‌های بیولوژیک تبدیل شد؟
 https://www.zoomit.ir/ai-articles/467093-altman-musk-back-amodei-ai-slowdown-warning/|حمایت ایلان ماسک و سم آلتمن از مدیرعامل آنتروپیک؛ بزرگان هوش مصنوعی خواستار کاهش سرعت توسعه شدند
 https://www.zoomit.ir/ai-articles/467105-altman-superhuman-ai-ipo-delay/|مدیرعامل اوپن‌ای‌آی: ساخت هوش مصنوعی فرا انسانی کاملا امکان‌پذیر است
+https://www.zoomit.ir/ai-articles/467049-decoy-fonts-block-ai-bots/|هوش مصنوعی نمی‌تواند این فونت جدید را ببیند!

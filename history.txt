@@ -5099,3 +5099,4 @@ https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models
 https://www.zoomit.ir/aviation-aerospace/466981-how-german-company-first-launch-orbital-rocket/|داستان اسپکتروم؛ چگونه شرکتی آلمانی نخستین پرتاب مداری از خاک اروپا را انجام داد؟
 https://www.zoomit.ir/tech/467140-waymo-robotaxi-reports-armed-passengers/|وقتی تاکسی‌های خودران پلیس را خبر می‌کنند؛ دستگیری دو نوجوان مسلح به کمک هوش مصنوعی ویمو
 https://www.zoomit.ir/robotics-smart-machines/467209-kids-robot-best-friend-dies-festured/|وقتی بهترین دوست رباتیک یک کودک می‌میرد، چه بر سر او می‌آید؟
+https://www.zoomit.ir/health-medical/467155-cancer-patients-travel-china-treatment/|هزینه بالای درمان جدید سرطان، بیماران آمریکایی را راهی چین کرده است

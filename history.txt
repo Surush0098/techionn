@@ -5077,3 +5077,4 @@ https://startup360.ir/pepsi-publicis-1-7-billion-media-deal/|قرارداد ۱.�
 https://startup360.ir/jensen-huang-reaction-employees-leaving-nvidia/|وقتی به جنسن هوانگ می‌گویید انویدیا را ترک می‌کنید، چه اتفاقی می‌افتد؟
 https://www.zoomit.ir/ai-articles/467171-sam-altman-ai-safety-framework/|هشدار سم آلتمن درباره دو مسیر خطرناک در پیشرفت هوش مصنوعی
 https://www.zoomit.ir/pr/467168-farasib-ai-chat-international-payment/|قابلیت‌های جدید فراسیب؛ از چت هوش مصنوعی تا پرداخت ارزی
+https://www.zoomit.ir/ai-articles/467161-elon-musk-grok-4-8-parameters/|ایلان ماسک: آموزش هوش مصنوعی ۲٫۵ تریلیون پارامتری «گراک ۴٫۸» همین هفته تمام می‌شود

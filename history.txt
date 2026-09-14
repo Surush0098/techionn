@@ -5097,3 +5097,4 @@ https://www.zoomit.ir/iran-news/467199-ecommerce-fmcg-data-supply-chain-okala/|�
 https://www.zoomit.ir/iran-news/467198-linom-filtering-medical-council-complaint/|وزارت بهداشت نقش خود در فیلتر لینوم را رد کرد/ لینوم: شکایت با داستان‌سازی نظام پزشکی انجام شد
 https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/|Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans
 https://www.zoomit.ir/aviation-aerospace/466981-how-german-company-first-launch-orbital-rocket/|داستان اسپکتروم؛ چگونه شرکتی آلمانی نخستین پرتاب مداری از خاک اروپا را انجام داد؟
+https://www.zoomit.ir/tech/467140-waymo-robotaxi-reports-armed-passengers/|وقتی تاکسی‌های خودران پلیس را خبر می‌کنند؛ دستگیری دو نوجوان مسلح به کمک هوش مصنوعی ویمو

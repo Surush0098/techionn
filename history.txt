@@ -5119,3 +5119,4 @@ https://www.wired.com/story/flow-neuroscience-headset-help-depression-available-
 https://news.crunchbase.com/startups/ai-creating-wealth-fast-honig-from-honig/|AI Is Creating Wealth Faster Than Financial Lives Can Adapt
 https://news.crunchbase.com/sales-marketing/ai-growing-share-ecommerce-saas-crm-startup-funding/|Sector Snapshot: AI Takes A Growing Share Of Sales And Marketing Startup Funding
 https://www.eu-startups.com/2026/09/london-based-jack-jill-raises-e34-68-million-series-a-to-scale-its-ai-agents-for-jobseekers-and-employers/|London-based Jack & Jill raises €34.68 million Series A to scale its AI agents for jobseekers and employers
+https://www.eu-startups.com/2026/09/facing-5000-new-attacks-weekly-italys-exein-raises-e234-million-for-physical-ai-cybersecurity/|Exein reaches Unicorn status as it faces 5,000 attacks weekly and raises €234 million for Physical AI cybersecurity

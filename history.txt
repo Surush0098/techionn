@@ -5149,3 +5149,4 @@ https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-part
 https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/|The AI graveyard: a running list of projects and startups that didn’t make it
 https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/|US data centers could consume more natural gas than Germany and Japan combined by 2035
 https://www.zoomit.ir/ai-articles/467296-google-gemini-3-8-live-extended-thinking/|مدل‌های هوش مصنوعی جدید گوگل، هم‌زمان با فکر کردن با شما صحبت می‌کنند
+https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/|We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says

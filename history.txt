@@ -5241,3 +5241,4 @@ https://www.zoomit.ir/ai-articles/467400-claude-projects-redesigned/|بخش «پ
 https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/|PrismML hopes its tiny LLM will change how we all use AI
 https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/|Crusoe raises $3.9B to build massive data centers and small modular “AI factories”
 https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/|PrismML hopes its tiny LLM will change how we all use AI
+https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/|The FAA’s plan to fix air traffic? $875M worth of AI

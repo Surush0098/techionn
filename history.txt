@@ -5234,3 +5234,4 @@ https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-rea
 https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/|Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal
 https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/|The AI ‘Slowdown’ Is an Antitrust Mess
 https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/|Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers
+https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/|The AI Slowdown Debate Crashed Salesforce’s Party

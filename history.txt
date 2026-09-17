@@ -5238,3 +5238,4 @@ https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-prob
 https://yourstory.com/2026/09/ism-2-meity-krishnan-semicon-india-2026-packaging-rd-talent|ISM 2.0 will shift from building fabs to building the ecosystem: MeitY Secretary Krishnan
 https://www.zoomit.ir/business/467402-elon-musk-airstream-memphis-xai-colossus-expansion/|ایلان ماسک، ثروتمندترین فرد جهان، شب‌ها در یک خودرو کاروان می‌خوابد
 https://www.zoomit.ir/ai-articles/467400-claude-projects-redesigned/|بخش «پروژه‌ها» در کلاد با قابلیت‌هایی کاربردی بازطراحی شد
+https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/|PrismML hopes its tiny LLM will change how we all use AI

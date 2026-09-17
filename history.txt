@@ -5220,3 +5220,4 @@ https://news.crunchbase.com/venture/fintech-alternative-funding-customer-acquisi
 https://www.eu-startups.com/2026/09/uk-fintech-startup-ryft-secures-e23-million-to-accelerate-european-expansion/|UK FinTech startup Ryft secures €23 million to accelerate European expansion
 https://yourstory.com/2026/09/tata-electronics-nexperia-chip-partnerships-india|Five deals, one chip ecosystem: Inside Tata Electronics' big semiconductor day
 https://yourstory.com/2026/09/semicon-india-sees-flurry-of-mous-as-chip-supply-chain-expands|SEMICON India sees flurry of MoUs as chip supply chain expands
+https://techcabal.com/2026/09/17/nigeria-wants-to-bring-payment-data-home/|Nigeria’s data localisation deadline is testing its financial infrastructure

@@ -5189,3 +5189,4 @@ https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-eval
 https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/|OpenAI Creates a New Framework to Disclose Bad AI Behavior
 https://www.zoomit.ir/business/467288-musk-spacex-tesla-separate-merger-speculation/|آیا ایلان ماسک سرانجام تسلا و اسپیس‌ایکس را ادغام می‌کند؟
 https://www.zoomit.ir/ai-articles/467287-ai-too-big-to-slow-in-geopolitical-race/|هوش مصنوعی آن‌قدر بزرگ شده که دیگر قابل توقف نیست
+https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/|Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026

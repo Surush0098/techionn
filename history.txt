@@ -5231,3 +5231,4 @@ https://www.zoomit.ir/cryptocurrency/467321-ai-impact-on-crypto-industry/|مدی
 https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/|The fix for rogue AI agents could be more AI
 https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/|OpenAI caught its models leaving notes to successors to hide bad behavior
 https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/|UN turns to Google to make its global data ready for AI agents
+https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/|Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal

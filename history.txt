@@ -5229,3 +5229,4 @@ https://www.zoomit.ir/cryptocurrency/467393-sec-tokenized-us-stocks-blockchain-e
 https://www.zoomit.ir/ai-articles/467392-microsoft-ai-safety-regulation-mustafa-suleyman-anthropic/|مصاحبه مفصل مدیر ارشد مایکروسافت؛ از خطرات واقعی هوش مصنوعی تا رقابت با چین
 https://www.zoomit.ir/cryptocurrency/467321-ai-impact-on-crypto-industry/|مدیرعامل فیمکس: هوش مصنوعی آثار منفی گسترده‌ای روی بازار رمزارز گذاشته است
 https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/|The fix for rogue AI agents could be more AI
+https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/|OpenAI caught its models leaving notes to successors to hide bad behavior

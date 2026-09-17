@@ -5235,3 +5235,4 @@ https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-
 https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/|The AI ‘Slowdown’ Is an Antitrust Mess
 https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/|Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers
 https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/|The AI Slowdown Debate Crashed Salesforce’s Party
+https://yourstory.com/2026/09/ism-2-meity-krishnan-semicon-india-2026-packaging-rd-talent|ISM 2.0 will shift from building fabs to building the ecosystem: MeitY Secretary Krishnan

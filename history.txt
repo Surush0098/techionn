@@ -5293,3 +5293,4 @@ https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-
 https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/|A startup that builds other startups raised $100M, and is all-in on physical AI
 https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/|Anthropic is operating a lab that conducts biology experiments
 https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/|AI hallucination nearly triggers US military operation
+https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/|Anthropic’s first embedded evaluator is … Accenture?

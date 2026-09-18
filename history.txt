@@ -5284,3 +5284,4 @@ https://www.zoomit.ir/ai-articles/467370-spain-data-centers-power-regulation-ai/
 https://www.zoomit.ir/car/467375-maserati-huawei-jac-ev-partnership/|مازراتی دست‌به‌دامان تکنولوژی‌های هواوی و خط تولید چین شد
 https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/|A new kind of AI model from a ChatGPT inventor is thrilling developers
 https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/|Disney’s first CTO led an AI startup it once accused of copying its characters
+https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/|Google’s new ‘CC’ is an AI agent that helps families run their households

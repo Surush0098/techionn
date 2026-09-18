@@ -5273,3 +5273,4 @@ https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-
 https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/|Automattic’s 33-Hour Coup, and can AI labs police themselves?
 https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/|Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops
 https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/|Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026
+https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/|Researchers used Anthropic’s Claude to hack into OpenAI

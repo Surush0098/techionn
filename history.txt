@@ -5266,3 +5266,4 @@ https://techcabal.com/2026/09/18/kenyan-fintech-payd-to-resume-services-after-fx
 https://techcabal.com/2026/09/18/south-africa-sme-funding-gap-data/|South Africa’s $21.5 billion SME funding gap is really a data problem
 https://techcabal.com/2026/09/18/terra-industries-leads-1m-round-in-aeon/|Terra Industries leads $1m round in Aeon to build Africa’s cyber defence layer
 https://www.zoomit.ir/biology/467410-stanford-human-brain-cells-mice/|پیوند بافت مغز انسان به موش‌ها؛ دستاورد تحول‌آفرین دانشمندان استنفورد
+https://www.zoomit.ir/ai-articles/467439-openai-anthropic-claude-security-breach/|هکرها با کمک هوش مصنوعی آنتروپیک به اوپن‌ای‌آی نفوذ کردند

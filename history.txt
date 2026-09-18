@@ -5280,3 +5280,4 @@ https://www.eu-startups.com/2026/09/paris-based-cycloid-plugs-into-european-comm
 https://yourstory.com/2026/09/weekly-funding-roundup-sept-12-18-sharp-fall-in-vc-inflow|(Weekly funding roundup Sept 12-18) Sharp fall in VC inflow
 https://yourstory.com/2026/09/sfal-seven-mous-semicon-india-2026|SFAL signs seven MoUs to boost India’s semiconductor ecosystem
 https://www.zoomit.ir/ai-articles/467450-anthropic-biology-lab-ai-drug-program-reuters/|آزمایشگاه زیستی آنتروپیک راه‌اندازی شد؛ هوش مصنوعی در خدمت برنامه دارویی
+https://www.zoomit.ir/ai-articles/467370-spain-data-centers-power-regulation-ai/|نبرد بر سر برق و آب در عصر هوش مصنوعی؛ اسپانیا عطش دیتاسنترها را کنترل می‌کند

@@ -5294,3 +5294,4 @@ https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-10
 https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/|Anthropic is operating a lab that conducts biology experiments
 https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/|AI hallucination nearly triggers US military operation
 https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/|Anthropic’s first embedded evaluator is … Accenture?
+https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/|World model companies are keeping a lot of secrets

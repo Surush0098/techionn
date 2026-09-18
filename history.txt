@@ -5245,3 +5245,4 @@ https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-w
 https://www.eu-startups.com/2026/09/antwerp-based-tusk-ic-secures-e15-million-to-move-its-ka-band-satellite-chips-into-mass-production/|Antwerp-based TUSK IC secures €15 million to move its Ka-band satellite chips into mass production
 https://yourstory.com/2026/09/semicon-20-draws-11-12b-in-investment-commitments-it-min-vaishnaw|Semicon 2.0 has drawn about $12B in investment commitments: IT minister Vaishnaw
 https://yourstory.com/2026/09/india-needs-hundreds-of-chip-companies-to-build-global-ecosystem-lt-semiconductor-ceo|India needs hundreds of chip companies to build a global ecosystem, says L&T Semiconductor CEO
+https://yourstory.com/2026/09/semicon-2026-indias-semiconductor-push-turns-to-localising-materials-gases|Semicon 2026: India’s semiconductor push turns to localising materials, gases

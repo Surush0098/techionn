@@ -5286,3 +5286,4 @@ https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor
 https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/|Disney’s first CTO led an AI startup it once accused of copying its characters
 https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/|Google’s new ‘CC’ is an AI agent that helps families run their households
 https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/|Here’s How an AI Slowdown Could Actually Be Enforced
+https://news.crunchbase.com/venture/biggest-funding-rounds-ai-space-fintech-temporal/|The Week’s 10 Biggest Funding Rounds: Large Rounds For AI Infrastructure, Space Tech And Investment Management Lead

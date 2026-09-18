@@ -5282,3 +5282,4 @@ https://yourstory.com/2026/09/sfal-seven-mous-semicon-india-2026|SFAL signs seve
 https://www.zoomit.ir/ai-articles/467450-anthropic-biology-lab-ai-drug-program-reuters/|آزمایشگاه زیستی آنتروپیک راه‌اندازی شد؛ هوش مصنوعی در خدمت برنامه دارویی
 https://www.zoomit.ir/ai-articles/467370-spain-data-centers-power-regulation-ai/|نبرد بر سر برق و آب در عصر هوش مصنوعی؛ اسپانیا عطش دیتاسنترها را کنترل می‌کند
 https://www.zoomit.ir/car/467375-maserati-huawei-jac-ev-partnership/|مازراتی دست‌به‌دامان تکنولوژی‌های هواوی و خط تولید چین شد
+https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/|A new kind of AI model from a ChatGPT inventor is thrilling developers

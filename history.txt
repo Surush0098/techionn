@@ -5303,3 +5303,4 @@ https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/|Forget the 
 https://www.wired.com/story/mathematicians-cant-quit-ai/|Mathematicians Hate AI. They Can’t Quit It
 https://techcabal.com/2026/09/19/expense-ai-day-1-1000/|These founders turned a lockdown problem into an AI startup
 https://www.zoomit.ir/iran-news/467498-coinex-shutdown-iranian-users-crypto-withdrawal/|از محدودیت صرافی‌های خارجی تا تعطیلی کوینکس؛ کاربران ایرانی چه می‌کنند؟
+https://www.zoomit.ir/pr/467497-solana-upgrades-scalability-processing-capacity/|صراف: سولانا پس از ارتقاهای تازه؛ راستی آزمایی مقیاس‌پذیری سولانا

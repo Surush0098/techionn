@@ -5304,3 +5304,4 @@ https://www.wired.com/story/mathematicians-cant-quit-ai/|Mathematicians Hate AI.
 https://techcabal.com/2026/09/19/expense-ai-day-1-1000/|These founders turned a lockdown problem into an AI startup
 https://www.zoomit.ir/iran-news/467498-coinex-shutdown-iranian-users-crypto-withdrawal/|از محدودیت صرافی‌های خارجی تا تعطیلی کوینکس؛ کاربران ایرانی چه می‌کنند؟
 https://www.zoomit.ir/pr/467497-solana-upgrades-scalability-processing-capacity/|صراف: سولانا پس از ارتقاهای تازه؛ راستی آزمایی مقیاس‌پذیری سولانا
+https://www.zoomit.ir/iran-news/467494-iran-bulk-sms-numbers-regulation/|سامان‌دهی بازار ۱۲ هزار میلیارد تومانی پیامک‌های انبوه؛ سرشماره‌های تبلیغاتی، خدماتی و بانکی تفکیک می‌شوند

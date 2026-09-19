@@ -5306,3 +5306,4 @@ https://www.zoomit.ir/iran-news/467498-coinex-shutdown-iranian-users-crypto-with
 https://www.zoomit.ir/pr/467497-solana-upgrades-scalability-processing-capacity/|صراف: سولانا پس از ارتقاهای تازه؛ راستی آزمایی مقیاس‌پذیری سولانا
 https://www.zoomit.ir/iran-news/467494-iran-bulk-sms-numbers-regulation/|سامان‌دهی بازار ۱۲ هزار میلیارد تومانی پیامک‌های انبوه؛ سرشماره‌های تبلیغاتی، خدماتی و بانکی تفکیک می‌شوند
 https://www.zoomit.ir/ai-articles/467467-lighttok-sensor-ai-tokens-nju/|تکنولوژی انقلابی LightTok؛ تراشه‌ای که نور را مستقیما به داده‌های هوش مصنوعی تبدیل می‌کند
+https://www.zoomit.ir/ai-articles/467460-grok-voice-transcribe-two-released/|دقیق‌ترین هوش مصنوعی تبدیل گفتار به متن جهان معرفی شد

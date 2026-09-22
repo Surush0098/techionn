@@ -5423,3 +5423,4 @@ https://www.zoomit.ir/ai-articles/467687-openai-lawsuit-tumbler-ridge-shooting/|
 https://www.zoomit.ir/gaming/467693-activision-takes-over-halo-xbox-restructuring-layoffs/|مایکروسافت در اقدامی تاریخی، مجموعه Halo را به ناشر بازی‌های Call of Duty واگذار کرد
 https://www.zoomit.ir/gaming/467691-microsoft-xbox-layoffs-ninja-theory-closure/|ایکس‌باکس باز هم تعدیل نیرو کرد؛ احتمال تعطیلی سازنده بازی هل‌بلید
 https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/|Meta admits Muse’s likeness to OpenClaw isn’t a coincidence
+https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/|OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes

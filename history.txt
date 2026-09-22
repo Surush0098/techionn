@@ -5429,3 +5429,4 @@ https://www.zoomit.ir/ai-articles/467642-xiaomi-mimo-v26-ai-release/|رتبه ش
 https://www.zoomit.ir/ai-articles/467709-openai-gpt-6-sol-luna-launch/|اوپن‌ای‌آی از GPT-6 Sol و Luna رونمایی کرد؛ دقت دوبرابر با نصف هزینه
 https://www.zoomit.ir/aviation-aerospace/467646-joby-first-coast-to-coast-autonomous-flight/|لحظه‌ای تاریخی؛ یک هواپیمای خودران بدون دخالت انسان در سراسر آسمان آمریکا پرواز کرد
 https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/|TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4
+https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/|Snorkel AI triples valuation to $3.5B as demand for AI training data booms

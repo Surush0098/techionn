@@ -5388,3 +5388,4 @@ https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/|T
 https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/|A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight
 https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/|A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records
 https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/|Exclusive: Can You Trust That AI Agent? Baselayer Raises $35M To Help Companies Decide
+https://news.crunchbase.com/venture/qa-defense-tech-warning-ai-venture-espahbodi-generational/|As Software VCs Chase SpaceX Alumni, A Defense Tech Veteran Warns Of ‘Tourists And FOMO’

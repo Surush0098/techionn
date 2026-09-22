@@ -5391,3 +5391,4 @@ https://news.crunchbase.com/ai/verifying-ai-agents-baselayer-35m-raise/|Exclusiv
 https://news.crunchbase.com/venture/qa-defense-tech-warning-ai-venture-espahbodi-generational/|As Software VCs Chase SpaceX Alumni, A Defense Tech Veteran Warns Of ‘Tourists And FOMO’
 https://www.eu-startups.com/2026/09/helsinkis-verda-becomes-europes-latest-unicorn-after-raising-e164-8-million-to-scale-its-full-stack-ai-cloud/|Helsinki’s Verda becomes Europe’s latest unicorn after raising €164.8 million to scale its full-stack AI cloud
 https://www.eu-startups.com/2026/09/10-european-funding-vehicles-dedicated-to-woman-founders/|10 European funding vehicles dedicated to women founders
+https://yourstory.com/2026/09/phonepe-secures-approval-for-uae-operations|PhonePe secures in-principle approval for UAE operations

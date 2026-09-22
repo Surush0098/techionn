@@ -5383,3 +5383,4 @@ https://www.zoomit.ir/software-news/467635-vibefarsi-ui-persian-ai-components/|�
 https://www.zoomit.ir/ai-articles/467634-mimo-v2-6-open-source-release-reinforcement-learning-scaling/|شیائومی هوش مصنوعی متن‌باز MiMo-V2.6-Pro را معرفی کرد؛ رقیب قدرتمند و ارزان مدل‌های بسته
 https://www.zoomit.ir/ai-articles/467633-claude-opus-5-5-leak-details/|شواهد جدید از آماده‌سازی آنتروپیک برای رونمایی Claude Opus 5.5؛ رقیب جدید ChatGPT در راه است
 https://www.zoomit.ir/cryptocurrency/467632-binance-probed-by-doj-over-potential-iran-sanctions-violations/|بایننس زیر ذره‌بین وزارت دادگستری آمریکا؛ بزرگ‌ترین صرافی رمزارز جهان تحریم‌های ایران را نقض کرد؟
+https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/|Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again

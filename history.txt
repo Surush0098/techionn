@@ -5426,3 +5426,4 @@ https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-
 https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/|OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes
 https://www.zoomit.ir/robotics-smart-machines/467652-deep-robotics-pulse-firefighting-dog/|سگ رباتیک آتش‌نشان؛ دستیار هوشمند برای عملیات‌های پرخطر
 https://www.zoomit.ir/ai-articles/467642-xiaomi-mimo-v26-ai-release/|رتبه ششم در جهان؛ مدل هوش مصنوعی جدید شیائومی از GPT-5 هم جلوتر زد
+https://www.zoomit.ir/ai-articles/467709-openai-gpt-6-sol-luna-launch/|اوپن‌ای‌آی از GPT-6 Sol و Luna رونمایی کرد؛ دقت دوبرابر با نصف هزینه

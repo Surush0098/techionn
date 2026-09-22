@@ -5409,3 +5409,4 @@ https://www.zoomit.ir/health-medical/467547-car-t-therapy-child-liver-cancer/|پ
 https://www.zoomit.ir/iran-news/467668-ctf-event-blu-bank/|اولین دوره مسابقه bluCTF برگزار شد
 https://www.zoomit.ir/aviation-aerospace/467655-joby-aviation-autonomous-flight-us/|نخستین پرواز خودران یک هواپیما از غرب تا شرق آمریکا بدون دخالت خلبان انجام شد
 https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/|Anthropic releases Opus 5.5 with lower prices and Fable-level performance
+https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/|AstroForge is putting AI in command of its next spacecraft

@@ -5427,3 +5427,4 @@ https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/|OpenAI lau
 https://www.zoomit.ir/robotics-smart-machines/467652-deep-robotics-pulse-firefighting-dog/|سگ رباتیک آتش‌نشان؛ دستیار هوشمند برای عملیات‌های پرخطر
 https://www.zoomit.ir/ai-articles/467642-xiaomi-mimo-v26-ai-release/|رتبه ششم در جهان؛ مدل هوش مصنوعی جدید شیائومی از GPT-5 هم جلوتر زد
 https://www.zoomit.ir/ai-articles/467709-openai-gpt-6-sol-luna-launch/|اوپن‌ای‌آی از GPT-6 Sol و Luna رونمایی کرد؛ دقت دوبرابر با نصف هزینه
+https://www.zoomit.ir/aviation-aerospace/467646-joby-first-coast-to-coast-autonomous-flight/|لحظه‌ای تاریخی؛ یک هواپیمای خودران بدون دخالت انسان در سراسر آسمان آمریکا پرواز کرد

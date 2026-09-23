@@ -5445,3 +5445,4 @@ https://news.crunchbase.com/ma/emerging-map-ai-agentic-security-sagie/|The Emerg
 https://www.eu-startups.com/2026/09/eu-and-eib-launch-launch-institutional-investor-pact-to-tackle-europes-scale-up-funding-gap/|EU and EIB launch launch institutional investor pact to tackle Europe’s scale-up funding gap
 https://yourstory.com/2026/09/aginvest-2026-coimbatore-agritech-startups-investors-funding-india|AgInvest 2026 in Coimbatore puts farm economics at the centre of AgriTech investment
 https://yourstory.com/2026/09/defacto-india-launches-agheal-farmer-public-health|DeFacto's AgHeal wants to turn India’s farm economy into a public health story
+https://yourstory.com/2026/09/bhim-myupi-9-upi-services-ai-assistant|BHIM MyUPI brings 9 UPI services into one AI assistant

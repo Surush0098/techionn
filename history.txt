@@ -5482,3 +5482,4 @@ https://itiran.com/2026/09/24/digikala-404-report/|گزارش ۱۴۰۴ دیجی�
 https://www.zoomit.ir/economics/467831-digikala-1404-annual-performance-report/|گزارش سال ۱۴۰۴ دیجی‌کالا از جنگ، تورم و تغییر سبد خرید
 https://www.zoomit.ir/ai-articles/467825-google-ai-satellite-project-suncatcher-launch/|گوگل هفته آینده یک ماهواره هوش مصنوعی را به فضا پرتاب می‌کند
 https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/|Nexterity wants to automate the hard, dangerous part of pipefitting
+https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/|PrismML brings its tiny LLMs to Qualcomm-powered smart glasses

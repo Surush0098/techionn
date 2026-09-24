@@ -5485,3 +5485,4 @@ https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous
 https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/|PrismML brings its tiny LLMs to Qualcomm-powered smart glasses
 https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/|Meet Feather, the startup building the ‘Android of robotics’ for developers
 https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/|PrismML brings its tiny LLMs to Qualcomm-powered smart glasses
+https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/|I Think I Found an AI Agent Worth the Risk

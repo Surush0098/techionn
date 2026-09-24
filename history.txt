@@ -5487,3 +5487,4 @@ https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-
 https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/|PrismML brings its tiny LLMs to Qualcomm-powered smart glasses
 https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/|I Think I Found an AI Agent Worth the Risk
 https://www.zoomit.ir/cryptocurrency/467800-quantum-safe-bitcoin-cost-drop/|هزینه محافظت از بیت‌کوین در برابر کامپیوترهای کوانتومی، به‌شدت افت کرد
+https://www.zoomit.ir/ai-articles/467836-jensen-huang-ai-energy-climate-change-controversy/|مدیرعامل ارزشمندترین شرکت جهان: هوش مصنوعی برای نجات بشر باید درد و رنج به ما تحمیل کند

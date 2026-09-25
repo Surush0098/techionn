@@ -5520,3 +5520,4 @@ https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligence
 https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/|Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk
 https://news.crunchbase.com/venture/biggest-funding-rounds-cybersecurity-ai-health-island-cyera/|The Week’s 10 Biggest Funding Rounds: Cybersecurity, AI And Health Take The Lead
 https://www.eu-startups.com/2026/09/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-sept-21-sept-25/|Weekly funding round-up! All of the European startup funding rounds we tracked this week (Sept. 21 – Sept. 25)
+https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/|Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge

@@ -5508,3 +5508,4 @@ https://startup360.ir/softbank-225m-asi-autonomous-construction/|سافت‌با
 https://startup360.ir/meta-muse-ai-transaction-revenue-model/|زاکربرگ راه جدید متا برای درآمدزایی از هوش مصنوعی Muse را معرفی کرد
 https://www.zoomit.ir/ai-articles/467873-microsoft-copilot-super-app-launch/|سوپراپ هوشمند کوپایلت رونمایی شد؛ نرم‌افزار همه‌کاره مایکروسافت
 https://www.zoomit.ir/software-news/467814-youtube-unveils-new-ai-features/|یوتیوب در پاسخ به نگرانی‌ها: ابزارهای هوش مصنوعی جایگزین تولیدکنندگان محتوا نمی‌شوند
+https://www.zoomit.ir/ai-articles/467872-elon-musk-spacexai-colossus-2-gpu-expansion/|ایلان ماسک برای احداث بزرگ‌ترین خوشه سخت‌افزاری هوش مصنوعی در جهان خیز برداشت

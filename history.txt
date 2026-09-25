@@ -5512,3 +5512,4 @@ https://www.zoomit.ir/ai-articles/467872-elon-musk-spacexai-colossus-2-gpu-expan
 https://www.zoomit.ir/car/467813-volkswagen-airconsole-gaming-system/|تبدیل خودرو به کنسول بازی؛ ایده جذاب فولکس‌واگن برای گیمرها
 https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/|TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware
 https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/|Some Supabase customers are publicly exposing reams of people’s data to the web
+https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/|Astra and Opus just passed Turing’s other test

@@ -5516,3 +5516,4 @@ https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/
 https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/|Meta is putting its muscle behind Muse as the AI app takes off
 https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/|For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts
 https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/|Anthropic’s founders seek voting control ahead of IPO
+https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/|TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware

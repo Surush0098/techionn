@@ -5553,3 +5553,4 @@ https://www.zoomit.ir/iran-news/467937-milli-gold-settlement-delays-kargoshaee/|
 https://www.zoomit.ir/ai-articles/467936-openai-always-online-ai-agent-o/|عامل هوشمند همیشه‌آنلاین اوپن‌ای‌آی با نام «o» در راه است؛ رقیب جدید گراک‌بات
 https://www.zoomit.ir/ai-articles/467942-openai-pauses-frontier-ai-model-training/|توسعه پیشرفته‌ترین مدل‌های هوش مصنوعی اوپن‌ای‌آی تعلیق شد
 https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/|Insurers claim AI is already increasing healthcare costs
+https://www.zoomit.ir/business/467887-qualcomm-samsung-personal-ai-partner/|کوالکام: سامسونگ یکی از شرکای کلیدی ما در بازار هوش مصنوعی است

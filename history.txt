@@ -5523,3 +5523,4 @@ https://www.eu-startups.com/2026/09/weekly-funding-round-up-all-of-the-european-
 https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/|Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge
 https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/|Anthropic to pay Akamai $11.6 billion over seven years in cloud deal
 https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/|Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+https://yourstory.com/2026/09/connected-car-push-simulation-making-vehicles-safer-dspace|India’s connected car push: How simulation is preparing vehicles for real-world chaos

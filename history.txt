@@ -5552,3 +5552,4 @@ https://www.zoomit.ir/report/467753-digikala-annual-report-insights/|بازار�
 https://www.zoomit.ir/iran-news/467937-milli-gold-settlement-delays-kargoshaee/|توضیح میلی درباره تاخیر تسویه‌ها؛ درخواست پاسخ از بانک کارگشایی درباره طلای سپرده‌گذاری‌شده
 https://www.zoomit.ir/ai-articles/467936-openai-always-online-ai-agent-o/|عامل هوشمند همیشه‌آنلاین اوپن‌ای‌آی با نام «o» در راه است؛ رقیب جدید گراک‌بات
 https://www.zoomit.ir/ai-articles/467942-openai-pauses-frontier-ai-model-training/|توسعه پیشرفته‌ترین مدل‌های هوش مصنوعی اوپن‌ای‌آی تعلیق شد
+https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/|Insurers claim AI is already increasing healthcare costs

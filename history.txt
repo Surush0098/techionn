@@ -5546,3 +5546,4 @@ https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-mys
 https://startup360.ir/digikala-marketplace-10-years-ai-logistics/|دیجی‌کالا در ده‌سالگی بازارگاه از برنامه‌های هوش مصنوعی و لجستیکی خود رونمایی کرد
 https://startup360.ir/linkedin-60000-fake-job-listings-scams/|شکار ۶۰ هزار آگهی استخدام جعلی در لینکدین توسط یک کارجو
 https://startup360.ir/milli-965kg-gold-user-settlement-delay/|میلی: ۹۶۵ کیلوگرم طلای کاربران موجود است؛ تاخیر در تسویه به‌دلیل نبود طلا نیست
+https://startup360.ir/microsoft-copilot-super-app-home-code-autopilot/|مایکروسافت Copilot جدید را «سوپراپ» هوش مصنوعی می‌داند؛ چت، کدنویسی و ایجنت‌ها در یک برنامه

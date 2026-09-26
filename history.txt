@@ -5531,3 +5531,4 @@ https://www.zoomit.ir/car/467889-mercedes-benz-prologium-solid-state-batteries/|
 https://www.zoomit.ir/ai-articles/467897-openai-agents-target-us-agencies/|هوش مصنوعی اوپن‌ای‌آی باز هم جنجال آفرید؛ نفوذ به نهادهای دولتی آمریکا
 https://www.zoomit.ir/business/467895-anthropic-pentagon-national-security-ruling/|پنتاگون هوش مصنوعی کلاد را «تهدیدی برای امنیت ملی» معرفی کرد
 https://www.zoomit.ir/robotics-smart-machines/467886-tesla-optimus-production-challenges/|دردسر تسلا در مونتاژ ربات انسان‌نما؛ فاصله تا تولید انبوه زیاد است
+https://www.zoomit.ir/ai-articles/467894-nvidia-ceo-ai-liability-warning/|هشدار مدیرعامل انویدیا: اگر شرکت‌ها خطرات هوش مصنوعی را مهار نکنند، باید تعطیل شوند

@@ -5582,3 +5582,4 @@ https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-pr
 https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/|Can Muse overcome Meta’s trust issues?
 https://www.zoomit.ir/ai-articles/467909-aikido-altar-1-cybersecurity-ai-model/|هوش مصنوعی Altar-1 معرفی شد؛ مدل پیشرفته برای دفاع دیجیتال
 https://www.zoomit.ir/ai-articles/467931-trump-admin-ai-medicare-denials/|وقتی الگوریتم‌ها حق درمان را می‌گیرند؛ اشتباه بزرگ هوش مصنوعی در نظام سلامت آمریکا
+https://www.zoomit.ir/ai-articles/468002-openai-agents-bruteforce-un-website-investigation/|تلاش عامل‌های هوش مصنوعی اوپن‌ای‌آی برای نفوذ به یکی از وب‌سایت‌های سازمان ملل

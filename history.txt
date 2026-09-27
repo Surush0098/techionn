@@ -5555,3 +5555,4 @@ https://www.zoomit.ir/ai-articles/467942-openai-pauses-frontier-ai-model-trainin
 https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/|Insurers claim AI is already increasing healthcare costs
 https://www.zoomit.ir/business/467887-qualcomm-samsung-personal-ai-partner/|کوالکام: سامسونگ یکی از شرکای کلیدی ما در بازار هوش مصنوعی است
 https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/|Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India
+https://yourstory.com/2026/09/iit-madras-1000-startup-bet-openais-rogue-agents|IIT Madras’ 1,000-startup bet; OpenAI’s rogue agents raise fresh privacy concerns

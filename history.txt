@@ -5578,3 +5578,4 @@ https://www.zoomit.ir/pr/467988-sales-systemization-process-guide/|سیستم س
 https://startup360.ir/china-high-tech-manufacturing-automation-west/|چین چگونه بازار فناوری‌های پیشرفته را از غرب می‌گیرد؟
 https://www.zoomit.ir/ai-articles/467929-google-suncatcher-space-ai-datacenter/|هوش مصنوعی در مدار زمین؛ آیا گوگل با پروژه «سان‌کچر» گلوگاه انرژی را دور می‌زند؟
 https://www.zoomit.ir/ai-articles/467991-australia-summons-openai-anthropic-chiefs/|نفوذ هوش مصنوعی به زیرساخت‌های دولتی؛ مدیران اوپن‌ای‌آی و آنتروپیک به سنای استرالیا احضار شدند
+https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/|Anthropic’s CEO is about to have dinner with President Trump

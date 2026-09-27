@@ -5580,3 +5580,4 @@ https://www.zoomit.ir/ai-articles/467929-google-suncatcher-space-ai-datacenter/|
 https://www.zoomit.ir/ai-articles/467991-australia-summons-openai-anthropic-chiefs/|نفوذ هوش مصنوعی به زیرساخت‌های دولتی؛ مدیران اوپن‌ای‌آی و آنتروپیک به سنای استرالیا احضار شدند
 https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/|Anthropic’s CEO is about to have dinner with President Trump
 https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/|Can Muse overcome Meta’s trust issues?
+https://www.zoomit.ir/ai-articles/467909-aikido-altar-1-cybersecurity-ai-model/|هوش مصنوعی Altar-1 معرفی شد؛ مدل پیشرفته برای دفاع دیجیتال

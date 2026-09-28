@@ -5603,3 +5603,4 @@ https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-wh
 https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/|MAVI bets on the AI boom creating demand for a new kind of accountant
 https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/|Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026
 https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/|Nvidia launches new platform for reining in rogue AI agents
+https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/|Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner

@@ -5607,3 +5607,4 @@ https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a
 https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/|Google is killing off Gemini’s Gems in favor of ‘skills’
 https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/|OpenAI still doesn’t seem to have a handle on all of its rogue AI activity
 https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/|Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative
+https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/|Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026

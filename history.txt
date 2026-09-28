@@ -5609,3 +5609,4 @@ https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-a
 https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/|Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative
 https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/|Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026
 https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/|After a deepfake voice fooled her grandfather, this founder sprang into action
+https://www.eu-startups.com/2026/09/combat-tested-in-ukraine-dod-solution-raises-e1-8-million-to-scale-ai-autonomy-for-unmanned-systems/|Combat-tested in Ukraine, DOD Solution raises €1.8 million to scale AI autonomy for unmanned systems

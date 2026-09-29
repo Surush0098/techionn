@@ -5682,3 +5682,4 @@ https://www.zoomit.ir/ai-articles/468160-chatgpt-pro-500-dollar-subscription-gpt
 https://www.zoomit.ir/ai-articles/468156-openai-codex-reusable-cloud-environments-voice-cli-updates/|هوش مصنوعی کدنویس «کدکس» با چند قابلیت کاربردی متحول شد
 https://www.zoomit.ir/ai-articles/468155-openai-chatgpt-plugins-interactive-apps-automations/|تبدیل چت‌جی‌پی‌تی به سیستم‌عامل هوشمند با افزونه‌های تعاملی جدید!
 https://www.zoomit.ir/ai-articles/468154-openai-introduces-gpt-6-1-sol/|هوش مصنوعی GPT-6.1 Sol معرفی شد؛ قدرت پرچم‌دار با یک‌پنجم قیمت
+https://www.zoomit.ir/ai-articles/468153-openai-chatgpt-spaces-workspace-collaboration/|تحول بزرگ در همکاری تیمی؛ اوپن‌ای‌آی از ChatGPT Space رونمایی کرد

@@ -5636,3 +5636,4 @@ https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-seri
 https://yourstory.com/2026/09/sachin-tendulkar-bats-for-openai|Sachin Tendulkar bats for OpenAI; Tata Trusts eyes merger route to avoid Tata Sons listing
 https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/|Ex-Tesla team raises $12.5M to put supply chains on autopilot
 https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/|OpenAI Delays Release of Latest Model Over Safety Concerns
+https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/|Timnit Gebru Believes There Is No ‘Existential Threat’ From AI

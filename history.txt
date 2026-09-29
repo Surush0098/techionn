@@ -5675,3 +5675,4 @@ https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-a
 https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/|Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents
 https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/|OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite
 https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/|OpenAI Gets Sued Over the Hugging Face Hack
+https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/|Anthropic Says It Discovered a Crispr-Like System. Now What?

@@ -5678,3 +5678,4 @@ https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/|OpenAI Gets 
 https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/|Anthropic Says It Discovered a Crispr-Like System. Now What?
 https://news.crunchbase.com/public/oura-pauses-ipo-anthropics-ai-openai/|Oura Hits Pause On IPO While Anthropic’s Prospectus Reveals The Cost Of Its AI Ambitions
 https://ecomotive.ir/1405/07/08/%d8%af%d8%b3%d8%aa%d9%88%d8%b1-%d8%a2%d8%b2%d8%a7%d8%af%d8%b3%d8%a7%d8%b2%db%8c-%d8%b7%d9%84%d8%a7%d9%87%d8%a7%db%8c-%d9%85%db%8c%d9%84%db%8c-%d8%a7%d8%b2-%d8%a8%d8%a7%d9%86%da%a9-%da%a9%d8%a7%d8%b1/|دستور آزادسازی طلاهای میلی از بانک کارگشایی صادر شد
+https://www.zoomit.ir/ai-articles/468160-chatgpt-pro-500-dollar-subscription-gpt-6-astra/|نسخه جدید ChatGPT با سرعت پردازش ۸ برابری و قیمت باورنکردنی معرفی شد

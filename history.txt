@@ -5673,3 +5673,4 @@ https://www.zoomit.ir/ai-articles/468029-ai-boom-funding-gap-risks/|حباب ه�
 https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/|OpenAI’s latest features take direct aim at the app store model
 https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/|OpenAI repotedly in talks to raise $30B round at $1.4T valuation
 https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/|Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents
+https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/|OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite

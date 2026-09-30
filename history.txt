@@ -5719,3 +5719,4 @@ https://techcrunch.com/podcast/the-investor-behind-neko-healths-700m-bet-on-scan
 https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/|AI voice startup ElevenLabs doubles valuation to $22B
 https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/|OpenAI’s Jev clone could help the frontier lab stop its swarming agents
 https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/|AI voice startup ElevenLabs doubles valuation to $22B
+https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/|Reddit is killing RSS feeds and ending public API access because of AI bots

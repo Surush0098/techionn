@@ -5728,3 +5728,4 @@ https://techcabal.com/2026/09/30/ororo-waste-gets-1-million-from-rising-tide-afr
 https://www.zoomit.ir/economics/468167-openai-30-billion-funding-ipo-2027/|اوپن‌ای‌آی ۱٫۴ تریلیون دلاری می‌شود؟
 https://www.zoomit.ir/iran-news/468234-tether-night-trading-halted/|معاملات شبانه تتر در صرافی‌ها متوقف شد؛ خرید فقط تا ۲۰۰۰ تتر مجاز است
 https://www.zoomit.ir/ai-articles/468204-anthropic-glm-cyber-capabilities-featured/|چگونه گزارش هشداردهنده آنتروپیک درباره GLM، جذابیت مدل چینی را بیشتر کرد؟
+https://www.zoomit.ir/ai-articles/468230-google-vids-gemini-omni-ai-video-generation/|تولید ویدیو با هوش مصنوعی گوگل رایگان شد؛ حتی برای کاربران ایرانی

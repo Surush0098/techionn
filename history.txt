@@ -5683,3 +5683,4 @@ https://www.zoomit.ir/ai-articles/468156-openai-codex-reusable-cloud-environment
 https://www.zoomit.ir/ai-articles/468155-openai-chatgpt-plugins-interactive-apps-automations/|تبدیل چت‌جی‌پی‌تی به سیستم‌عامل هوشمند با افزونه‌های تعاملی جدید!
 https://www.zoomit.ir/ai-articles/468154-openai-introduces-gpt-6-1-sol/|هوش مصنوعی GPT-6.1 Sol معرفی شد؛ قدرت پرچم‌دار با یک‌پنجم قیمت
 https://www.zoomit.ir/ai-articles/468153-openai-chatgpt-spaces-workspace-collaboration/|تحول بزرگ در همکاری تیمی؛ اوپن‌ای‌آی از ChatGPT Space رونمایی کرد
+https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/|a16z-backed EliseAI raises $350M, doubles valuation to $4B

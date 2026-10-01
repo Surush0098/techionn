@@ -5738,3 +5738,4 @@ https://yourstory.com/2026/10/seeds-fincap-rs-100-cr-series-b-round-michael-susa
 https://www.zoomit.ir/internet-network/468247-att-corning-fiber-deal/|امضای قرارداد ۳ میلیارد دلاری؛ غول مخابراتی آمریکا ۶۰ میلیون نفر را به فیبر نوری متصل می‌کند
 https://www.zoomit.ir/security/468248-github-leaked-credentials-still-active/|بسیاری از رمزهای عبور لورفته در گیت‌هاب، هنوز هم کار می‌کنند!
 https://www.zoomit.ir/ai-articles/468246-grokipedia-v03-redesign-spacexai/|تغییر چهره رقیب هوشمند ویکی‌پدیا؛ گراکی‌پدیا بازطراحی شد
+https://www.zoomit.ir/ai-articles/468240-google-gemini-4-argon-announcement/|هوش مصنوعی Gemini 4 Argon گوگل معرفی شد؛ آغازگر عصر جدید هوش پیشرفته

@@ -5763,3 +5763,4 @@ https://www.zoomit.ir/ai-articles/468188-ai-skills-based-hiring-shift/|وقتی 
 https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/|Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground
 https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/|OpenAI cuts ties with 3 safety researchers, WSJ reports
 https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/|Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)
+https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/|Amazon releases its own Jev clone as decision models flood the web

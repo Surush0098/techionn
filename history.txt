@@ -5765,3 +5765,4 @@ https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers
 https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/|Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)
 https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/|Amazon releases its own Jev clone as decision models flood the web
 https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/|Shopify debuts Canvas, a way to build online stores by chatting with AI
+https://www.zoomit.ir/ai-articles/468293-microsoft-mai-transcribe-2-streaming-speech-to-text-launch/|مایکروسافت با مدل صوتی جدید رکورد سرعت و دقت هوش مصنوعی را شکست

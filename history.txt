@@ -5759,3 +5759,4 @@ https://techcabal.com/2026/10/01/lunos-plan-for-crypto-as-a-service/|Luno built 
 https://startup360.ir/zuckerberg-trump-ai-accord-microsoft-amazon/|زاکربرگ معمار توافق هوش مصنوعی ترامپ شد؛ مایکروسافت و آمازون امضا نکردند
 https://itiran.com/2026/10/01/kooreh-karkhoone/|«کوره پاییز کارخونه» ؛ فراخوان کارخانه هوش مصنوعی ایران برای ساخت استارتاپ‌های مبتنی بر هوش مصنوعی
 https://www.zoomit.ir/business/468195-amd-lisa-su-samsung-deal/|سامسونگ و ای‌ام‌دی در آستانه قراردادی جدید هستند؟
+https://www.zoomit.ir/ai-articles/468188-ai-skills-based-hiring-shift/|وقتی هوش مصنوعی فرآیند استخدام را از کار می‌اندازد؛ پایان عصر رزومه‌های سنتی؟

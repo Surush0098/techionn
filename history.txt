@@ -5731,3 +5731,4 @@ https://www.zoomit.ir/ai-articles/468204-anthropic-glm-cyber-capabilities-featur
 https://www.zoomit.ir/ai-articles/468230-google-vids-gemini-omni-ai-video-generation/|تولید ویدیو با هوش مصنوعی گوگل رایگان شد؛ حتی برای کاربران ایرانی
 https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/|Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation
 https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/|Google releases Gemini 4 Argon, called its most powerful model yet
+https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/|Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation

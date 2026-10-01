@@ -5766,3 +5766,4 @@ https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-ot
 https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/|Amazon releases its own Jev clone as decision models flood the web
 https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/|Shopify debuts Canvas, a way to build online stores by chatting with AI
 https://www.zoomit.ir/ai-articles/468293-microsoft-mai-transcribe-2-streaming-speech-to-text-launch/|مایکروسافت با مدل صوتی جدید رکورد سرعت و دقت هوش مصنوعی را شکست
+https://www.zoomit.ir/ai-articles/468286-ai-stubbornness-and-belief-inertia-featured/|چت‌بات‌های لجباز؛ چرا هوش مصنوعی عذرخواهی می‌کند، اما از اشتباهش دست نمی‌کشد؟

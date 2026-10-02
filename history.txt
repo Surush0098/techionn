@@ -5793,3 +5793,4 @@ https://www.zoomit.ir/ai-articles/468345-amazon-ai-data-center-warning/|آماز
 https://www.zoomit.ir/ai-articles/468339-openai-fires-safety-researchers-data-leak/|خالق ChatGPT پس از درز اطلاعات حساس، سه پژوهشگر ارشد خود را اخراج کرد
 https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/|Circuit Breaker Labs hopes to make AI safer for your kids (and you)
 https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/|Circuit Breaker Labs hopes to make AI safer for your kids (and you)
+https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct/|The Week’s 10 Biggest Funding Rounds: Almost All About AI

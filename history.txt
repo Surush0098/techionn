@@ -5791,3 +5791,4 @@ https://startup360.ir/4-to-9-mehr-1405-startups-news-summary/|خلاصه اخب�
 https://www.zoomit.ir/ai-articles/468346-pewdiepie-unveils-ajax-ai-model/|یوتیوبر معروف از مدل هوش مصنوعی بدون سانسور Ajax رونمایی کرد
 https://www.zoomit.ir/ai-articles/468345-amazon-ai-data-center-warning/|آمازون ساخت دیتاسنترهای هوش مصنوعی را یک مسئله امنیت ملی خواند
 https://www.zoomit.ir/ai-articles/468339-openai-fires-safety-researchers-data-leak/|خالق ChatGPT پس از درز اطلاعات حساس، سه پژوهشگر ارشد خود را اخراج کرد
+https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/|Circuit Breaker Labs hopes to make AI safer for your kids (and you)

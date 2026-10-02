@@ -5768,3 +5768,4 @@ https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-st
 https://www.zoomit.ir/ai-articles/468293-microsoft-mai-transcribe-2-streaming-speech-to-text-launch/|مایکروسافت با مدل صوتی جدید رکورد سرعت و دقت هوش مصنوعی را شکست
 https://www.zoomit.ir/ai-articles/468286-ai-stubbornness-and-belief-inertia-featured/|چت‌بات‌های لجباز؛ چرا هوش مصنوعی عذرخواهی می‌کند، اما از اشتباهش دست نمی‌کشد؟
 https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/|The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know
+https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/|Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation

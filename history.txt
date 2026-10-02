@@ -5789,3 +5789,4 @@ https://techcabal.com/2026/10/02/yoco-class-of-2016/|Yoco started with card mach
 https://techcabal.com/2026/10/02/dangote-ipo-nigerian-startup-exits/|Dangote is testing the market Nigerian startups need to exit
 https://startup360.ir/4-to-9-mehr-1405-startups-news-summary/|خلاصه اخبار: این هفته در اکوسیستم استارتاپی چه گذشت؟ (۴ تا ۹ مهر ۱۴۰۵)
 https://www.zoomit.ir/ai-articles/468346-pewdiepie-unveils-ajax-ai-model/|یوتیوبر معروف از مدل هوش مصنوعی بدون سانسور Ajax رونمایی کرد
+https://www.zoomit.ir/ai-articles/468345-amazon-ai-data-center-warning/|آمازون ساخت دیتاسنترهای هوش مصنوعی را یک مسئله امنیت ملی خواند

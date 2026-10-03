@@ -5823,3 +5823,4 @@ https://startup360.ir/blu-deep-dive-bug-bounty-cybersecurity-event/|دومین �
 https://startup360.ir/online-gold-platform-monitoring-system-iran/|اتحادیه کسب‌وکارهای مجازی: پلتفرم‌های فروش آنلاین طلا به سامانه نظارتی متصل می‌شوند
 https://startup360.ir/snappmarket-franchise-local-supermarkets/|اسنپ‌مارکت به سوپرمارکت‌های کوچک و متوسط نمایندگی می‌دهد
 https://www.zoomit.ir/ai-articles/468418-alexandr-wang-muse-meta-featured/|میلیاردرِ میم‌باز؛ داستان مردی که با یک اپلیکیشن، متا را به صدر جدول هوش مصنوعی بازگرداند
+https://www.zoomit.ir/software-news/468404-best-open-source-vs-code-alternatives/|بهترین جایگزین‌های VS Code؛ ۴ ویرایشگر متن‌باز برای برنامه‌نویسی

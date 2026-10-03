@@ -5819,3 +5819,4 @@ https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-com
 https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/|OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
 https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/|All the AI agents that can live in your text messages
 https://yourstory.com/2026/10/karnataka-korean-investment-technology-partnerships|From K-pop to AI, Karnataka seeks deeper ties with Korea
+https://startup360.ir/blu-deep-dive-bug-bounty-cybersecurity-event/|دومین رویداد باگ‌بانتی بلو برای ارزیابی و ارتقای امنیت زیرساخت برگزار شد

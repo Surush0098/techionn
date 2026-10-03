@@ -5826,3 +5826,4 @@ https://www.zoomit.ir/ai-articles/468418-alexandr-wang-muse-meta-featured/|می�
 https://www.zoomit.ir/software-news/468404-best-open-source-vs-code-alternatives/|بهترین جایگزین‌های VS Code؛ ۴ ویرایشگر متن‌باز برای برنامه‌نویسی
 https://www.zoomit.ir/iran-news/468422-daric-gold-reserve-balance-report/|«ترازوی داریک» منتشر شد؛ ۱۹۸ کیلوگرم طلای کاربران در داریک، ۲۰۰ کیلوگرم در انبار
 https://www.zoomit.ir/ai-articles/468421-openai-safety-researcher-resigns-broken-culture/|کارمند ایمنی اوپن‌ای‌آی استعفا داد: «هوش مصنوعی را مثل نیروگاه‌های هسته‌ای قانون‌مند کنید»
+https://www.zoomit.ir/internet-network/468420-google-guidelines-penalize-fake-ai-bylines-headshots/|گوگل سایت‌های فریب‌کار با نویسندگان غیرواقعی را جریمه می‌کند

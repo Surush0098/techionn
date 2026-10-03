@@ -5800,3 +5800,4 @@ https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/|
 https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/|Sean Parker is rebuilding Stability AI around music
 https://www.zoomit.ir/car/468310-california-robotaxi-fines-emergency-law/|جریمه سنگین تاکسی‌های خودران برای سد معبر خودروهای امدادی
 https://www.zoomit.ir/security/468366-apple-macos-full-disk-access-ai-agents/|اپل از حالا با خطرات احتمالی عامل‌های هوش مصنوعی در مک مقابله می‌کند
+https://www.zoomit.ir/cryptocurrency/468317-core-lightning-node-vulnerability-warning/|هشدار فوری به کاربران بیت‌کوین؛ خطر بیخ گوش نودهای شبکه لایتنینگ است

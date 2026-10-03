@@ -5797,3 +5797,4 @@ https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-
 https://www.zoomit.ir/memory/468283-micron-projects-ram-shortages-through-2028/|مایکرون پیش‌بینی کرد که بحران رم تا سال ۲۰۲۸ ادامه پیدا کند
 https://www.zoomit.ir/gaming/468282-gacha-games-pc-growth-report/|محبوبیت انفجاری «گاچا» باعث رشد چشمگیر صنعت بازی‌های پی‌سی شد
 https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/|Meta wants you to build your own Muse gadget
+https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/|Sean Parker is rebuilding Stability AI around music

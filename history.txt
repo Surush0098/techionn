@@ -5801,3 +5801,4 @@ https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-
 https://www.zoomit.ir/car/468310-california-robotaxi-fines-emergency-law/|جریمه سنگین تاکسی‌های خودران برای سد معبر خودروهای امدادی
 https://www.zoomit.ir/security/468366-apple-macos-full-disk-access-ai-agents/|اپل از حالا با خطرات احتمالی عامل‌های هوش مصنوعی در مک مقابله می‌کند
 https://www.zoomit.ir/cryptocurrency/468317-core-lightning-node-vulnerability-warning/|هشدار فوری به کاربران بیت‌کوین؛ خطر بیخ گوش نودهای شبکه لایتنینگ است
+https://www.zoomit.ir/cryptocurrency/468364-near-intents-hacker-returns-millions/|هکر «نیر» عذرخواهی کرد و ۳٫۸ میلیون دلار سرقت‌شده را برگرداند!

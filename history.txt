@@ -5854,3 +5854,4 @@ https://www.zoomit.ir/business/468489-qatar-startup-investment-program-funding-e
 https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/|Lola Vision Systems is trying to make it easier to run AI models on chips
 https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/|Researchers are tracking a Chinese AI ‘agent fleet’
 https://www.eu-startups.com/2026/10/fashiontech-startup-rodinia-generation-aims-to-save-100-billion-litres-of-water-annually-secures-e4-million/|FashionTech startup Rodinia Generation aims to save 100 billion litres of water annually, secures €4 million
+https://www.eu-startups.com/2026/10/namespace-secures-e37-million-to-scale-coding-build-and-test-infrastructure-across-mac-windows-and-linux/|Namespace secures €37 million to scale coding, build and test infrastructure across Mac, Windows and Linux

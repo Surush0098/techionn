@@ -5852,3 +5852,4 @@ https://www.zoomit.ir/iran-news/468502-milli-gold-withdrawal-settlement-report/|
 https://www.zoomit.ir/iran-news/468496-digital-banking-product-strategy-experience-blubank/|بانکداری دیجیتال؛ جایی که محصول خوب حرف اول را می‌زند
 https://www.zoomit.ir/business/468489-qatar-startup-investment-program-funding-expansion/|بسته حمایتی ۵٫۵ میلیون دلاری قطر برای جذب استارتاپ‌ها
 https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/|Lola Vision Systems is trying to make it easier to run AI models on chips
+https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/|Researchers are tracking a Chinese AI ‘agent fleet’

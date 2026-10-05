@@ -5877,3 +5877,4 @@ https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-i
 https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/|Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost
 https://www.zoomit.ir/aviation-aerospace/468551-lack-of-rockets-creating-crisis-for-space-companies/|بحران کمبود موشک؛ دسترسی به فضا دیگر مثل گذشته راحت نیست
 https://www.zoomit.ir/ai-articles/468452-ai-code-humans-cannot-understand/|وقتی هوش مصنوعی به زبان خود می‌نویسد؛ پایان عصر برنامه‌نویسان انسانی؟
+https://www.zoomit.ir/health-medical/468541-urolithin-a-heart-failure-treatment/|ترکیبی که بدن پس از خوردن انار می‌سازد، شاید به درمان نارسایی قلبی کمک کند

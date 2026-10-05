@@ -5844,3 +5844,4 @@ https://ecomotive.ir/1405/07/12/%d8%aa%d8%b3%d9%88%db%8c%d9%87-%db%b6-%d9%87%d8%
 https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/|Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions
 https://www.eu-startups.com/2026/10/french-cybersecurity-startup-fleuret-ai-raises-e4-million-to-automate-penetration-testing-with-ai-agents/|French cybersecurity startup Fleuret AI raises €4 million to automate penetration testing with AI agents
 https://www.eu-startups.com/2026/10/copenhagens-pandektes-raises-e13-5-million-to-build-the-data-infrastructure-for-ai-powered-legal-research/|Copenhagen’s Pandektes raises €13.5 million to build the data infrastructure for AI-powered legal research
+https://yourstory.com/2026/10/finance-teams-need-think-in-systems|Why finance teams need to think in systems

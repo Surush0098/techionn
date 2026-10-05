@@ -5851,3 +5851,4 @@ https://techcabal.com/2026/10/05/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-d
 https://www.zoomit.ir/iran-news/468502-milli-gold-withdrawal-settlement-report/|آخرین وضعیت تسویه کاربران در «میلی»: ۶ هزار و ۵۸۸ میلیارد تومان پرداخت شد؛ ۱۶۷ هزار درخواست در صف پرداخت
 https://www.zoomit.ir/iran-news/468496-digital-banking-product-strategy-experience-blubank/|بانکداری دیجیتال؛ جایی که محصول خوب حرف اول را می‌زند
 https://www.zoomit.ir/business/468489-qatar-startup-investment-program-funding-expansion/|بسته حمایتی ۵٫۵ میلیون دلاری قطر برای جذب استارتاپ‌ها
+https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/|Lola Vision Systems is trying to make it easier to run AI models on chips

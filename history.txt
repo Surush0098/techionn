@@ -5874,3 +5874,4 @@ https://www.zoomit.ir/health-medical/468537-2026-nobel-prize-in-physiology-or-me
 https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/|Etched fields funding offers at $40B+ valuation, sources say
 https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/|After Factory’s public spat with Khosla, Menlo proudly invests
 https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/|OpenAI will start watermarking ChatGPT’s text in the EU
+https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/|Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost

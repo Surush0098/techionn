@@ -5845,3 +5845,4 @@ https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-progra
 https://www.eu-startups.com/2026/10/french-cybersecurity-startup-fleuret-ai-raises-e4-million-to-automate-penetration-testing-with-ai-agents/|French cybersecurity startup Fleuret AI raises €4 million to automate penetration testing with AI agents
 https://www.eu-startups.com/2026/10/copenhagens-pandektes-raises-e13-5-million-to-build-the-data-infrastructure-for-ai-powered-legal-research/|Copenhagen’s Pandektes raises €13.5 million to build the data infrastructure for AI-powered legal research
 https://yourstory.com/2026/10/finance-teams-need-think-in-systems|Why finance teams need to think in systems
+https://yourstory.com/2026/10/bhavish-aggarwal-pledges-stake-back-ola-electrics-rs-1000-cr-rights-issue|Bhavish Aggarwal pledges 4.32% stake to back Ola Electric’s Rs 1,000 Cr rights issue

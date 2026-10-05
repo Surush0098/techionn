@@ -5870,3 +5870,4 @@ https://www.zoomit.ir/ai-articles/468454-nvidia-open-agent-safety-platform/|ان
 https://www.zoomit.ir/report/468529-okala-1404-annual-report-shopping-trends/|از رشد ۲۴۵ درصدی قیمت روغن تا فروش ۹۱ هزار آب معدنی در یک روز جنگی؛ گزارش سال ۱۴۰۴ اُکالا از تغییر الگوی خرید ایرانی‌ها زیر سایه جنگ و تورم
 https://www.zoomit.ir/ai-articles/468539-chinese-hackers-impersonate-anthropic-staff-ai-espionage/|هکرهای چینی سراغ جعل هویت کارکنان آنتروپیک و کاخ سفید رفتند؛ ادعای منابع آگاه
 https://www.zoomit.ir/ai-articles/468538-openai-tests-visual-ads-in-chatgpt/|تبلیغات تصویری به ChatGPT می‌آیند
+https://www.zoomit.ir/health-medical/468537-2026-nobel-prize-in-physiology-or-medicine/|جایزه نوبل پزشکی ۲۰۲۶ به سازندگان فناوری کنترل سلول‌ها با نور اهدا شد

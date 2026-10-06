@@ -5902,3 +5902,4 @@ https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wa
 https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/|Mirror Particle is building a ‘world model’ of human behavior
 https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/|Anthropic is giving startups a free year of Claude Team and $1,000 in credits
 https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/|Mistral’s new 1T model aims to leapfrog closed and open rivals
+https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/|OpenAI Is Pissing Off a Bunch of Mathematicians—Again

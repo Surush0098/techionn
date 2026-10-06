@@ -5926,3 +5926,4 @@ https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites
 https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/|Hark releases an AI personal assistant with a focus on privacy
 https://techcabal.com/2026/10/06/glovo-nigeria-names-new-country-md/|Glovo names Reni Onafeko as new Nigeria country managing director
 https://www.zoomit.ir/ai-articles/468619-google-announces-embedding-gemma-2-multimodal-model/|گوگل از EmbeddingGemma 2 رونمایی کرد؛ تحول در هوش مصنوعی چندوجهی آفلاین
+https://www.zoomit.ir/health-medical/468477-candida-auris-pan-drug-resistance-case/|برای دومین بار در دنیا، سویه‌ای قارچ بیمارستانی در برابر تمام داروها مقاوم شده است

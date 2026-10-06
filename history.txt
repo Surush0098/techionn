@@ -5923,3 +5923,4 @@ https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-
 https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/|How AI decision models could change content moderation
 https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/|AI computing startup Lambda to raise $4B ahead of planned IPO
 https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/|The next hurdle for AI agents: getting websites to let them in
+https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/|Hark releases an AI personal assistant with a focus on privacy

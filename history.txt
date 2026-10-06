@@ -5894,3 +5894,4 @@ https://www.zoomit.ir/ai-articles/468588-deepseek-4-1-flash-coding-agent/|دیپ
 https://www.zoomit.ir/pr/468583-marketing-tools-integration-ai-media/|از تولید متن تا انتشار؛ حلقه گمشده ابزارهای بازاریابی
 https://www.zoomit.ir/tech-iran/468582-shasta-raytel-100-percent-sale-auction/|رایتل به مزایده گذاشته شد؛ قیمت پایه: ۱۳۰ هزار میلیارد تومان
 https://www.zoomit.ir/economics/468576-nvidia-6-trillion-market-cap/|انویدیا در آستانه تبدیل‌شدن به اولین شرکت ۶ تریلیون دلاری جهان است
+https://www.zoomit.ir/tech-iran/468571-irnic-visual-identity-verification-mandatory/|محدودیت جدید برای ثبت دامنه: احراز هویت تصویری الزامی شد

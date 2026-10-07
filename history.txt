@@ -5946,3 +5946,4 @@ https://www.zoomit.ir/ai-articles/468626-openai-math-breakthroughs-github/|خا�
 https://www.zoomit.ir/tech-iran/468631-darik-connects-to-cbi-monitoring-system/|داریک به سامانه ناظر بانک مرکزی متصل شد
 https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/|Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation
 https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/|Google experiments with an AI-powered gaming platform
+https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/|Google’s new SynthID website can identify AI-generated media

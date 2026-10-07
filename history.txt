@@ -5951,3 +5951,4 @@ https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-sai
 https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-startup-hilt-cielen/|From Ballet To Breach Prevention: How A Magician’s Son Raised $4.2M In Seed Funding For His Cybersecurity Startup
 https://news.crunchbase.com/venture/ai-startup-investors-raising-bar-ipo-farid-leo/|There Was Never An Easy AI Era, And Investors Are Raising The Bar
 https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data/|North America’s Startup Funding Falls In Q3 As AI Giants Eye The Public Markets
+https://www.eu-startups.com/2026/10/frances-rivercell-emerges-from-stealth-with-e22-million-for-ai-powered-drug-discovery-infrastructure/|France’s Rivercell emerges from stealth with €22 million for AI-powered drug discovery infrastructure

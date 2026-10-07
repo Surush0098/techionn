@@ -5942,3 +5942,4 @@ https://www.zoomit.ir/iran-news/468637-banking-core-systems-monopoly-risk/|هش�
 https://www.zoomit.ir/report/468534-yektanet-digital-marketing-report-1404/|گزارش یکتانت: اختلال اینترنت باعث افت ۴۰ درصدی فروشگاه‌های اینستاگرامی و کاهش بازدید وب فارسی شد
 https://www.zoomit.ir/iran-news/468648-melligold-withdrawal-and-delivery-report/|داده‌های ۱۵روزه تسویه و تحویل ملّی‌گلد: ۱۲۶ هزار درخواست برداشت ۶ ساعته تسویه شد
 https://www.zoomit.ir/business/468632-samsung-q3-operating-profit-surge/|پیش‌بینی جهش ۹ برابری سود سامسونگ؛ هوش مصنوعی موتور محرک جدید غول کره‌ای
+https://www.zoomit.ir/ai-articles/468626-openai-math-breakthroughs-github/|خالق ChatGPT راهکار حل صدها مسئله ریاضی را منتشر کرد؛ جنجال دوباره هوش مصنوعی

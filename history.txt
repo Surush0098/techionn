@@ -5953,3 +5953,4 @@ https://news.crunchbase.com/venture/ai-startup-investors-raising-bar-ipo-farid-l
 https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data/|North America’s Startup Funding Falls In Q3 As AI Giants Eye The Public Markets
 https://www.eu-startups.com/2026/10/frances-rivercell-emerges-from-stealth-with-e22-million-for-ai-powered-drug-discovery-infrastructure/|France’s Rivercell emerges from stealth with €22 million for AI-powered drug discovery infrastructure
 https://www.eu-startups.com/2026/10/french-startup-voltr-secures-e22-million-to-scale-lithium-battery-remanufacturing-in-europe/|French startup VoltR secures €22 million to scale lithium battery remanufacturing in Europe
+https://yourstory.com/2026/10/rbi-removes-paytm-payments-bank-from-list-of-scheduled-banks|RBI removes Paytm Payments Bank from list of scheduled banks

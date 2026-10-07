@@ -5952,3 +5952,4 @@ https://news.crunchbase.com/cybersecurity/from-ballet-to-breach-prevention-ai-st
 https://news.crunchbase.com/venture/ai-startup-investors-raising-bar-ipo-farid-leo/|There Was Never An Easy AI Era, And Investors Are Raising The Bar
 https://news.crunchbase.com/venture/q3-2026-north-america-startup-funding-falls-ai-exits-data/|North America’s Startup Funding Falls In Q3 As AI Giants Eye The Public Markets
 https://www.eu-startups.com/2026/10/frances-rivercell-emerges-from-stealth-with-e22-million-for-ai-powered-drug-discovery-infrastructure/|France’s Rivercell emerges from stealth with €22 million for AI-powered drug discovery infrastructure
+https://www.eu-startups.com/2026/10/french-startup-voltr-secures-e22-million-to-scale-lithium-battery-remanufacturing-in-europe/|French startup VoltR secures €22 million to scale lithium battery remanufacturing in Europe

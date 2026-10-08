@@ -5989,3 +5989,4 @@ https://www.zoomit.ir/ai-articles/468656-grok-4-7-launches-on-microsoft-foundry/
 https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/|A startup founder who served time in prison is looking to court an untapped market: ex-cons
 https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/|Cal AI’s 19-year-old founder just raised $10M for his new AI startup
 https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/|China’s Manus raises over $500M in first funding round since split with Meta
+https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/|Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost

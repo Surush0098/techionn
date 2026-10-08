@@ -5982,3 +5982,4 @@ https://www.zoomit.ir/ai-articles/468692-anthropic-launches-claude-haiku-5-5-pri
 https://www.zoomit.ir/ai-articles/468643-google-nuclear-energy-constellation-deal/|سرمایه‌گذاری سنگین گوگل روی انرژی هسته‌ای برای مهار اشتهای هوش مصنوعی
 https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/|Robot data startup Mecka AI nabs $60M from Sequoia
 https://www.eu-startups.com/2026/10/londons-immix-secures-e3-12-million-to-build-fx-infrastructure-for-stablecoin-payments-beyond-the-us-dollar/|London’s IMMIX secures €3.12 million to build FX infrastructure for stablecoin payments beyond the US dollar
+https://www.eu-startups.com/2026/10/copenhagens-today-raises-e2-8-million-to-bring-compliant-ai-agents-to-financial-and-insurance-advisors/|Copenhagen’s TODAY raises €2.8 million to bring compliant AI agents to financial and insurance advisors

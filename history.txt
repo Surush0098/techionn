@@ -6006,3 +6006,4 @@ https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk
 https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/|Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect
 https://www.zoomit.ir/cryptocurrency/468722-vitalik-buterin-ai-cryptography-threat/|هشدار خالق اتریوم درباره تهدید جدید هوش مصنوعی برای دارایی‌های دیجیتال
 https://www.zoomit.ir/ai-articles/468754-anthropic-claude-dashboards-motion-features/|آپدیت بزرگ کلاد از راه رسید؛ انیمیشن‌سازی و تحلیل عمیق داده‌ها با هوش مصنوعی
+https://www.zoomit.ir/ai-articles/468751-anthropic-bans-cruel-behavior-claude-ai-welfare/|پایان دوران تحقیر هوش مصنوعی؛ آنتروپیک بدرفتاری با کلاد را ممنوع کرد

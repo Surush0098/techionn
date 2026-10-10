@@ -6052,3 +6052,4 @@ https://www.zoomit.ir/iran-news/468877-iran-banks-local-ssl-certificate/|۱۶ ب
 https://www.zoomit.ir/economics/468841-openai-revenue-revised-fifty-billion/|درآمد سالانه اوپن‌ای‌آی ظاهرا ۲۰ میلیارد دلار کمتر از گزارش‌های اولیه بوده است
 https://www.zoomit.ir/pr/468874-ai-automation-guide-organizations/|اتوماسیون با هوش مصنوعی چیست؟ راهنمای انتخاب برای سازمان‌های ایرانی
 https://www.zoomit.ir/health-medical/468799-cbl-514-drug-destroys-fat-cells/|داروی آزمایشی جدید سلول‌های چربی را به‌جای کوچک‌کردن نابود می‌کند
+https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/|Petra Power looks to modernize energy for data centers and defense vehicles

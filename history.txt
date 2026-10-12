@@ -6087,3 +6087,4 @@ https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/|Muse 
 https://yourstory.com/2026/10/zocket-brain-ai-native-enterprise-marketing|The Zocket Story: Building Brand Brain, the context and orchestration layer for AI-native enterprise marketing
 https://techcabal.com/2026/10/12/african-ai-startups-vc-funding/|If AI prompts can build your product, will African VCs still invest?
 https://startup360.ir/snappmarket-blubank-supermarket-loans/|اسنپ‌مارکت و بلوبانک به سوپرمارکت‌ها تسهیلات مالی می‌دهند
+https://startup360.ir/yandex-data-centers-drone-attacks-russia/|سومین دیتاسنتر یاندکس در روسیه طی چهار روز هدف حمله پهپادی قرار گرفت

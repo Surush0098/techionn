@@ -6107,3 +6107,4 @@ https://yourstory.com/2026/10/tech30-enerzolve-power-converters-transformers-met
 https://yourstory.com/2026/10/tech30-kubo-care-mmwave-radar-senior-fall-detection-bengaluru|Kubo Care uses radar technology to keep elders safe at home
 https://yourstory.com/2026/10/tech30-folium-sensing-communication-fibre-long-range-sensor-ageing-infrastructure|How Folium Sensing uses fibre networks to monitor infrastructure
 https://yourstory.com/2026/10/tech30-caliperai-modular-robots-industrial-inspection|How CaliperAI is building modular robots for industrial inspection
+https://yourstory.com/2026/10/tech30-eon-space-labs-indigenous-optical-payloads-falcon-9|EON Space Labs is building India’s indigenous optical payloads after Falcon 9 Success

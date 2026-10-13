@@ -6105,3 +6105,4 @@ https://yourstory.com/2026/10/tech30-sanyark-space--low-earth-orbit-satellites-h
 https://yourstory.com/2026/10/tech30-teralumen-solutions-india-terahertz-industry|TeraLumen Solutions is building India’s terahertz industry from the ground up
 https://yourstory.com/2026/10/tech30-enerzolve-power-converters-transformers-meters-india-grid|Enerzolve is building power converters, transformers, and meters for India's grid
 https://yourstory.com/2026/10/tech30-kubo-care-mmwave-radar-senior-fall-detection-bengaluru|Kubo Care uses radar technology to keep elders safe at home
+https://yourstory.com/2026/10/tech30-folium-sensing-communication-fibre-long-range-sensor-ageing-infrastructure|How Folium Sensing uses fibre networks to monitor infrastructure

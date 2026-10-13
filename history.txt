@@ -6125,3 +6125,4 @@ https://www.zoomit.ir/ai-articles/469025-anthropic-warns-ai-self-replication-iot
 https://www.zoomit.ir/health-medical/466813-shared-biology-fatigue-illnesses/|از کووید مزمن تا ام‌اس؛ کشف ارتباط زیستی مشترک میان پنج بیماری ناتوان‌کننده
 https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/|The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between
 https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/|TechCrunch Disrupt 2026: Day 1
+https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/|Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites

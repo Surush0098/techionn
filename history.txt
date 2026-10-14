@@ -6191,3 +6191,4 @@ https://www.zoomit.ir/tech/469103-desktop-fusion-device-cambridge-heavy/|انق�
 https://www.zoomit.ir/gadget/469102-blind-veterans-ai-glasses-race/|عینک‌های هوشمندی که به چشم سربازان نابینا تبدیل شده‌اند
 https://www.zoomit.ir/gaming/469146-epic-games-launcher-vibe-coded-ai-linux/|قدرت‌نمایی هوش مصنوعی؛ لانچر اپیک گیمز با وایب‌کدینگ بازطراحی شد
 https://www.zoomit.ir/iran-news/469145-nobitex-second-proof-of-reserves/|دومین گواهی اثبات اندوخته نوبیتکس منتشر شد
+https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/|CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes

@@ -6187,3 +6187,4 @@ https://techcabal.com/2026/10/14/opay-1-28-lending-problem-nigeria/|OPay’s $1.
 https://www.zoomit.ir/business/469160-openai-accuses-former-employee-stealing-plans-apple/|پای «هوم‌ویو» به پرونده باز شد؛ اوپن‌ای‌آی: اپل از اسناد دزدیده‌شده ما برای ساخت این محصول استفاده کرده است
 https://www.zoomit.ir/report/469149-kashef-banking-security-certificates-browser/|مدیرعامل کاشف: راهکار مشکل گواهی‌های بانکی، ساخت مرورگر بومی نیست
 https://www.zoomit.ir/internet-network/469045-starlink-maritime-ocean-satellite-internet/|اینترنتی که حتی وسط اقیانوس هم کار می‌کند
+https://www.zoomit.ir/tech/469103-desktop-fusion-device-cambridge-heavy/|انقلاب در انرژی هسته‌ای؛ یک شرکت در حال ساخت دستگاه همجوشی هسته‌ای رومیزی است

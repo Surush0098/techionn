@@ -6148,3 +6148,4 @@ https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildl
 https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/|OpenAI and Anthropic Tell British Lawmakers: Regulate Us
 https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/|Science Corporation implants its vision-restoring chip in its first Stargardt disease patient
 https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/|Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home
+https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/|Industrial Next wants factory robots to switch tasks in minutes, not weeks

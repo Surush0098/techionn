@@ -6176,3 +6176,4 @@ https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scamme
 https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/|Mosqitter is turning its mosquito traps into an AI-powered surveillance network
 https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/|Prismm helps banks keep inherited money in-house
 https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/|Floqer’s AI agents research sales prospects so teams don’t have to
+https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/|Apate sends AI agents undercover to get scammed so they can gather fraud intelligence

@@ -6235,3 +6235,4 @@ https://www.zoomit.ir/report/469092-fanoos-visual-assistance-blind-users/|فان
 https://www.zoomit.ir/ai-articles/469133-ai-tools-helping-blind-people/|هوش مصنوعی چگونه به کمک افراد نابینا می‌آید؟ از تحلیل تصاویر تا پیدا کردن وسایل گم‌شده
 https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/|Meta launches an open-weight AI model that runs on Macs
 https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/|Anthropic is letting METR researchers look under the hood with employee-level access
+https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/|Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more

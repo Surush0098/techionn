@@ -6264,3 +6264,4 @@ https://techcabal.com/2026/10/16/roqqus-plan-to-tokenise-nigerian-stocks/|Inside
 https://www.zoomit.ir/security/469187-five-billion-active-passkeys-fido-report/|۵ میلیارد کلید عبور در جهان فعال است؛ آیا هنوز به رمز عبور نیاز داریم؟
 https://www.zoomit.ir/biology/469199-smallest-genome-archaeon-discovered/|کشف میکروبی با ژنوم تقریباً بی‌سابقه که تعریف حیات را به چالش می‌کشد
 https://www.zoomit.ir/linux/469260-torvalds-first-ai-assisted-linux-kernel-patch/|خالق لینوکس هم سراغ هوش مصنوعی رفت
+https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/|Replit is no longer working with Anthropic, CEO says

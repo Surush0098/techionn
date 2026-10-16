@@ -6262,3 +6262,4 @@ https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back
 https://techcabal.com/2026/10/16/paystack-six-years-after-stripe/|Six years after Stripe, Paystack is learning to keep money
 https://techcabal.com/2026/10/16/roqqus-plan-to-tokenise-nigerian-stocks/|Inside Roqqu’s plan to tokenise Nigeria’s stock market
 https://www.zoomit.ir/security/469187-five-billion-active-passkeys-fido-report/|۵ میلیارد کلید عبور در جهان فعال است؛ آیا هنوز به رمز عبور نیاز داریم؟
+https://www.zoomit.ir/biology/469199-smallest-genome-archaeon-discovered/|کشف میکروبی با ژنوم تقریباً بی‌سابقه که تعریف حیات را به چالش می‌کشد

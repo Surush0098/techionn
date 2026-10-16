@@ -6257,3 +6257,4 @@ https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rog
 https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/|An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet
 https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/|Physical AI is more than robots, says the Nvidia veteran now investing in it
 https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/|Elorian’s first AI model wants to reason with images, not just about them
+https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/|Jev is Vercel’s fastest-adopted AI model ever

@@ -6255,3 +6255,4 @@ https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-i
 https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/|Tressfecta wants to make hair braiding a less arduous task for hairstylists
 https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/|India becomes the latest country to report rogue AI agent activity
 https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/|An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet
+https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/|Physical AI is more than robots, says the Nvidia veteran now investing in it

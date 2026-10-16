@@ -6265,3 +6265,4 @@ https://www.zoomit.ir/security/469187-five-billion-active-passkeys-fido-report/|
 https://www.zoomit.ir/biology/469199-smallest-genome-archaeon-discovered/|کشف میکروبی با ژنوم تقریباً بی‌سابقه که تعریف حیات را به چالش می‌کشد
 https://www.zoomit.ir/linux/469260-torvalds-first-ai-assisted-linux-kernel-patch/|خالق لینوکس هم سراغ هوش مصنوعی رفت
 https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/|Replit is no longer working with Anthropic, CEO says
+https://www.zoomit.ir/space/469264-most-megaconstellation-satellites-are-way-brighter/|اغلب ماهواره‌های منظومه‌های اینترنتی درخشان‌تر از حد مجاز هستند

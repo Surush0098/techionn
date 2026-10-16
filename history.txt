@@ -6259,3 +6259,4 @@ https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-v
 https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/|Elorian’s first AI model wants to reason with images, not just about them
 https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/|Jev is Vercel’s fastest-adopted AI model ever
 https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/|The Week’s 10 Biggest Funding Rounds: Spending Contracts For Latest AI-Driven Startup Batch
+https://techcabal.com/2026/10/16/paystack-six-years-after-stripe/|Six years after Stripe, Paystack is learning to keep money

@@ -6242,3 +6242,4 @@ https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleani
 https://www.zoomit.ir/cryptocurrency/469212-russia-bans-crypto-transfers-non-custodial-wallets/|روسیه انتقال رمزارز به کیف پول شخصی را ممنوع کرد
 https://www.zoomit.ir/ai-articles/469214-meta-apple-muse-spark-open-mac-studio-mlx/|متا و اپل برای اجرای Muse Spark Open روی مک وارد همکاری شدند
 https://www.zoomit.ir/ai-articles/469215-meta-muse-spark-open-weights-mac-studio/|«میوس اسپارک اوپن» رونمایی شد؛ هوش مصنوعی بسیار قدرتمندی که روی کامپیوتر شخصی اجرا می‌شود
+https://www.eu-startups.com/2026/10/dublin-based-learnupon-secures-e44-5-million-to-scale-its-agentic-learning-platform/|Dublin-based LearnUpon secures €44.5 million to scale its agentic learning platform

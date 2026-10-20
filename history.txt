@@ -6332,3 +6332,4 @@ https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-resear
 https://www.eu-startups.com/2026/10/container-for-biological-material-helps-cellbox-raise-a-e5-million-series-a/|Transport for biological material helps Cellbox raise a €5 million Series A
 https://startup360.ir/astrazeneca-oracle-ai-drug-trials/|آسترازنکا و اوراکل برای تسریع آزمایش‌های دارویی با هوش مصنوعی، همکاری می‌کنند
 https://startup360.ir/flipkart-india-food-delivery-zomato-swiggy/|فلیپ‌کارت به رقابت با غول‌های سفارش آنلاین غذا در هند می‌رود
+https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/|Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate

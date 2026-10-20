@@ -6305,3 +6305,4 @@ https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solutio
 https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/|Eka is worth $1.45B thanks to a physical AI model that has experts raving
 https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/|Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool
 https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/|How To Build A Billion-Dollar Company Without Venture Capital
+https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/|Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer

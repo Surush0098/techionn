@@ -6308,3 +6308,4 @@ https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-sta
 https://news.crunchbase.com/venture/q3-2026-fintech-startup-funding-deal-count-fell-ai/|Fintech Funding Fell 21% In Q3 As Deals Grew Scarcer
 https://www.eu-startups.com/2026/10/eif-commits-e20-million-to-swedish-vc-backingminds-to-support-underrepresented-entrepreneurs/|EIF commits €20 million to Swedish VC BackingMinds to support underrepresented entrepreneurs
 https://www.eu-startups.com/2026/10/opinion-europe-needs-more-than-just-successful-exits/|OPINION: Europe needs more than just successful exits
+https://www.eu-startups.com/2026/10/germanys-neura-robotics-shows-no-signs-of-slowing-down-as-it-teams-up-with-austrias-nxai-for-physical-ai/|Germany’s NEURA Robotics shows no signs of slowing down as it teams up with Austria’s NXAI for physical AI

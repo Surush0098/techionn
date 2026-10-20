@@ -6301,3 +6301,4 @@ https://www.eu-startups.com/2026/10/amsterdams-huppa-raises-e1-million-to-build-
 https://yourstory.com/2026/10/the-pant-project-bags-rs-109-cr-to-accelerate-retail-expansion|The Pant Project bags Rs 109 Cr to accelerate retail expansion
 https://techcabal.com/2026/10/19/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-a-bigger-piece-of-cairo/|👨🏿‍🚀TechCabal Daily – A bigger piece of Cairo
 https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/|Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool
+https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/|Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says

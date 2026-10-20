@@ -6304,3 +6304,4 @@ https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-ye
 https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/|Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says
 https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/|Eka is worth $1.45B thanks to a physical AI model that has experts raving
 https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/|Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool
+https://news.crunchbase.com/startups/bootstrapping-billion-dollar-company-ai-staffing-demarco-bairesdev/|How To Build A Billion-Dollar Company Without Venture Capital

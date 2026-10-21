@@ -6336,3 +6336,4 @@ https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-ha
 https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/|Anthropic’s cloud partnerships are getting messy
 https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/|SpaceX’s AI business is beating expectations
 https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/|OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business
+https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/|Anthropic pitches AI safety bill that may block a model if 50+ people could be killed

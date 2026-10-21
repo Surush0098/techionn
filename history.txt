@@ -6369,3 +6369,4 @@ https://news.crunchbase.com/ma/acquired-startup-employees-equity-plans-from-honi
 https://news.crunchbase.com/venture/ai-edtech-healthcare-reach-capital-qa-kim/|‘Weird And Maybe Uninvestable’: How Reach Capital Spots Its Venture Winners
 https://www.eu-startups.com/2026/10/theres-no-stopping-legora-e489-million-for-stockholms-legaltech-unicorn/|There’s no stopping Legora – €489 million for Stockholm’s LegalTech Unicorn
 https://www.eu-startups.com/2026/10/fuse-energy-bets-on-nvidia-gpus-as-it-expands-from-energy-supply-into-ai-infrastructure/|Fuse Energy bets on NVIDIA GPUs as it expands from energy supply into AI infrastructure
+https://www.eu-startups.com/2026/10/eindhoven-based-photon-bridge-raises-e10-million-to-build-optical-engines-for-ai-and-telecom/|Eindhoven-based Photon Bridge raises €10 million to build optical engines for AI and telecom

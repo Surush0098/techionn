@@ -6338,3 +6338,4 @@ https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/|S
 https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/|OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business
 https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/|Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
 https://yourstory.com/2026/10/amazon-bets-on-agentic-ai-marketing-ai-tool-is-it-driving-profit-clevertap|Amazon bets on agentic AI to power enterprise ops; Is your marketing AI tool driving profit or just noise?
+https://www.wired.com/story/europe-data-centers-climate-change/|Can Europe Build Data Centers Without Giving Up Its Climate Goals?

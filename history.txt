@@ -6362,3 +6362,4 @@ https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-
 https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/|‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire
 https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/|AI Guardrails Aren’t Stopping Criminal Hackers
 https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/|Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone
+https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/|A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse

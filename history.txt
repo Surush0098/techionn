@@ -6361,3 +6361,4 @@ https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-soft
 https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/|AI promises productivity, but for managers, it’s mostly a headache for now
 https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/|‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire
 https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/|AI Guardrails Aren’t Stopping Criminal Hackers
+https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy/|Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone

@@ -6391,3 +6391,4 @@ https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-ou
 https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/|This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good
 https://yourstory.com/2026/10/deepinder-goyal-ai-privacy-focused-engine-darkai|Deepinder Goyal to foray into AI with privacy-focused engine Dark.ai
 https://www.eu-startups.com/2026/10/barcelonas-masia-closes-e18-million-debut-fund-and-opens-a-physical-hub-for-frontier-tech-founders-and-investors/|Barcelona’s Masia closes €18 million debut fund and opens a physical hub for frontier tech founders and investors
+https://www.eu-startups.com/2026/10/backed-by-yann-lecun-and-arthur-mensch-swiss-physical-ai-startup-enact-intelligence-exits-stealth-with-e26-68-million/|Backed by Yann LeCun and Arthur Mensch, Swiss Physical AI startup Enact Intelligence exits stealth with €26.68 million

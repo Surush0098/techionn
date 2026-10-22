@@ -6398,3 +6398,4 @@ https://techcabal.com/2026/10/22/african-cloud-infrastructure-exploitation/|Afri
 https://techcabal.com/2026/10/22/techcabal-daily-catastrophe-averted/|👨🏿‍🚀TechCabal Daily – ‘Crypto averts catastrophe’
 https://www.zoomit.ir/ai-articles/469593-anthropic-claude-duet-ai-agent/|کلاد دوئت رونمایی شد؛ عامل هوش مصنوعی قدرتمند آنتروپیک برای رقابت با «میوس» و «داتس»
 https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/|DeepSeek reportedly raises $15B days after US restrictions
+https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/|Hugging Face’s New AI Biology Model Lets You Chat With DNA

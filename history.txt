@@ -6400,3 +6400,4 @@ https://www.zoomit.ir/ai-articles/469593-anthropic-claude-duet-ai-agent/|کلا�
 https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/|DeepSeek reportedly raises $15B days after US restrictions
 https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/|Hugging Face’s New AI Biology Model Lets You Chat With DNA
 https://news.crunchbase.com/fintech-ecommerce/insuretech/startup-slingshot-insurance-seed-funding-genteman/|Exclusive: Slingshot Raises $27M In Seed Funding To Build An Insurer For Those Small Policies Sold At Checkout
+https://news.crunchbase.com/public/ai-ipo-wave-anthropic-openai-delay-gurtu-airrived/|The AI IPO Wave Is The Dot-Com Bubble’s Evil Twin. Anthropic’s Delay Just Proved It.

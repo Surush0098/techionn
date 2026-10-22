@@ -6419,3 +6419,4 @@ https://techcabal.com/2026/10/22/are-african-banks-seeing-ai-returns/|Spend firs
 https://www.zoomit.ir/ai-articles/469643-ai-companies-record-lobbying-quarter/|لابی ۵٫۸ میلیون دلاری غول‌های هوش مصنوعی در پایتخت آمریکا
 https://www.zoomit.ir/software-news/469603-knight-capital-trading-software-glitch/|انتشار ناقص یک کد در ۴۵ دقیقه ۴۶۰ میلیون دلار را نابود کرد!
 https://www.zoomit.ir/ai-articles/469637-bill-gates-patel-interview-ai/|هشدار ترسناک بیل گیتس: ۲۰ سال پرآشوب در انتظار جهان است
+https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/|OpenAI working on new $30B raise at $1.25T valuation ahead of IPO

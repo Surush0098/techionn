@@ -6424,3 +6424,4 @@ https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-s
 https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/|OpenAI working on new $30B raise at $1.25T valuation ahead of IPO
 https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/|1Password launches a way for AI agents to log in on your behalf without seeing your password
 https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/|Canva releases its first image generation model
+https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/|OpenAI makes its Jev competitor widely available as decision model competition heats up

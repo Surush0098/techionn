@@ -6445,3 +6445,4 @@ https://startup360.ir/weekly-startups-podcast-episode-341/|پادکست اخبا
 https://www.zoomit.ir/security/469667-php-critical-vulnerability-black-october/|«اکتبر سیاه»؛ چرا بخش بزرگی از اینترنت تعطیل شد؟
 https://www.zoomit.ir/ai-articles/469666-canva-craft-ai-image-model/|نخستین مدل تصویرساز Canva با معماری دومرحله‌ای از راه رسید
 https://www.zoomit.ir/business/469664-nvidia-tcv-invest-higgsfield-ai-video/|انویدیا در استارتاپ هوش مصنوعی Higgsfield سرمایه‌گذاری کرد
+https://www.zoomit.ir/pr/469659-slow-woocommerce-checkout-speed-reasons/|لیارا: چرا سایت سریع است، اما موقع خرید کند می‌شود؟

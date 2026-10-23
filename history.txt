@@ -6427,3 +6427,4 @@ https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-mode
 https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/|OpenAI makes its Jev competitor widely available as decision model competition heats up
 https://www.wired.com/story/aged-intelligence-society-interview/|The Social Society Helping Women Join the AI Boom
 https://www.zoomit.ir/security/469654-unauthorized-ai-agents-us-bank-accounts/|بحران عجیب بانک‌های آمریکایی: ورود غیرقانونی هوش مصنوعی به حساب‌ها
+https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/|Warhound raises $200M to engineer war dogs and arm them with Anduril gear

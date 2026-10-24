@@ -6475,3 +6475,4 @@ https://www.zoomit.ir/security/469679-bitcoin-core-security-policy-ai/|هوش م
 https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/|The PHP Meltdown Shows How AI Makes Bugs More Exploitable
 https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/|New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent
 https://startup360.ir/cyberspace-regulation-bill-ecommerce-association-criticism/|انجمن تجارت الکترونیک خواستار حذف مقررات موازی از طرح نظام‌بخشی فضای مجازی شد
+https://startup360.ir/reason-ai-accelerator-golrang-startup-funding/|مشتری اول در دل صنعت و ۱ میلیارد تومان سرمایه؛ فراخوان REASON برای استارتاپ‌های هوش مصنوعی

@@ -6493,3 +6493,4 @@ https://www.zoomit.ir/business/469623-barclays-cuts-jobs-ai-efficiency/|جایگ
 https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/|The AI graveyard: a running list of projects and startups that didn’t make it
 https://www.zoomit.ir/ai-articles/469779-bill-gates-ai-risk-regulation-featured/|بیل گیتس: از کلاد پرسیدم چطور شغل‌ها را برای انسان نگه داریم؟ هوش مصنوعی سلاح اتمی را ناچیز جلوه می‌دهد
 https://www.zoomit.ir/business/469705-openai-safety-researchers-fired/|چت‌های لورفته‌ای که به اخراج ۳ دانشمند اوپن‌ای‌آی انجامید
+https://www.zoomit.ir/aviation-aerospace/469784-ukraine-wants-build-own-satellite-communication-network/|اوکراین با همکاری نوکیا درصدد راه‌اندازی شبکه اینترنت ماهواره‌ای خود است

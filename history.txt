@@ -6467,3 +6467,4 @@ https://www.zoomit.ir/health-medical/469638-pig-kidneys-revived-after-year-froze
 https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/|VCs, Superhuman Mail founder share red flags about product-market fit
 https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/|TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now
 https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/|Startups don’t need to go viral to win customers
+https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/|OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”

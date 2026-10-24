@@ -6473,3 +6473,4 @@ https://www.zoomit.ir/iran-news/469756-health-insurance-electronic-prescription-
 https://www.zoomit.ir/ai-articles/469732-openai-trains-models-without-internet/|اوپن‌ای‌آی حالا هوش مصنوعی پرچمدارش را بدون اینترنت آموزش می‌دهد
 https://www.zoomit.ir/security/469679-bitcoin-core-security-policy-ai/|هوش مصنوعی، سیاست امنیتی Bitcoin Core را تغییر داد
 https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/|The PHP Meltdown Shows How AI Makes Bugs More Exploitable
+https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/|New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent
